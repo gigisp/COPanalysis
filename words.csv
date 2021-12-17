@@ -1,0 +1,5236 @@
+,year,word_type,word,word_freq
+67,2021,verb,climate,7
+11,2021,verb,success,6
+27,2021,verb,work,5
+35,2021,verb,humanity,5
+39,2021,verb,emissions,5
+71,2021,verb,parties,5
+154,2021,verb,era,5
+14,2021,verb,process,4
+30,2021,verb,day,4
+32,2021,verb,colleagues,4
+70,2021,verb,implementation,4
+78,2021,verb,nations,4
+85,2021,verb,support,4
+107,2021,verb,change,4
+33,2021,verb,point,3
+34,2021,verb,history,3
+42,2021,verb,future,3
+73,2021,verb,world,3
+76,2021,verb,solutions,3
+9,2021,verb,years,2
+10,2021,verb,efforts,2
+12,2021,verb,congratulations,2
+17,2021,verb,decisions,2
+25,2021,verb,issue,2
+26,2021,verb,generation,2
+36,2021,verb,choices,2
+37,2021,verb,scale,2
+38,2021,verb,reductions,2
+40,2021,verb,goal,2
+44,2021,verb,adaptation,2
+48,2021,verb,impacts,2
+49,2021,verb,people,2
+54,2021,verb,transition,2
+64,2021,verb,action,2
+77,2021,verb,news,2
+92,2021,verb,end,2
+100,2021,verb,path,2
+105,2021,verb,science,2
+110,2021,verb,land,2
+111,2021,verb,oceans,2
+150,2021,verb,task,2
+0,2021,verb,guests,1
+1,2021,verb,delegates,1
+2,2021,verb,ladies,1
+3,2021,verb,gentlemen,1
+4,2021,verb,wait,1
+5,2021,verb,joy,1
+6,2021,verb,enthusiasm,1
+7,2021,verb,cop,1
+8,2021,verb,leadership,1
+13,2021,verb,room,1
+15,2021,verb,confusion,1
+16,2021,verb,pandemic,1
+18,2021,verb,skills,1
+19,2021,verb,advantage,1
+20,2021,verb,communication,1
+21,2021,verb,technologies,1
+22,2021,verb,covid-19,1
+23,2021,verb,hearts,1
+24,2021,verb,way,1
+28,2021,verb,heart,1
+29,2021,verb,poet,1
+31,2021,verb,hour,1
+41,2021,verb,warming,1
+43,2021,verb,planet,1
+45,2021,verb,weather,1
+46,2021,verb,disasters,1
+47,2021,verb,resilience,1
+50,2021,verb,families,1
+51,2021,verb,harm,1
+52,2021,verb,business,1
+53,2021,verb,price,1
+55,2021,verb,extinction,1
+56,2021,verb,environment,1
+57,2021,verb,peace,1
+58,2021,verb,stability,1
+59,2021,verb,institutions,1
+60,2021,verb,wellbeing,1
+61,2021,verb,reasons,1
+62,2021,verb,progress,1
+63,2021,verb,platform,1
+65,2021,verb,covenant,1
+66,2021,verb,hope,1
+68,2021,verb,goals,1
+69,2021,verb,potential,1
+72,2021,verb,accumulation,1
+74,2021,verb,repercussions,1
+75,2021,verb,pathway,1
+79,2021,verb,ndcs,1
+80,2021,verb,ambition,1
+81,2021,verb,board,1
+82,2021,verb,emitters,1
+83,2021,verb,cent,1
+84,2021,verb,provision,1
+86,2021,verb,cornerstone,1
+87,2021,verb,commitment,1
+88,2021,verb,delivery,1
+89,2021,verb,plan,1
+90,2021,verb,week,1
+91,2021,verb,start,1
+93,2021,verb,detail,1
+94,2021,verb,actions,1
+95,2021,verb,transformations,1
+96,2021,verb,trillions,1
+97,2021,verb,respect,1
+98,2021,verb,countries,1
+99,2021,verb,development,1
+101,2021,verb,spirit,1
+102,2021,verb,multilateralism,1
+103,2021,verb,adoption,1
+104,2021,verb,commitments,1
+106,2021,verb,data,1
+108,2021,verb,intensifying,1
+109,2021,verb,region,1
+112,2021,verb,number,1
+113,2021,verb,temperature,1
+114,2021,verb,rise,1
+115,2021,verb,1.5c,1
+116,2021,verb,century,1
+117,2021,verb,studies,1
+118,2021,verb,statistics,1
+119,2021,verb,story,1
+120,2021,verb,numbers,1
+121,2021,verb,lives,1
+122,2021,verb,island,1
+123,2021,verb,states,1
+124,2021,verb,waters,1
+125,2021,verb,school,1
+126,2021,verb,children,1
+127,2021,verb,futures,1
+128,2021,verb,women,1
+129,2021,verb,burden,1
+130,2021,verb,home,1
+131,2021,verb,search,1
+132,2021,verb,minute,1
+133,2021,verb,door,1
+134,2021,verb,youth,1
+135,2021,verb,message,1
+136,2021,verb,inclusion,1
+137,2021,verb,foundation,1
+138,2021,verb,voices,1
+139,2021,verb,proposals,1
+140,2021,verb,engagement,1
+141,2021,verb,observers,1
+142,2021,verb,stakeholders,1
+143,2021,verb,ideas,1
+144,2021,verb,discussions,1
+145,2021,verb,emergency,1
+146,2021,verb,solution,1
+147,2021,verb,scope,1
+148,2021,verb,speed,1
+149,2021,verb,past,1
+151,2021,verb,species,1
+152,2021,verb,ingenuity,1
+153,2021,verb,centuries,1
+155,2021,verb,technology,1
+156,2021,verb,innovation,1
+157,2021,verb,division,1
+158,2021,verb,damage,1
+159,2021,verb,lessons,1
+160,2021,verb,prosperity,1
+161,2021,verb,term,1
+162,2021,verb,gain,1
+163,2021,verb,relationships,1
+164,2021,verb,nature,1
+165,2021,verb,biodiversity,1
+166,2021,verb,starting,1
+167,2021,verb,beginning,1
+168,2021,verb,grasp,1
+169,2021,verb,completion,1
+170,2021,verb,weeks,1
+171,2021,verb,picture,1
+172,2021,verb,mind,1
+173,2021,verb,agenda,1
+174,2021,verb,item,1
+175,2021,verb,trust,1
+176,2021,verb,billions,1
+177,2021,verb,challenge,1
+178,2021,verb,times,1
+179,2021,verb,generations,1
+18,2021,noun chunk,we,43
+4,2021,noun chunk,it,17
+7,2021,noun chunk,i,17
+8,2021,noun chunk,you,13
+9,2021,noun chunk,cop26,8
+35,2021,noun chunk,us,6
+78,2021,noun chunk,success,6
+163,2021,noun chunk,they,6
+27,2021,noun chunk,what,5
+50,2021,noun chunk,humanity,5
+81,2021,noun chunk,the paris agreement,5
+199,2021,noun chunk,an era,4
+49,2021,noun chunk,history,3
+53,2021,noun chunk,emissions,3
+88,2021,noun chunk,parties,3
+99,2021,noun chunk,solutions,3
+142,2021,noun chunk,climate change,3
+207,2021,noun chunk,ours,3
+19,2021,noun chunk,congratulations,2
+22,2021,noun chunk,this process,2
+34,2021,noun chunk,who,2
+56,2021,noun chunk,a bleak future,2
+60,2021,noun chunk,resilience,2
+77,2021,noun chunk,glasgow,2
+87,2021,noun chunk,full implementation,2
+96,2021,noun chunk,the world,2
+122,2021,noun chunk,the end,2
+135,2021,noun chunk,all parties,2
+0,2021,noun chunk,honourable guests distinguished delegates,1
+1,2021,noun chunk,ladies,1
+2,2021,noun chunk,gentlemen,1
+3,2021,noun chunk,our long wait,1
+5,2021,noun chunk,joy,1
+6,2021,noun chunk,enthusiasm,1
+10,2021,noun chunk,the outgoing cop presidency,1
+11,2021,noun chunk,chile,1
+12,2021,noun chunk,especially minister schmidt,1
+13,2021,noun chunk,their leadership,1
+14,2021,noun chunk,the last two challenging years,1
+15,2021,noun chunk,the incoming uk presidency,1
+16,2021,noun chunk,minister sharma,1
+17,2021,noun chunk,your collaborative efforts,1
+20,2021,noun chunk,this room,1
+21,2021,noun chunk,everyone,1
+23,2021,noun chunk,the last two years,1
+24,2021,noun chunk,madrid,1
+25,2021,noun chunk,the early confusion,1
+26,2021,noun chunk,the pandemic,1
+28,2021,noun chunk,our process,1
+29,2021,noun chunk,the decisions,1
+30,2021,noun chunk,advantage,1
+31,2021,noun chunk,communication technologies,1
+32,2021,noun chunk,covid-19,1
+33,2021,noun chunk,our hearts,1
+36,2021,noun chunk,the process,1
+37,2021,noun chunk,the way,1
+38,2021,noun chunk,the most critical issue,1
+39,2021,noun chunk,this generation,1
+40,2021,noun chunk,your work,1
+41,2021,noun chunk,the bottom,1
+42,2021,noun chunk,my heart,1
+43,2021,noun chunk,’s,1
+44,2021,noun chunk,work,1
+45,2021,noun chunk,scottish poet robert burns,1
+46,2021,noun chunk,the day,1
+47,2021,noun chunk,the hour,1
+48,2021,noun chunk,a pivotal point,1
+51,2021,noun chunk,several stark but clear choices,1
+52,2021,noun chunk,rapid and large-scale reductions,1
+54,2021,noun chunk,the goal,1
+55,2021,noun chunk,global warming,1
+57,2021,noun chunk,this planet,1
+58,2021,noun chunk,adaptation efforts,1
+59,2021,noun chunk,current extreme weather disasters,1
+61,2021,noun chunk,future impacts,1
+62,2021,noun chunk,more people,1
+63,2021,noun chunk,more families,1
+64,2021,noun chunk,more economic harm,1
+65,2021,noun chunk,that business,1
+66,2021,noun chunk,the devastating price,1
+67,2021,noun chunk,the necessary transition,1
+68,2021,noun chunk,a more sustainable future,1
+69,2021,noun chunk,our own extinction,1
+70,2021,noun chunk,environment,1
+71,2021,noun chunk,peace,1
+72,2021,noun chunk,stability,1
+73,2021,noun chunk,the institutions,1
+74,2021,noun chunk,the wellbeing,1
+75,2021,noun chunk,these reasons,1
+76,2021,noun chunk,progress,1
+79,2021,noun chunk,the platform,1
+80,2021,noun chunk,action,1
+82,2021,noun chunk,a covenant,1
+83,2021,noun chunk,hope,1
+84,2021,noun chunk,everything,1
+85,2021,noun chunk,our climate goals,1
+86,2021,noun chunk,its potential,1
+89,2021,noun chunk,outstanding work,1
+90,2021,noun chunk,the agreement,1
+91,2021,noun chunk,every day,1
+92,2021,noun chunk,a wasted day,1
+93,2021,noun chunk,the accumulation,1
+94,2021,noun chunk,real-world repercussions,1
+95,2021,noun chunk,people,1
+97,2021,noun chunk,the necessary work,1
+98,2021,noun chunk,the pathway,1
+100,2021,noun chunk,the recently-updated un climate change ndc synthesis report,1
+101,2021,noun chunk,that’s the bad news,1
+102,2021,noun chunk,the good news,1
+103,2021,noun chunk,those nations,1
+104,2021,noun chunk,a new and updated ndcs,1
+105,2021,noun chunk,even more ambition,1
+106,2021,noun chunk,all nations,1
+107,2021,noun chunk,board,1
+108,2021,noun chunk,especially the highest emitters,1
+109,2021,noun chunk,the g20,1
+110,2021,noun chunk,cent,1
+111,2021,noun chunk,global emissions,1
+112,2021,noun chunk,provision,1
+113,2021,noun chunk,support,1
+114,2021,noun chunk,developing nations,1
+115,2021,noun chunk,another cornerstone,1
+116,2021,noun chunk,adequate support,1
+117,2021,noun chunk,emissions reductions,1
+118,2021,noun chunk,the commitment,1
+119,2021,noun chunk,developed nations,1
+120,2021,noun chunk,the delivery plan,1
+121,2021,noun chunk,a start,1
+123,2021,noun chunk,more detail and concrete actions,1
+124,2021,noun chunk,the necessary support,1
+125,2021,noun chunk,the transformations,1
+126,2021,noun chunk,the 1.5-degree goal,1
+127,2021,noun chunk,the trillions,1
+128,2021,noun chunk,respect,1
+129,2021,noun chunk,financial support,1
+130,2021,noun chunk,the most vulnerable countries,1
+131,2021,noun chunk,the development,1
+132,2021,noun chunk,implementation,1
+133,2021,noun chunk,national adaptation plans,1
+134,2021,noun chunk,a clear path,1
+136,2021,noun chunk,the spirit,1
+137,2021,noun chunk,multilateralism,1
+138,2021,noun chunk,the adoption,1
+139,2021,noun chunk,their commitments,1
+140,2021,noun chunk,the science,1
+141,2021,noun chunk,the data,1
+143,2021,noun chunk,every region,1
+144,2021,noun chunk,earth,1
+145,2021,noun chunk,land,1
+146,2021,noun chunk,the oceans,1
+147,2021,noun chunk,one number,1
+148,2021,noun chunk,all others,1
+149,2021,noun chunk,global temperature rise,1
+150,2021,noun chunk,1.5c,1
+151,2021,noun chunk,the century,1
+152,2021,noun chunk,the ipcc,1
+153,2021,noun chunk,the ndc synthesis report,1
+154,2021,noun chunk,the emissions gap report,1
+155,2021,noun chunk,that path,1
+156,2021,noun chunk,science,1
+157,2021,noun chunk,their decisions,1
+158,2021,noun chunk,studies,1
+159,2021,noun chunk,statistics,1
+160,2021,noun chunk,one story,1
+161,2021,noun chunk,the numbers,1
+162,2021,noun chunk,the human lives,1
+164,2021,noun chunk,the small island states,1
+165,2021,noun chunk,rising waters,1
+166,2021,noun chunk,school children,1
+167,2021,noun chunk,their futures,1
+168,2021,noun chunk,women,1
+169,2021,noun chunk,the burden,1
+170,2021,noun chunk,home,1
+171,2021,noun chunk,the search,1
+172,2021,noun chunk,the door,1
+173,2021,noun chunk,youth,1
+174,2021,noun chunk,the message,1
+175,2021,noun chunk,climate,1
+176,2021,noun chunk,a global issue,1
+177,2021,noun chunk,total inclusion,1
+178,2021,noun chunk,the foundation,1
+179,2021,noun chunk,all voices,1
+180,2021,noun chunk,proposals,1
+181,2021,noun chunk,the engagement,1
+182,2021,noun chunk,observers,1
+183,2021,noun chunk,other stakeholders,1
+184,2021,noun chunk,their ideas,1
+185,2021,noun chunk,the discussions,1
+186,2021,noun chunk,the same climate emergency,1
+187,2021,noun chunk,part,1
+188,2021,noun chunk,the solution,1
+189,2021,noun chunk,the transition,1
+190,2021,noun chunk,the scope,1
+191,2021,noun chunk,scale,1
+192,2021,noun chunk,speed,1
+193,2021,noun chunk,anything,1
+194,2021,noun chunk,the past,1
+195,2021,noun chunk,a daunting task,1
+196,2021,noun chunk,a species,1
+197,2021,noun chunk,its ingenuity,1
+198,2021,noun chunk,the industrial revolution,1
+200,2021,noun chunk,the technology,1
+201,2021,noun chunk,innovation,1
+202,2021,noun chunk,their day,1
+203,2021,noun chunk,the residual impacts,1
+204,2021,noun chunk,greater economic and social division,1
+205,2021,noun chunk,environmental damage,1
+206,2021,noun chunk,the lessons,1
+208,2021,noun chunk,the prosperity,1
+209,2021,noun chunk,the short-term gain,1
+210,2021,noun chunk,healthier relationships,1
+211,2021,noun chunk,nature,1
+212,2021,noun chunk,our land,1
+213,2021,noun chunk,oceans,1
+214,2021,noun chunk,biodiversity,1
+215,2021,noun chunk,the starting point,1
+216,2021,noun chunk,this new era,1
+217,2021,noun chunk,this new age,1
+218,2021,noun chunk,its beginning,1
+219,2021,noun chunk,our grasp,1
+220,2021,noun chunk,the completion,1
+221,2021,noun chunk,our work,1
+222,2021,noun chunk,the full implementation,1
+223,2021,noun chunk,more climate action,1
+224,2021,noun chunk,colleagues,1
+225,2021,noun chunk,the task,1
+226,2021,noun chunk,these two weeks,1
+227,2021,noun chunk,the big picture,1
+228,2021,noun chunk,mind,1
+229,2021,noun chunk,your specific agenda item,1
+230,2021,noun chunk,the choices,1
+231,2021,noun chunk,the trust,1
+232,2021,noun chunk,billions,1
+233,2021,noun chunk,the enormous challenge,1
+234,2021,noun chunk,our times,1
+235,2021,noun chunk,not just our present generation,1
+236,2021,noun chunk,all generations,1
+67,2021,noun,climate,7
+11,2021,noun,success,6
+27,2021,noun,work,5
+35,2021,noun,humanity,5
+39,2021,noun,emissions,5
+71,2021,noun,parties,5
+154,2021,noun,era,5
+14,2021,noun,process,4
+30,2021,noun,day,4
+32,2021,noun,colleagues,4
+70,2021,noun,implementation,4
+78,2021,noun,nations,4
+85,2021,noun,support,4
+107,2021,noun,change,4
+33,2021,noun,point,3
+34,2021,noun,history,3
+42,2021,noun,future,3
+73,2021,noun,world,3
+76,2021,noun,solutions,3
+9,2021,noun,years,2
+10,2021,noun,efforts,2
+12,2021,noun,congratulations,2
+17,2021,noun,decisions,2
+25,2021,noun,issue,2
+26,2021,noun,generation,2
+36,2021,noun,choices,2
+37,2021,noun,scale,2
+38,2021,noun,reductions,2
+40,2021,noun,goal,2
+44,2021,noun,adaptation,2
+48,2021,noun,impacts,2
+49,2021,noun,people,2
+54,2021,noun,transition,2
+64,2021,noun,action,2
+77,2021,noun,news,2
+92,2021,noun,end,2
+100,2021,noun,path,2
+105,2021,noun,science,2
+110,2021,noun,land,2
+111,2021,noun,oceans,2
+150,2021,noun,task,2
+0,2021,noun,guests,1
+1,2021,noun,delegates,1
+2,2021,noun,ladies,1
+3,2021,noun,gentlemen,1
+4,2021,noun,wait,1
+5,2021,noun,joy,1
+6,2021,noun,enthusiasm,1
+7,2021,noun,cop,1
+8,2021,noun,leadership,1
+13,2021,noun,room,1
+15,2021,noun,confusion,1
+16,2021,noun,pandemic,1
+18,2021,noun,skills,1
+19,2021,noun,advantage,1
+20,2021,noun,communication,1
+21,2021,noun,technologies,1
+22,2021,noun,covid-19,1
+23,2021,noun,hearts,1
+24,2021,noun,way,1
+28,2021,noun,heart,1
+29,2021,noun,poet,1
+31,2021,noun,hour,1
+41,2021,noun,warming,1
+43,2021,noun,planet,1
+45,2021,noun,weather,1
+46,2021,noun,disasters,1
+47,2021,noun,resilience,1
+50,2021,noun,families,1
+51,2021,noun,harm,1
+52,2021,noun,business,1
+53,2021,noun,price,1
+55,2021,noun,extinction,1
+56,2021,noun,environment,1
+57,2021,noun,peace,1
+58,2021,noun,stability,1
+59,2021,noun,institutions,1
+60,2021,noun,wellbeing,1
+61,2021,noun,reasons,1
+62,2021,noun,progress,1
+63,2021,noun,platform,1
+65,2021,noun,covenant,1
+66,2021,noun,hope,1
+68,2021,noun,goals,1
+69,2021,noun,potential,1
+72,2021,noun,accumulation,1
+74,2021,noun,repercussions,1
+75,2021,noun,pathway,1
+79,2021,noun,ndcs,1
+80,2021,noun,ambition,1
+81,2021,noun,board,1
+82,2021,noun,emitters,1
+83,2021,noun,cent,1
+84,2021,noun,provision,1
+86,2021,noun,cornerstone,1
+87,2021,noun,commitment,1
+88,2021,noun,delivery,1
+89,2021,noun,plan,1
+90,2021,noun,week,1
+91,2021,noun,start,1
+93,2021,noun,detail,1
+94,2021,noun,actions,1
+95,2021,noun,transformations,1
+96,2021,noun,trillions,1
+97,2021,noun,respect,1
+98,2021,noun,countries,1
+99,2021,noun,development,1
+101,2021,noun,spirit,1
+102,2021,noun,multilateralism,1
+103,2021,noun,adoption,1
+104,2021,noun,commitments,1
+106,2021,noun,data,1
+108,2021,noun,intensifying,1
+109,2021,noun,region,1
+112,2021,noun,number,1
+113,2021,noun,temperature,1
+114,2021,noun,rise,1
+115,2021,noun,1.5c,1
+116,2021,noun,century,1
+117,2021,noun,studies,1
+118,2021,noun,statistics,1
+119,2021,noun,story,1
+120,2021,noun,numbers,1
+121,2021,noun,lives,1
+122,2021,noun,island,1
+123,2021,noun,states,1
+124,2021,noun,waters,1
+125,2021,noun,school,1
+126,2021,noun,children,1
+127,2021,noun,futures,1
+128,2021,noun,women,1
+129,2021,noun,burden,1
+130,2021,noun,home,1
+131,2021,noun,search,1
+132,2021,noun,minute,1
+133,2021,noun,door,1
+134,2021,noun,youth,1
+135,2021,noun,message,1
+136,2021,noun,inclusion,1
+137,2021,noun,foundation,1
+138,2021,noun,voices,1
+139,2021,noun,proposals,1
+140,2021,noun,engagement,1
+141,2021,noun,observers,1
+142,2021,noun,stakeholders,1
+143,2021,noun,ideas,1
+144,2021,noun,discussions,1
+145,2021,noun,emergency,1
+146,2021,noun,solution,1
+147,2021,noun,scope,1
+148,2021,noun,speed,1
+149,2021,noun,past,1
+151,2021,noun,species,1
+152,2021,noun,ingenuity,1
+153,2021,noun,centuries,1
+155,2021,noun,technology,1
+156,2021,noun,innovation,1
+157,2021,noun,division,1
+158,2021,noun,damage,1
+159,2021,noun,lessons,1
+160,2021,noun,prosperity,1
+161,2021,noun,term,1
+162,2021,noun,gain,1
+163,2021,noun,relationships,1
+164,2021,noun,nature,1
+165,2021,noun,biodiversity,1
+166,2021,noun,starting,1
+167,2021,noun,beginning,1
+168,2021,noun,grasp,1
+169,2021,noun,completion,1
+170,2021,noun,weeks,1
+171,2021,noun,picture,1
+172,2021,noun,mind,1
+173,2021,noun,agenda,1
+174,2021,noun,item,1
+175,2021,noun,trust,1
+176,2021,noun,billions,1
+177,2021,noun,challenge,1
+178,2021,noun,times,1
+179,2021,noun,generations,1
+45,2019,verb,climate,7
+5,2019,verb,region,5
+47,2019,verb,year,5
+23,2019,verb,path,4
+75,2019,verb,implementation,4
+78,2019,verb,work,4
+14,2019,verb,ministers,3
+21,2019,verb,hope,3
+62,2019,verb,window,3
+63,2019,verb,opportunity,3
+77,2019,verb,ambition,3
+84,2019,verb,transparency,3
+105,2019,verb,action,3
+107,2019,verb,article,3
+3,2019,verb,governments,2
+7,2019,verb,leadership,2
+15,2019,verb,week,2
+16,2019,verb,schedule,2
+17,2019,verb,level,2
+18,2019,verb,humanity,2
+27,2019,verb,nations,2
+44,2019,verb,world,2
+46,2019,verb,emergency,2
+48,2019,verb,reports,2
+49,2019,verb,elements,2
+50,2019,verb,planet,2
+59,2019,verb,future,2
+64,2019,verb,message,2
+66,2019,verb,time,2
+76,2019,verb,building,2
+90,2019,verb,etf,2
+93,2019,verb,progress,2
+111,2019,verb,mitigation,2
+113,2019,verb,support,2
+114,2019,verb,adaptation,2
+119,2019,verb,markets,2
+0,2019,verb,address,1
+1,2019,verb,opening,1
+2,2019,verb,delegates,1
+4,2019,verb,multilateralism,1
+6,2019,verb,spirit,1
+8,2019,verb,discussions,1
+9,2019,verb,doors,1
+10,2019,verb,hearts,1
+11,2019,verb,moment,1
+12,2019,verb,holiday,1
+13,2019,verb,season,1
+19,2019,verb,paths,1
+20,2019,verb,surrender,1
+22,2019,verb,evidence,1
+24,2019,verb,direction,1
+25,2019,verb,°,1
+26,2019,verb,1970s,1
+28,2019,verb,weather,1
+29,2019,verb,events,1
+30,2019,verb,economies,1
+31,2019,verb,decades,1
+32,2019,verb,trail,1
+33,2019,verb,devastation,1
+34,2019,verb,monster,1
+35,2019,verb,storm,1
+36,2019,verb,category,1
+37,2019,verb,hell,1
+38,2019,verb,drought,1
+39,2019,verb,conditions,1
+40,2019,verb,challenges,1
+41,2019,verb,hunger,1
+42,2019,verb,poverty,1
+43,2019,verb,migration,1
+51,2019,verb,fossil,1
+52,2019,verb,fuel,1
+53,2019,verb,industries,1
+54,2019,verb,consumption,1
+55,2019,verb,habits,1
+56,2019,verb,emissions,1
+57,2019,verb,transformation,1
+58,2019,verb,society,1
+60,2019,verb,anniversary,1
+61,2019,verb,cop,1
+65,2019,verb,decisions,1
+67,2019,verb,covenant,1
+68,2019,verb,people,1
+69,2019,verb,force,1
+70,2019,verb,record,1
+71,2019,verb,success,1
+72,2019,verb,story,1
+73,2019,verb,adoption,1
+74,2019,verb,power,1
+79,2019,verb,cornerstones,1
+80,2019,verb,place,1
+81,2019,verb,impacts,1
+82,2019,verb,response,1
+83,2019,verb,measures,1
+85,2019,verb,package,1
+86,2019,verb,road,1
+87,2019,verb,map,1
+88,2019,verb,transition,1
+89,2019,verb,parties,1
+91,2019,verb,countries,1
+92,2019,verb,rise,1
+94,2019,verb,respect,1
+95,2019,verb,concept,1
+96,2019,verb,fundingand,1
+97,2019,verb,capacity,1
+98,2019,verb,tool,1
+99,2019,verb,trust,1
+100,2019,verb,results,1
+101,2019,verb,payments,1
+102,2019,verb,pipeline,1
+103,2019,verb,youth,1
+104,2019,verb,public,1
+106,2019,verb,promise,1
+108,2019,verb,economy,1
+109,2019,verb,need,1
+110,2019,verb,sector,1
+112,2019,verb,umbrella,1
+115,2019,verb,imbalance,1
+116,2019,verb,finance,1
+117,2019,verb,operationalizing,1
+118,2019,verb,carbon,1
+120,2019,verb,rules,1
+121,2019,verb,failure,1
+122,2019,verb,risks,1
+123,2019,verb,efforts,1
+124,2019,verb,lot,1
+125,2019,verb,issue,1
+126,2019,verb,agreement,1
+127,2019,verb,days,1
+128,2019,verb,weeks,1
+129,2019,verb,ndcs,1
+130,2019,verb,closes,1
+131,2019,verb,outcome,1
+16,2019,noun chunk,we,19
+88,2019,noun chunk,the paris agreement,9
+0,2019,noun chunk,dec,6
+25,2019,noun chunk,us,6
+62,2019,noun chunk,it,4
+9,2019,noun chunk,i,3
+15,2019,noun chunk,cop25,3
+34,2019,noun chunk,hope,3
+84,2019,noun chunk,you,3
+6,2019,noun chunk,ministers,2
+22,2019,noun chunk,who,2
+31,2019,noun chunk,humanity,2
+38,2019,noun chunk,the ipcc,2
+43,2019,noun chunk,nations,2
+55,2019,noun chunk,the region,2
+68,2019,noun chunk,this planet,2
+80,2019,noun chunk,the window,2
+81,2019,noun chunk,opportunity,2
+105,2019,noun chunk,experts,2
+118,2019,noun chunk,the etf,2
+120,2019,noun chunk,the implementation,2
+123,2019,noun chunk,progress,2
+134,2019,noun chunk,article,2
+145,2019,noun chunk,action,2
+153,2019,noun chunk,them,2
+155,2019,noun chunk,mitigation,2
+157,2019,noun chunk,support,2
+174,2019,noun chunk,madrid,2
+1,2019,noun chunk,1 1 address,1
+2,2019,noun chunk,unfccc executive secretary patricia espinosa,1
+3,2019,noun chunk,opening,1
+4,2019,noun chunk,hight level segment,1
+5,2019,noun chunk,cop25 excellencies,1
+7,2019,noun chunk,honourable guests,1
+8,2019,noun chunk,delegates,1
+10,2019,noun chunk,the governments,1
+11,2019,noun chunk,chile,1
+12,2019,noun chunk,spain,1
+13,2019,noun chunk,the spirit,1
+14,2019,noun chunk,inclusive multilateralism,1
+17,2019,noun chunk,the latin american and caribbean region,1
+18,2019,noun chunk,its spirit,1
+19,2019,noun chunk,leadership,1
+20,2019,noun chunk,these discussions,1
+21,2019,noun chunk,the madrileños,1
+23,2019,noun chunk,their doors,1
+24,2019,noun chunk,hearts,1
+26,2019,noun chunk,the last moment,1
+27,2019,noun chunk,the holiday season,1
+28,2019,noun chunk,an ambitious schedule,1
+29,2019,noun chunk,this high-level segment,1
+30,2019,noun chunk,secretary-general guterres,1
+32,2019,noun chunk,two paths,1
+33,2019,noun chunk,surrender,1
+35,2019,noun chunk,the scientific evidence,1
+36,2019,noun chunk,the right path,1
+37,2019,noun chunk,the wrong direction,1
+39,2019,noun chunk,the latin america and caribbean region,1
+40,2019,noun chunk,0.7°c,1
+41,2019,noun chunk,°c,1
+42,2019,noun chunk,the 1970s,1
+44,2019,noun chunk,extreme weather events,1
+45,2019,noun chunk,honduras,1
+46,2019,noun chunk,haiti,1
+47,2019,noun chunk,dominica,1
+48,2019,noun chunk,nicaragua,1
+49,2019,noun chunk,some economies,1
+50,2019,noun chunk,decades,1
+51,2019,noun chunk,hurricane dorian,1
+52,2019,noun chunk,the bahamas,1
+53,2019,noun chunk,a trail,1
+54,2019,noun chunk,devastation,1
+56,2019,noun chunk,secretarygeneral,1
+57,2019,noun chunk,category hell,1
+58,2019,noun chunk,drought conditions,1
+59,2019,noun chunk,existing challenges,1
+60,2019,noun chunk,increased hunger,1
+61,2019,noun chunk,poverty and forcing migration,1
+63,2019,noun chunk,one region,1
+64,2019,noun chunk,a world,1
+65,2019,noun chunk,a climate emergency,1
+66,2019,noun chunk,three reports,1
+67,2019,noun chunk,the very elements,1
+69,2019,noun chunk,governments,1
+70,2019,noun chunk,fossil fuel industries,1
+71,2019,noun chunk,our overall consumption habits,1
+72,2019,noun chunk,the unep gap report,1
+73,2019,noun chunk,emissions,1
+74,2019,noun chunk,the deep transformation,1
+75,2019,noun chunk,society,1
+76,2019,noun chunk,the 25th anniversary,1
+77,2019,noun chunk,un climate change,1
+78,2019,noun chunk,each year,1
+79,2019,noun chunk,the cop,1
+82,2019,noun chunk,both a professional and personal level,1
+83,2019,noun chunk,my message,1
+85,2019,noun chunk,your decisions,1
+86,2019,noun chunk,your leadership,1
+87,2019,noun chunk,time,1
+89,2019,noun chunk,a covenant,1
+90,2019,noun chunk,the people,1
+91,2019,noun chunk,the world,1
+92,2019,noun chunk,force,1
+93,2019,noun chunk,schedule,1
+94,2019,noun chunk,record time,1
+95,2019,noun chunk,an unprecedented multilateral success story,1
+96,2019,noun chunk,adoption,1
+97,2019,noun chunk,its work program,1
+98,2019,noun chunk,the power,1
+99,2019,noun chunk,implementation and building climate ambition,1
+100,2019,noun chunk,your work,1
+101,2019,noun chunk,the cornerstones,1
+102,2019,noun chunk,place,1
+103,2019,noun chunk,the constituted bodies,1
+104,2019,noun chunk,the consultative group,1
+106,2019,noun chunk,the koronivia joint work,1
+107,2019,noun chunk,agriculture,1
+108,2019,noun chunk,the katowice committee,1
+109,2019,noun chunk,the impacts,1
+110,2019,noun chunk,implementation,1
+111,2019,noun chunk,response measures,1
+112,2019,noun chunk,4 4 transparency,1
+113,2019,noun chunk,the katowice package,1
+114,2019,noun chunk,a clear road map,1
+115,2019,noun chunk,the transition,1
+116,2019,noun chunk,parties,1
+117,2019,noun chunk,the enhanced transparency framework,1
+119,2019,noun chunk,several developing countries,1
+121,2019,noun chunk,a rise,1
+122,2019,noun chunk,national transparency reports,1
+124,2019,noun chunk,respect,1
+125,2019,noun chunk,just a negotiated concept,1
+126,2019,noun chunk,a fully functioning fundingand capacity-building tool,1
+127,2019,noun chunk,the convention and paris agreement,1
+128,2019,noun chunk,transparency,1
+129,2019,noun chunk,trust,1
+130,2019,noun chunk,the green climate fund,1
+131,2019,noun chunk,redd++ results-based payments,1
+132,2019,noun chunk,the pipeline,1
+133,2019,noun chunk,most elements,1
+135,2019,noun chunk,the indigenous and local communities,1
+136,2019,noun chunk,platform,1
+137,2019,noun chunk,the gender platform,1
+138,2019,noun chunk,ace,1
+139,2019,noun chunk,youth,1
+140,2019,noun chunk,the public,1
+141,2019,noun chunk,climate action,1
+142,2019,noun chunk,its promise,1
+143,2019,noun chunk,some work,1
+144,2019,noun chunk,that ambition,1
+146,2019,noun chunk,the climate,1
+147,2019,noun chunk,emergency,1
+148,2019,noun chunk,every part,1
+149,2019,noun chunk,the economy,1
+150,2019,noun chunk,that urgent need,1
+151,2019,noun chunk,the only part,1
+152,2019,noun chunk,the private sector,1
+154,2019,noun chunk,ndcs,1
+156,2019,noun chunk,its umbrella,1
+158,2019,noun chunk,the persistent imbalance,1
+159,2019,noun chunk,adaptation,1
+160,2019,noun chunk,finance,1
+161,2019,noun chunk,carbon markets,1
+162,2019,noun chunk,the rules,1
+163,2019,noun chunk,everyone,1
+164,2019,noun chunk,failure,1
+165,2019,noun chunk,article six risks,1
+166,2019,noun chunk,those markets,1
+167,2019,noun chunk,a negative message,1
+168,2019,noun chunk,our overall climate efforts,1
+169,2019,noun chunk,a lot,1
+170,2019,noun chunk,technical work,1
+171,2019,noun chunk,this issue,1
+172,2019,noun chunk,the future,1
+173,2019,noun chunk,an agreement,1
+175,2019,noun chunk,the last few days,1
+176,2019,noun chunk,our work,1
+177,2019,noun chunk,more climate ambition,1
+178,2019,noun chunk,new and revised ndcs,1
+179,2019,noun chunk,our window,1
+180,2019,noun chunk,opportunity closes,1
+181,2019,noun chunk,a successful outcome,1
+182,2019,noun chunk,a new path,1
+183,2019,noun chunk,a better path,1
+184,2019,noun chunk,a path,1
+45,2019,noun,climate,7
+5,2019,noun,region,5
+47,2019,noun,year,5
+23,2019,noun,path,4
+75,2019,noun,implementation,4
+78,2019,noun,work,4
+14,2019,noun,ministers,3
+21,2019,noun,hope,3
+62,2019,noun,window,3
+63,2019,noun,opportunity,3
+77,2019,noun,ambition,3
+84,2019,noun,transparency,3
+105,2019,noun,action,3
+107,2019,noun,article,3
+3,2019,noun,governments,2
+7,2019,noun,leadership,2
+15,2019,noun,week,2
+16,2019,noun,schedule,2
+17,2019,noun,level,2
+18,2019,noun,humanity,2
+27,2019,noun,nations,2
+44,2019,noun,world,2
+46,2019,noun,emergency,2
+48,2019,noun,reports,2
+49,2019,noun,elements,2
+50,2019,noun,planet,2
+59,2019,noun,future,2
+64,2019,noun,message,2
+66,2019,noun,time,2
+76,2019,noun,building,2
+90,2019,noun,etf,2
+93,2019,noun,progress,2
+111,2019,noun,mitigation,2
+113,2019,noun,support,2
+114,2019,noun,adaptation,2
+119,2019,noun,markets,2
+0,2019,noun,address,1
+1,2019,noun,opening,1
+2,2019,noun,delegates,1
+4,2019,noun,multilateralism,1
+6,2019,noun,spirit,1
+8,2019,noun,discussions,1
+9,2019,noun,doors,1
+10,2019,noun,hearts,1
+11,2019,noun,moment,1
+12,2019,noun,holiday,1
+13,2019,noun,season,1
+19,2019,noun,paths,1
+20,2019,noun,surrender,1
+22,2019,noun,evidence,1
+24,2019,noun,direction,1
+25,2019,noun,°,1
+26,2019,noun,1970s,1
+28,2019,noun,weather,1
+29,2019,noun,events,1
+30,2019,noun,economies,1
+31,2019,noun,decades,1
+32,2019,noun,trail,1
+33,2019,noun,devastation,1
+34,2019,noun,monster,1
+35,2019,noun,storm,1
+36,2019,noun,category,1
+37,2019,noun,hell,1
+38,2019,noun,drought,1
+39,2019,noun,conditions,1
+40,2019,noun,challenges,1
+41,2019,noun,hunger,1
+42,2019,noun,poverty,1
+43,2019,noun,migration,1
+51,2019,noun,fossil,1
+52,2019,noun,fuel,1
+53,2019,noun,industries,1
+54,2019,noun,consumption,1
+55,2019,noun,habits,1
+56,2019,noun,emissions,1
+57,2019,noun,transformation,1
+58,2019,noun,society,1
+60,2019,noun,anniversary,1
+61,2019,noun,cop,1
+65,2019,noun,decisions,1
+67,2019,noun,covenant,1
+68,2019,noun,people,1
+69,2019,noun,force,1
+70,2019,noun,record,1
+71,2019,noun,success,1
+72,2019,noun,story,1
+73,2019,noun,adoption,1
+74,2019,noun,power,1
+79,2019,noun,cornerstones,1
+80,2019,noun,place,1
+81,2019,noun,impacts,1
+82,2019,noun,response,1
+83,2019,noun,measures,1
+85,2019,noun,package,1
+86,2019,noun,road,1
+87,2019,noun,map,1
+88,2019,noun,transition,1
+89,2019,noun,parties,1
+91,2019,noun,countries,1
+92,2019,noun,rise,1
+94,2019,noun,respect,1
+95,2019,noun,concept,1
+96,2019,noun,fundingand,1
+97,2019,noun,capacity,1
+98,2019,noun,tool,1
+99,2019,noun,trust,1
+100,2019,noun,results,1
+101,2019,noun,payments,1
+102,2019,noun,pipeline,1
+103,2019,noun,youth,1
+104,2019,noun,public,1
+106,2019,noun,promise,1
+108,2019,noun,economy,1
+109,2019,noun,need,1
+110,2019,noun,sector,1
+112,2019,noun,umbrella,1
+115,2019,noun,imbalance,1
+116,2019,noun,finance,1
+117,2019,noun,operationalizing,1
+118,2019,noun,carbon,1
+120,2019,noun,rules,1
+121,2019,noun,failure,1
+122,2019,noun,risks,1
+123,2019,noun,efforts,1
+124,2019,noun,lot,1
+125,2019,noun,issue,1
+126,2019,noun,agreement,1
+127,2019,noun,days,1
+128,2019,noun,weeks,1
+129,2019,noun,ndcs,1
+130,2019,noun,closes,1
+131,2019,noun,outcome,1
+33,2018,verb,climate,10
+16,2018,verb,world,8
+34,2018,verb,change,8
+9,2018,verb,people,7
+0,2018,verb,opportunity,6
+1,2018,verb,cop,4
+25,2018,verb,time,4
+40,2018,verb,humanity,3
+56,2018,verb,goals,3
+57,2018,verb,progress,3
+73,2018,verb,nations,3
+82,2018,verb,economy,3
+92,2018,verb,future,3
+97,2018,verb,jobs,3
+13,2018,verb,results,2
+14,2018,verb,impact,2
+19,2018,verb,parties,2
+31,2018,verb,warning,2
+46,2018,verb,message,2
+50,2018,verb,carbon,2
+51,2018,verb,emissions,2
+55,2018,verb,success,2
+64,2018,verb,regime,2
+67,2018,verb,luxury,2
+78,2018,verb,ladies,2
+79,2018,verb,gentlemen,2
+94,2018,verb,way,2
+2,2018,verb,signing,1
+3,2018,verb,today,1
+4,2018,verb,expectations,1
+5,2018,verb,representative,1
+6,2018,verb,room,1
+7,2018,verb,government,1
+8,2018,verb,team,1
+10,2018,verb,city,1
+11,2018,verb,responsibility,1
+12,2018,verb,doubt,1
+15,2018,verb,role,1
+17,2018,verb,leadership,1
+18,2018,verb,task,1
+20,2018,verb,cops,1
+21,2018,verb,track,1
+22,2018,verb,temperature,1
+23,2018,verb,rise,1
+24,2018,verb,window,1
+26,2018,verb,rhetoric,1
+27,2018,verb,reality,1
+28,2018,verb,politics,1
+29,2018,verb,science,1
+30,2018,verb,suggestion,1
+32,2018,verb,danger,1
+35,2018,verb,control,1
+36,2018,verb,representatives,1
+37,2018,verb,speed,1
+38,2018,verb,process,1
+39,2018,verb,challenges,1
+41,2018,verb,heads,1
+42,2018,verb,states,1
+43,2018,verb,governments,1
+44,2018,verb,point,1
+45,2018,verb,threat,1
+47,2018,verb,direction,1
+48,2018,verb,energy,1
+49,2018,verb,sector,1
+52,2018,verb,record,1
+53,2018,verb,levels,1
+54,2018,verb,things,1
+58,2018,verb,session,1
+59,2018,verb,stakes,1
+60,2018,verb,urgency,1
+61,2018,verb,negotiating,1
+62,2018,verb,texts,1
+63,2018,verb,work,1
+65,2018,verb,details,1
+66,2018,verb,period,1
+68,2018,verb,negotiations,1
+69,2018,verb,guidelines,1
+70,2018,verb,potential,1
+71,2018,verb,signal,1
+72,2018,verb,trust,1
+74,2018,verb,issues,1
+75,2018,verb,commitments,1
+76,2018,verb,action,1
+77,2018,verb,pledges,1
+80,2018,verb,challenge,1
+81,2018,verb,faces,1
+83,2018,verb,loss,1
+84,2018,verb,productivity,1
+85,2018,verb,dollars,1
+86,2018,verb,conflict,1
+87,2018,verb,resources,1
+88,2018,verb,migration,1
+89,2018,verb,suffering,1
+90,2018,verb,hardship,1
+91,2018,verb,societies,1
+93,2018,verb,thing,1
+95,2018,verb,markets,1
+96,2018,verb,businesses,1
+98,2018,verb,quality,1
+99,2018,verb,transition,1
+100,2018,verb,idea,1
+101,2018,verb,growth,1
+102,2018,verb,nonsense,1
+103,2018,verb,fact,1
+104,2018,verb,power,1
+105,2018,verb,countries,1
+106,2018,verb,multilateralism,1
+107,2018,verb,job,1
+108,2018,verb,demands,1
+3,2018,noun chunk,we,21
+17,2018,noun chunk,it,19
+0,2018,noun chunk,i,7
+2,2018,noun chunk,you,7
+21,2018,noun chunk,us,7
+30,2018,noun chunk,the world,7
+6,2018,noun chunk,the paris agreement,5
+13,2018,noun chunk,cop24,5
+36,2018,noun chunk,’s,4
+58,2018,noun chunk,climate change,4
+19,2018,noun chunk,katowice,3
+43,2018,noun chunk,time,3
+52,2018,noun chunk,people,3
+53,2018,noun chunk,they,3
+7,2018,noun chunk,this cop,2
+34,2018,noun chunk,me,2
+63,2018,noun chunk,humanity,2
+80,2018,noun chunk,the paris agreement work program,2
+87,2018,noun chunk,progress,2
+98,2018,noun chunk,the luxury,2
+105,2018,noun chunk,nations,2
+127,2018,noun chunk,incredible opportunity,2
+130,2018,noun chunk,the way,2
+1,2018,noun chunk,this opportunity,1
+4,2018,noun chunk,the most important cop,1
+5,2018,noun chunk,the signing,1
+8,2018,noun chunk,what,1
+9,2018,noun chunk,our expectations,1
+10,2018,noun chunk,every representative,1
+11,2018,noun chunk,this room,1
+12,2018,noun chunk,the polish government,1
+14,2018,noun chunk,minister kowalczyk,1
+15,2018,noun chunk,cop president designate mijal kurkyta,1
+16,2018,noun chunk,their team,1
+18,2018,noun chunk,the people,1
+20,2018,noun chunk,who,1
+22,2018,noun chunk,their city,1
+23,2018,noun chunk,a huge responsibility,1
+24,2018,noun chunk,no doubt,1
+25,2018,noun chunk,the results,1
+26,2018,noun chunk,this conference,1
+27,2018,noun chunk,a long-lasting impact,1
+28,2018,noun chunk,poland,1
+29,2018,noun chunk,role,1
+31,2018,noun chunk,your leadership,1
+32,2018,noun chunk,this enormous task,1
+33,2018,noun chunk,all the parties,1
+35,2018,noun chunk,the secretariat,1
+37,2018,noun chunk,all cops,1
+38,2018,noun chunk,the special report,1
+39,2018,noun chunk,the ipcc,1
+40,2018,noun chunk,track,1
+41,2018,noun chunk,global temperature rise,1
+42,2018,noun chunk,the window,1
+44,2018,noun chunk,not politics,1
+45,2018,noun chunk,science,1
+46,2018,noun chunk,not a suggestion,1
+47,2018,noun chunk,a warning,1
+48,2018,noun chunk,danger,1
+49,2018,noun chunk,runaway climate change,1
+50,2018,noun chunk,our control,1
+51,2018,noun chunk,everyone,1
+54,2018,noun chunk,their representatives,1
+55,2018,noun chunk,something,1
+56,2018,noun chunk,the report,1
+57,2018,noun chunk,that time,1
+59,2018,noun chunk,unprecedented speed,1
+60,2018,noun chunk,ourselves,1
+61,2018,noun chunk,the multilateral process,1
+62,2018,noun chunk,the biggest challenges,1
+64,2018,noun chunk,heads,1
+65,2018,noun chunk,states,1
+66,2018,noun chunk,your governments,1
+67,2018,noun chunk,the recent general assembly,1
+68,2018,noun chunk,new york,1
+69,2018,noun chunk,this point,1
+70,2018,noun chunk,the most important threat,1
+71,2018,noun chunk,the message,1
+72,2018,noun chunk,the wrong direction,1
+73,2018,noun chunk,the international energy agency,1
+74,2018,noun chunk,energy sector carbon emissions,1
+75,2018,noun chunk,record levels,1
+76,2018,noun chunk,things,1
+77,2018,noun chunk,a success,1
+78,2018,noun chunk,several goals,1
+79,2018,noun chunk,all others,1
+81,2018,noun chunk,the work program,1
+82,2018,noun chunk,parties,1
+83,2018,noun chunk,some progress,1
+84,2018,noun chunk,cop23,1
+85,2018,noun chunk,bonn,1
+86,2018,noun chunk,another opportunity,1
+88,2018,noun chunk,a special session,1
+89,2018,noun chunk,bangkok,1
+90,2018,noun chunk,the stakes,1
+91,2018,noun chunk,the urgency,1
+92,2018,noun chunk,the negotiating texts,1
+93,2018,noun chunk,further work,1
+94,2018,noun chunk,regime,1
+95,2018,noun chunk,all its details,1
+96,2018,noun chunk,success,1
+97,2018,noun chunk,period,1
+99,2018,noun chunk,endless negotiations,1
+100,2018,noun chunk,a completed work program,1
+101,2018,noun chunk,guidelines,1
+102,2018,noun chunk,its full potential,1
+103,2018,noun chunk,a signal,1
+104,2018,noun chunk,trust,1
+106,2018,noun chunk,several other issues,1
+107,2018,noun chunk,commitments,1
+108,2018,noun chunk,global climate action,1
+109,2018,noun chunk,their financial pledges,1
+110,2018,noun chunk,the climate regime,1
+111,2018,noun chunk,almost every single challenge humanity,1
+112,2018,noun chunk,the global economy,1
+113,2018,noun chunk,all nations,1
+114,2018,noun chunk,the loss,1
+115,2018,noun chunk,productivity,1
+116,2018,noun chunk,a hotter world,1
+117,2018,noun chunk,the global economy 2 trillion dollars,1
+118,2018,noun chunk,conflict,1
+119,2018,noun chunk,resources,1
+120,2018,noun chunk,impact migration,1
+121,2018,noun chunk,between 50 million and 200 million people,1
+122,2018,noun chunk,incredible suffering,1
+123,2018,noun chunk,hardship,1
+124,2018,noun chunk,societies,1
+125,2018,noun chunk,a low-emissions future,1
+126,2018,noun chunk,one,1
+128,2018,noun chunk,it’s not just an opportunity,1
+129,2018,noun chunk,the right thing,1
+131,2018,noun chunk,new markets,1
+132,2018,noun chunk,new businesses,1
+133,2018,noun chunk,so many people,1
+134,2018,noun chunk,quality jobs,1
+135,2018,noun chunk,a future,1
+136,2018,noun chunk,all people,1
+137,2018,noun chunk,secretary-general guterres,1
+138,2018,noun chunk,the idea,1
+139,2018,noun chunk,tackling climate change,1
+140,2018,noun chunk,economic growth,1
+141,2018,noun chunk,nonsense,1
+142,2018,noun chunk,fact,1
+143,2018,noun chunk,the international labour organization,1
+144,2018,noun chunk,the green economy,1
+145,2018,noun chunk,24 million new jobs,1
+146,2018,noun chunk,ladies,1
+147,2018,noun chunk,gentlemen,1
+148,2018,noun chunk,a low-carbon future,1
+149,2018,noun chunk,the power,1
+150,2018,noun chunk,our very specific goals,1
+151,2018,noun chunk,one message,1
+152,2018,noun chunk,your countries,1
+153,2018,noun chunk,results,1
+154,2018,noun chunk,those goals,1
+155,2018,noun chunk,multilateralism,1
+156,2018,noun chunk,the job,1
+33,2018,noun,climate,10
+16,2018,noun,world,8
+34,2018,noun,change,8
+9,2018,noun,people,7
+0,2018,noun,opportunity,6
+1,2018,noun,cop,4
+25,2018,noun,time,4
+40,2018,noun,humanity,3
+56,2018,noun,goals,3
+57,2018,noun,progress,3
+73,2018,noun,nations,3
+82,2018,noun,economy,3
+92,2018,noun,future,3
+97,2018,noun,jobs,3
+13,2018,noun,results,2
+14,2018,noun,impact,2
+19,2018,noun,parties,2
+31,2018,noun,warning,2
+46,2018,noun,message,2
+50,2018,noun,carbon,2
+51,2018,noun,emissions,2
+55,2018,noun,success,2
+64,2018,noun,regime,2
+67,2018,noun,luxury,2
+78,2018,noun,ladies,2
+79,2018,noun,gentlemen,2
+94,2018,noun,way,2
+2,2018,noun,signing,1
+3,2018,noun,today,1
+4,2018,noun,expectations,1
+5,2018,noun,representative,1
+6,2018,noun,room,1
+7,2018,noun,government,1
+8,2018,noun,team,1
+10,2018,noun,city,1
+11,2018,noun,responsibility,1
+12,2018,noun,doubt,1
+15,2018,noun,role,1
+17,2018,noun,leadership,1
+18,2018,noun,task,1
+20,2018,noun,cops,1
+21,2018,noun,track,1
+22,2018,noun,temperature,1
+23,2018,noun,rise,1
+24,2018,noun,window,1
+26,2018,noun,rhetoric,1
+27,2018,noun,reality,1
+28,2018,noun,politics,1
+29,2018,noun,science,1
+30,2018,noun,suggestion,1
+32,2018,noun,danger,1
+35,2018,noun,control,1
+36,2018,noun,representatives,1
+37,2018,noun,speed,1
+38,2018,noun,process,1
+39,2018,noun,challenges,1
+41,2018,noun,heads,1
+42,2018,noun,states,1
+43,2018,noun,governments,1
+44,2018,noun,point,1
+45,2018,noun,threat,1
+47,2018,noun,direction,1
+48,2018,noun,energy,1
+49,2018,noun,sector,1
+52,2018,noun,record,1
+53,2018,noun,levels,1
+54,2018,noun,things,1
+58,2018,noun,session,1
+59,2018,noun,stakes,1
+60,2018,noun,urgency,1
+61,2018,noun,negotiating,1
+62,2018,noun,texts,1
+63,2018,noun,work,1
+65,2018,noun,details,1
+66,2018,noun,period,1
+68,2018,noun,negotiations,1
+69,2018,noun,guidelines,1
+70,2018,noun,potential,1
+71,2018,noun,signal,1
+72,2018,noun,trust,1
+74,2018,noun,issues,1
+75,2018,noun,commitments,1
+76,2018,noun,action,1
+77,2018,noun,pledges,1
+80,2018,noun,challenge,1
+81,2018,noun,faces,1
+83,2018,noun,loss,1
+84,2018,noun,productivity,1
+85,2018,noun,dollars,1
+86,2018,noun,conflict,1
+87,2018,noun,resources,1
+88,2018,noun,migration,1
+89,2018,noun,suffering,1
+90,2018,noun,hardship,1
+91,2018,noun,societies,1
+93,2018,noun,thing,1
+95,2018,noun,markets,1
+96,2018,noun,businesses,1
+98,2018,noun,quality,1
+99,2018,noun,transition,1
+100,2018,noun,idea,1
+101,2018,noun,growth,1
+102,2018,noun,nonsense,1
+103,2018,noun,fact,1
+104,2018,noun,power,1
+105,2018,noun,countries,1
+106,2018,noun,multilateralism,1
+107,2018,noun,job,1
+108,2018,noun,demands,1
+2,2017,verb,conference,5
+3,2017,verb,cop,4
+31,2017,verb,years,4
+1,2017,verb,change,3
+13,2017,verb,people,3
+39,2017,verb,time,3
+46,2017,verb,climate,3
+106,2017,verb,promise,3
+8,2017,verb,challenge,2
+12,2017,verb,governments,2
+15,2017,verb,support,2
+19,2017,verb,team,2
+23,2017,verb,spirit,2
+32,2017,verb,idea,2
+33,2017,verb,world,2
+36,2017,verb,movement,2
+38,2017,verb,record,2
+41,2017,verb,era,2
+42,2017,verb,hope,2
+49,2017,verb,sense,2
+50,2017,verb,urgency,2
+77,2017,verb,emissions,2
+79,2017,verb,pledges,2
+84,2017,verb,goals,2
+104,2017,verb,ambition,2
+0,2017,verb,year,1
+4,2017,verb,leadership,1
+5,2017,verb,service,1
+6,2017,verb,process,1
+7,2017,verb,contribution,1
+9,2017,verb,weeks,1
+10,2017,verb,entry,1
+11,2017,verb,force,1
+14,2017,verb,region,1
+16,2017,verb,area,1
+17,2017,verb,gratitude,1
+18,2017,verb,secretariat,1
+20,2017,verb,efforts,1
+21,2017,verb,willingness,1
+22,2017,verb,dedication,1
+24,2017,verb,cooperation,1
+25,2017,verb,reality,1
+26,2017,verb,example,1
+27,2017,verb,nations,1
+28,2017,verb,things,1
+29,2017,verb,ladies,1
+30,2017,verb,gentlemen,1
+34,2017,verb,way,1
+35,2017,verb,environment,1
+37,2017,verb,today,1
+40,2017,verb,countries,1
+43,2017,verb,implementation,1
+44,2017,verb,path,1
+45,2017,verb,address,1
+47,2017,verb,development,1
+48,2017,verb,journey,1
+51,2017,verb,children,1
+52,2017,verb,song,1
+53,2017,verb,millions,1
+54,2017,verb,weather,1
+55,2017,verb,events,1
+56,2017,verb,compassion,1
+57,2017,verb,families,1
+58,2017,verb,suffering,1
+59,2017,verb,fact,1
+60,2017,verb,matter,1
+61,2017,verb,start,1
+62,2017,verb,preview,1
+63,2017,verb,days,1
+64,2017,verb,term,1
+65,2017,verb,indicators,1
+66,2017,verb,carbon,1
+67,2017,verb,dioxide,1
+68,2017,verb,concentrations,1
+69,2017,verb,sea,1
+70,2017,verb,level,1
+71,2017,verb,rise,1
+72,2017,verb,ocean,1
+73,2017,verb,acidification,1
+74,2017,verb,phenomena,1
+75,2017,verb,challenges,1
+76,2017,verb,respect,1
+78,2017,verb,levels,1
+80,2017,verb,reduction,1
+81,2017,verb,targets,1
+82,2017,verb,message,1
+83,2017,verb,luxury,1
+85,2017,verb,negotiations,1
+86,2017,verb,step,1
+87,2017,verb,structure,1
+88,2017,verb,impacts,1
+89,2017,verb,commitments,1
+90,2017,verb,regard,1
+91,2017,verb,finance,1
+92,2017,verb,mitigation,1
+93,2017,verb,enthusiasm,1
+94,2017,verb,stakeholders,1
+95,2017,verb,conversations,1
+96,2017,verb,solutions,1
+97,2017,verb,lives,1
+98,2017,verb,history,1
+99,2017,verb,groups,1
+100,2017,verb,agreement,1
+101,2017,verb,friends,1
+102,2017,verb,importance,1
+103,2017,verb,tasks,1
+105,2017,verb,work,1
+107,2017,verb,humanity,1
+63,2017,noun chunk,we,18
+43,2017,noun chunk,it,6
+78,2017,noun chunk,us,5
+11,2017,noun chunk,you,4
+29,2017,noun chunk,i,4
+0,2017,noun chunk,bonn,3
+24,2017,noun chunk,this conference,3
+2,2017,noun chunk,me,2
+3,2017,noun chunk,our cop,2
+4,2017,noun chunk,22 president,2
+15,2017,noun chunk,the paris agreement,2
+19,2017,noun chunk,germany,2
+51,2017,noun chunk,rio,2
+55,2017,noun chunk,the world,2
+60,2017,noun chunk,a movement,2
+64,2017,noun chunk,the era,2
+65,2017,noun chunk,hope,2
+69,2017,noun chunk,climate change,2
+83,2017,noun chunk,them,2
+140,2017,noun chunk,the promise,2
+1,2017,noun chunk,this year,1
+5,2017,noun chunk,morocco,1
+6,2017,noun chunk,mr. salaheddine mezouar,1
+7,2017,noun chunk,your leadership,1
+8,2017,noun chunk,service,1
+9,2017,noun chunk,the process,1
+10,2017,noun chunk,your contribution,1
+12,2017,noun chunk,the challenge,1
+13,2017,noun chunk,the first conference,1
+14,2017,noun chunk,the parties,1
+16,2017,noun chunk,its entry,1
+17,2017,noun chunk,force,1
+18,2017,noun chunk,the governments,1
+20,2017,noun chunk,north rhine-westphalia,1
+21,2017,noun chunk,especially the people,1
+22,2017,noun chunk,this region,1
+23,2017,noun chunk,their extraordinary support,1
+25,2017,noun chunk,"this historic, beautiful area",1
+26,2017,noun chunk,my gratitude,1
+27,2017,noun chunk,your ongoing support,1
+28,2017,noun chunk,the climate change secretariat,1
+30,2017,noun chunk,my team,1
+31,2017,noun chunk,the secretariat,1
+32,2017,noun chunk,all their efforts,1
+33,2017,noun chunk,our incoming cop president,1
+34,2017,noun chunk,prime minister bainimarama,1
+35,2017,noun chunk,his team,1
+36,2017,noun chunk,their willingness,1
+37,2017,noun chunk,dedication,1
+38,2017,noun chunk,this major challenge,1
+39,2017,noun chunk,fiji,1
+40,2017,noun chunk,the spirit,1
+41,2017,noun chunk,cooperation,1
+42,2017,noun chunk,a reality,1
+44,2017,noun chunk,an example,1
+45,2017,noun chunk,nations,1
+46,2017,noun chunk,great things,1
+47,2017,noun chunk,ladies,1
+48,2017,noun chunk,gentlemen,1
+49,2017,noun chunk,governments,1
+50,2017,noun chunk,the earth summit,1
+52,2017,noun chunk,this very spirit,1
+53,2017,noun chunk,they,1
+54,2017,noun chunk,the idea,1
+56,2017,noun chunk,the way,1
+57,2017,noun chunk,its environment,1
+58,2017,noun chunk,that single idea,1
+59,2017,noun chunk,our convention,1
+61,2017,noun chunk,record time,1
+62,2017,noun chunk,169 countries,1
+66,2017,noun chunk,implementation,1
+67,2017,noun chunk,the sustainable development agenda,1
+68,2017,noun chunk,a clear path,1
+70,2017,noun chunk,sustainable development,1
+71,2017,noun chunk,an incomplete journey,1
+72,2017,noun chunk,the 23rd cop conference,1
+73,2017,noun chunk,a greater sense,1
+74,2017,noun chunk,urgency,1
+75,2017,noun chunk,the prime minister,1
+76,2017,noun chunk,the beautiful children,1
+77,2017,noun chunk,their beautiful song,1
+79,2017,noun chunk,millions,1
+80,2017,noun chunk,people,1
+81,2017,noun chunk,extreme weather events,1
+82,2017,noun chunk,compassion,1
+84,2017,noun chunk,their families,1
+85,2017,noun chunk,their suffering,1
+86,2017,noun chunk,the fact,1
+87,2017,noun chunk,the matter,1
+88,2017,noun chunk,the start,1
+89,2017,noun chunk,a preview,1
+90,2017,noun chunk,what,1
+91,2017,noun chunk,the world meteorological organization,1
+92,2017,noun chunk,the hottest three years,1
+93,2017,noun chunk,record,1
+94,2017,noun chunk,long-term indicators,1
+95,2017,noun chunk,carbon dioxide concentrations,1
+96,2017,noun chunk,sea level rise,1
+97,2017,noun chunk,ocean acidification,1
+98,2017,noun chunk,other disturbing phenomena,1
+99,2017,noun chunk,un environment,1
+100,2017,noun chunk,similar challenges,1
+101,2017,noun chunk,respect,1
+102,2017,noun chunk,global emissions levels,1
+103,2017,noun chunk,national pledges,1
+104,2017,noun chunk,a third,1
+105,2017,noun chunk,the reduction,1
+106,2017,noun chunk,emissions,1
+107,2017,noun chunk,climate targets,1
+108,2017,noun chunk,the message,1
+109,2017,noun chunk,the luxury,1
+110,2017,noun chunk,time,1
+111,2017,noun chunk,some very specific goals,1
+112,2017,noun chunk,these negotiations,1
+113,2017,noun chunk,the next essential step,1
+114,2017,noun chunk,the paris agreement’s structure,1
+115,2017,noun chunk,its impacts,1
+116,2017,noun chunk,its goals,1
+117,2017,noun chunk,the commitments,1
+118,2017,noun chunk,this regard,1
+119,2017,noun chunk,finance and mitigation pledges,1
+120,2017,noun chunk,the enthusiasm,1
+121,2017,noun chunk,the non-party stakeholders,1
+122,2017,noun chunk,around ten thousand people,1
+123,2017,noun chunk,conversations,1
+124,2017,noun chunk,solutions,1
+125,2017,noun chunk,our practical lives,1
+126,2017,noun chunk,the first time,1
+127,2017,noun chunk,history,1
+128,2017,noun chunk,these groups,1
+129,2017,noun chunk,themselves,1
+130,2017,noun chunk,a multilateral agreement,1
+131,2017,noun chunk,the importance,1
+132,2017,noun chunk,our tasks,1
+133,2017,noun chunk,the urgency,1
+134,2017,noun chunk,the increased ambition,1
+135,2017,noun chunk,our work,1
+136,2017,noun chunk,a renewed sense,1
+137,2017,noun chunk,ambition,1
+138,2017,noun chunk,not only the promise,1
+139,2017,noun chunk,paris,1
+141,2017,noun chunk,humanity,1
+142,2017,noun chunk,the summit,1
+2,2017,noun,conference,5
+3,2017,noun,cop,4
+31,2017,noun,years,4
+1,2017,noun,change,3
+13,2017,noun,people,3
+39,2017,noun,time,3
+46,2017,noun,climate,3
+106,2017,noun,promise,3
+8,2017,noun,challenge,2
+12,2017,noun,governments,2
+15,2017,noun,support,2
+19,2017,noun,team,2
+23,2017,noun,spirit,2
+32,2017,noun,idea,2
+33,2017,noun,world,2
+36,2017,noun,movement,2
+38,2017,noun,record,2
+41,2017,noun,era,2
+42,2017,noun,hope,2
+49,2017,noun,sense,2
+50,2017,noun,urgency,2
+77,2017,noun,emissions,2
+79,2017,noun,pledges,2
+84,2017,noun,goals,2
+104,2017,noun,ambition,2
+0,2017,noun,year,1
+4,2017,noun,leadership,1
+5,2017,noun,service,1
+6,2017,noun,process,1
+7,2017,noun,contribution,1
+9,2017,noun,weeks,1
+10,2017,noun,entry,1
+11,2017,noun,force,1
+14,2017,noun,region,1
+16,2017,noun,area,1
+17,2017,noun,gratitude,1
+18,2017,noun,secretariat,1
+20,2017,noun,efforts,1
+21,2017,noun,willingness,1
+22,2017,noun,dedication,1
+24,2017,noun,cooperation,1
+25,2017,noun,reality,1
+26,2017,noun,example,1
+27,2017,noun,nations,1
+28,2017,noun,things,1
+29,2017,noun,ladies,1
+30,2017,noun,gentlemen,1
+34,2017,noun,way,1
+35,2017,noun,environment,1
+37,2017,noun,today,1
+40,2017,noun,countries,1
+43,2017,noun,implementation,1
+44,2017,noun,path,1
+45,2017,noun,address,1
+47,2017,noun,development,1
+48,2017,noun,journey,1
+51,2017,noun,children,1
+52,2017,noun,song,1
+53,2017,noun,millions,1
+54,2017,noun,weather,1
+55,2017,noun,events,1
+56,2017,noun,compassion,1
+57,2017,noun,families,1
+58,2017,noun,suffering,1
+59,2017,noun,fact,1
+60,2017,noun,matter,1
+61,2017,noun,start,1
+62,2017,noun,preview,1
+63,2017,noun,days,1
+64,2017,noun,term,1
+65,2017,noun,indicators,1
+66,2017,noun,carbon,1
+67,2017,noun,dioxide,1
+68,2017,noun,concentrations,1
+69,2017,noun,sea,1
+70,2017,noun,level,1
+71,2017,noun,rise,1
+72,2017,noun,ocean,1
+73,2017,noun,acidification,1
+74,2017,noun,phenomena,1
+75,2017,noun,challenges,1
+76,2017,noun,respect,1
+78,2017,noun,levels,1
+80,2017,noun,reduction,1
+81,2017,noun,targets,1
+82,2017,noun,message,1
+83,2017,noun,luxury,1
+85,2017,noun,negotiations,1
+86,2017,noun,step,1
+87,2017,noun,structure,1
+88,2017,noun,impacts,1
+89,2017,noun,commitments,1
+90,2017,noun,regard,1
+91,2017,noun,finance,1
+92,2017,noun,mitigation,1
+93,2017,noun,enthusiasm,1
+94,2017,noun,stakeholders,1
+95,2017,noun,conversations,1
+96,2017,noun,solutions,1
+97,2017,noun,lives,1
+98,2017,noun,history,1
+99,2017,noun,groups,1
+100,2017,noun,agreement,1
+101,2017,noun,friends,1
+102,2017,noun,importance,1
+103,2017,noun,tasks,1
+105,2017,noun,work,1
+107,2017,noun,humanity,1
+1,2016,verb,climate,8
+2,2016,verb,change,4
+30,2016,verb,development,4
+7,2016,verb,cop,3
+17,2016,verb,expectations,3
+21,2016,verb,work,3
+29,2016,verb,action,3
+0,2016,verb,year,2
+3,2016,verb,conference,2
+9,2016,verb,effort,2
+10,2016,verb,people,2
+14,2016,verb,process,2
+25,2016,verb,force,2
+28,2016,verb,stakeholders,2
+32,2016,verb,friends,2
+67,2016,verb,emission,2
+82,2016,verb,needs,2
+83,2016,verb,countries,2
+92,2016,verb,transformation,2
+4,2016,verb,session,1
+5,2016,verb,meeting,1
+6,2016,verb,congratulations,1
+8,2016,verb,team,1
+11,2016,verb,welcome,1
+12,2016,verb,secretariat,1
+13,2016,verb,honour,1
+15,2016,verb,goals,1
+16,2016,verb,timelines,1
+18,2016,verb,world,1
+19,2016,verb,shadow,1
+20,2016,verb,city,1
+22,2016,verb,rules,1
+23,2016,verb,issues,1
+24,2016,verb,agreement,1
+26,2016,verb,days,1
+27,2016,verb,parties,1
+31,2016,verb,fact,1
+33,2016,verb,urgency,1
+34,2016,verb,task,1
+35,2016,verb,hand,1
+36,2016,verb,commitments,1
+37,2016,verb,months,1
+38,2016,verb,entry,1
+39,2016,verb,cause,1
+40,2016,verb,celebration,1
+41,2016,verb,reminder,1
+42,2016,verb,aims,1
+43,2016,verb,ambitions,1
+44,2016,verb,course,1
+45,2016,verb,centuries,1
+46,2016,verb,carbon,1
+47,2016,verb,peaking,1
+48,2016,verb,emissions,1
+49,2016,verb,societies,1
+50,2016,verb,moment,1
+51,2016,verb,levels,1
+52,2016,verb,pillar,1
+53,2016,verb,realization,1
+54,2016,verb,opportunity,1
+55,2016,verb,steps,1
+56,2016,verb,path,1
+57,2016,verb,man,1
+58,2016,verb,woman,1
+59,2016,verb,child,1
+60,2016,verb,speed,1
+61,2016,verb,scale,1
+62,2016,verb,fronts,1
+63,2016,verb,points,1
+64,2016,verb,finance,1
+65,2016,verb,level,1
+66,2016,verb,predictability,1
+68,2016,verb,contributions,1
+69,2016,verb,policies,1
+70,2016,verb,investment,1
+71,2016,verb,plans,1
+72,2016,verb,support,1
+73,2016,verb,adaptation,1
+74,2016,verb,priority,1
+75,2016,verb,loss,1
+76,2016,verb,damage,1
+77,2016,verb,mechanism,1
+78,2016,verb,gains,1
+79,2016,verb,communities,1
+80,2016,verb,capacity,1
+81,2016,verb,building,1
+84,2016,verb,manner,1
+85,2016,verb,agenda,1
+86,2016,verb,reality,1
+87,2016,verb,politician,1
+88,2016,verb,citizen,1
+89,2016,verb,business,1
+90,2016,verb,manager,1
+91,2016,verb,investor,1
+93,2016,verb,society,1
+94,2016,verb,economy,1
+95,2016,verb,determination,1
+96,2016,verb,community,1
+97,2016,verb,nations,1
+98,2016,verb,opportunities,1
+99,2016,verb,challenges,1
+100,2016,verb,sectors,1
+101,2016,verb,beginning,1
+102,2016,verb,inaction,1
+103,2016,verb,status,1
+104,2016,verb,quo,1
+105,2016,verb,option,1
+106,2016,verb,risks,1
+107,2016,verb,costs,1
+108,2016,verb,terms,1
+109,2016,verb,economies,1
+110,2016,verb,suffering,1
+111,2016,verb,delegates,1
+112,2016,verb,phase,1
+113,2016,verb,promise,1
+114,2016,verb,billions,1
+115,2016,verb,planet,1
+116,2016,verb,today,1
+117,2016,verb,generations,1
+3,2016,noun chunk,we,8
+8,2016,noun chunk,the paris agreement,6
+26,2016,noun chunk,it,6
+0,2016,noun chunk,marrakech,5
+12,2016,noun chunk,me,3
+6,2016,noun chunk,the parties,2
+17,2016,noun chunk,they,2
+20,2016,noun chunk,people,2
+40,2016,noun chunk,you,2
+45,2016,noun chunk,force,2
+48,2016,noun chunk,climate action,2
+108,2016,noun chunk,our work,2
+1,2016,noun chunk,this year,1
+2,2016,noun chunk,a very special year,1
+4,2016,noun chunk,the first session,1
+5,2016,noun chunk,the conference,1
+7,2016,noun chunk,the meeting,1
+9,2016,noun chunk,congratulations,1
+10,2016,noun chunk,everyone,1
+11,2016,noun chunk,who,1
+13,2016,noun chunk,the incoming cop president,1
+14,2016,noun chunk,mr. salaheddine mezouar,1
+15,2016,noun chunk,his team,1
+16,2016,noun chunk,the enormous effort,1
+18,2016,noun chunk,this climate change conference,1
+19,2016,noun chunk,the government,1
+21,2016,noun chunk,morocco,1
+22,2016,noun chunk,the warm welcome,1
+23,2016,noun chunk,my first cop,1
+24,2016,noun chunk,executive secretary,1
+25,2016,noun chunk,the united nations climate change secretariat,1
+27,2016,noun chunk,an honour,1
+28,2016,noun chunk,this process,1
+29,2016,noun chunk,the ambitious goals,1
+30,2016,noun chunk,timelines,1
+31,2016,noun chunk,i,1
+32,2016,noun chunk,your expectations,1
+33,2016,noun chunk,the expectations,1
+34,2016,noun chunk,the world,1
+35,2016,noun chunk,the second cop,1
+36,2016,noun chunk,the shadow,1
+37,2016,noun chunk,the mighty atlas mountains,1
+38,2016,noun chunk,the city,1
+39,2016,noun chunk,the marrakesh accords,1
+41,2016,noun chunk,your hard work,1
+42,2016,noun chunk,the rules,1
+43,2016,noun chunk,all issues,1
+44,2016,noun chunk,this new and pressing international agreement,1
+46,2016,noun chunk,parties,1
+47,2016,noun chunk,stakeholders,1
+49,2016,noun chunk,sustainable development,1
+50,2016,noun chunk,friends,1
+51,2016,noun chunk,the urgency,1
+52,2016,noun chunk,the task,1
+53,2016,noun chunk,hand,1
+54,2016,noun chunk,the unprecedented commitments,1
+55,2016,noun chunk,recent months,1
+56,2016,noun chunk,early entry,1
+57,2016,noun chunk,a clear cause,1
+58,2016,noun chunk,celebration,1
+59,2016,noun chunk,a timely reminder,1
+60,2016,noun chunk,the high expectations,1
+61,2016,noun chunk,us,1
+62,2016,noun chunk,the aims,1
+63,2016,noun chunk,ambitions,1
+64,2016,noun chunk,an effort,1
+65,2016,noun chunk,the course,1
+66,2016,noun chunk,two centuries,1
+67,2016,noun chunk,carbon-intense development,1
+68,2016,noun chunk,the peaking,1
+69,2016,noun chunk,global emissions,1
+70,2016,noun chunk,far more climate-resilient societies,1
+71,2016,noun chunk,our moment,1
+72,2016,noun chunk,the international and national levels,1
+73,2016,noun chunk,a central pillar,1
+74,2016,noun chunk,the successful realization,1
+75,2016,noun chunk,the sustainable development goals,1
+76,2016,noun chunk,our opportunity,1
+77,2016,noun chunk,the next steps,1
+78,2016,noun chunk,"an inclusive, sustainable path",1
+79,2016,noun chunk,every man,1
+80,2016,noun chunk,woman,1
+81,2016,noun chunk,child,1
+82,2016,noun chunk,speed,1
+83,2016,noun chunk,scale,1
+84,2016,noun chunk,all fronts,1
+85,2016,noun chunk,a few key points,1
+86,2016,noun chunk,finance,1
+87,2016,noun chunk,the level,1
+88,2016,noun chunk,the predictability,1
+89,2016,noun chunk,low-emission and climate-resilient development,1
+90,2016,noun chunk,nationally determined contributions,1
+91,2016,noun chunk,national policies,1
+92,2016,noun chunk,investment plans,1
+93,2016,noun chunk,support,1
+94,2016,noun chunk,adaptation,1
+95,2016,noun chunk,higher priority,1
+96,2016,noun chunk,the loss and damage mechanism,1
+97,2016,noun chunk,development gains,1
+98,2016,noun chunk,the most vulnerable communities,1
+99,2016,noun chunk,the capacity building needs,1
+100,2016,noun chunk,developing countries,1
+101,2016,noun chunk,a manner,1
+102,2016,noun chunk,their needs,1
+103,2016,noun chunk,non-party stakeholders,1
+104,2016,noun chunk,the north,1
+105,2016,noun chunk,the south,1
+106,2016,noun chunk,the global action agenda,1
+107,2016,noun chunk,transformative change,1
+109,2016,noun chunk,our new reality,1
+110,2016,noun chunk,no politician,1
+111,2016,noun chunk,citizen,1
+112,2016,noun chunk,no business manager,1
+113,2016,noun chunk,investor,1
+114,2016,noun chunk,the transformation,1
+115,2016,noun chunk,a low-emission,1
+116,2016,noun chunk,resilient society,1
+117,2016,noun chunk,economy,1
+118,2016,noun chunk,the singular determination,1
+119,2016,noun chunk,the community,1
+120,2016,noun chunk,nations,1
+121,2016,noun chunk,enormous opportunities,1
+122,2016,noun chunk,this great transformation,1
+123,2016,noun chunk,real challenges,1
+124,2016,noun chunk,all countries,1
+125,2016,noun chunk,some key sectors,1
+126,2016,noun chunk,the beginning,1
+127,2016,noun chunk,inaction,1
+128,2016,noun chunk,the status quo,1
+129,2016,noun chunk,no option,1
+130,2016,noun chunk,the real risks,1
+131,2016,noun chunk,unimaginable costs,1
+132,2016,noun chunk,terms,1
+133,2016,noun chunk,economies,1
+134,2016,noun chunk,human suffering,1
+135,2016,noun chunk,dear friends,1
+136,2016,noun chunk,a new phase,1
+137,2016,noun chunk,the international climate process,1
+138,2016,noun chunk,the promise,1
+139,2016,noun chunk,billions,1
+140,2016,noun chunk,this planet,1
+141,2016,noun chunk,future generations,1
+1,2016,noun,climate,8
+2,2016,noun,change,4
+30,2016,noun,development,4
+7,2016,noun,cop,3
+17,2016,noun,expectations,3
+21,2016,noun,work,3
+29,2016,noun,action,3
+0,2016,noun,year,2
+3,2016,noun,conference,2
+9,2016,noun,effort,2
+10,2016,noun,people,2
+14,2016,noun,process,2
+25,2016,noun,force,2
+28,2016,noun,stakeholders,2
+32,2016,noun,friends,2
+67,2016,noun,emission,2
+82,2016,noun,needs,2
+83,2016,noun,countries,2
+92,2016,noun,transformation,2
+4,2016,noun,session,1
+5,2016,noun,meeting,1
+6,2016,noun,congratulations,1
+8,2016,noun,team,1
+11,2016,noun,welcome,1
+12,2016,noun,secretariat,1
+13,2016,noun,honour,1
+15,2016,noun,goals,1
+16,2016,noun,timelines,1
+18,2016,noun,world,1
+19,2016,noun,shadow,1
+20,2016,noun,city,1
+22,2016,noun,rules,1
+23,2016,noun,issues,1
+24,2016,noun,agreement,1
+26,2016,noun,days,1
+27,2016,noun,parties,1
+31,2016,noun,fact,1
+33,2016,noun,urgency,1
+34,2016,noun,task,1
+35,2016,noun,hand,1
+36,2016,noun,commitments,1
+37,2016,noun,months,1
+38,2016,noun,entry,1
+39,2016,noun,cause,1
+40,2016,noun,celebration,1
+41,2016,noun,reminder,1
+42,2016,noun,aims,1
+43,2016,noun,ambitions,1
+44,2016,noun,course,1
+45,2016,noun,centuries,1
+46,2016,noun,carbon,1
+47,2016,noun,peaking,1
+48,2016,noun,emissions,1
+49,2016,noun,societies,1
+50,2016,noun,moment,1
+51,2016,noun,levels,1
+52,2016,noun,pillar,1
+53,2016,noun,realization,1
+54,2016,noun,opportunity,1
+55,2016,noun,steps,1
+56,2016,noun,path,1
+57,2016,noun,man,1
+58,2016,noun,woman,1
+59,2016,noun,child,1
+60,2016,noun,speed,1
+61,2016,noun,scale,1
+62,2016,noun,fronts,1
+63,2016,noun,points,1
+64,2016,noun,finance,1
+65,2016,noun,level,1
+66,2016,noun,predictability,1
+68,2016,noun,contributions,1
+69,2016,noun,policies,1
+70,2016,noun,investment,1
+71,2016,noun,plans,1
+72,2016,noun,support,1
+73,2016,noun,adaptation,1
+74,2016,noun,priority,1
+75,2016,noun,loss,1
+76,2016,noun,damage,1
+77,2016,noun,mechanism,1
+78,2016,noun,gains,1
+79,2016,noun,communities,1
+80,2016,noun,capacity,1
+81,2016,noun,building,1
+84,2016,noun,manner,1
+85,2016,noun,agenda,1
+86,2016,noun,reality,1
+87,2016,noun,politician,1
+88,2016,noun,citizen,1
+89,2016,noun,business,1
+90,2016,noun,manager,1
+91,2016,noun,investor,1
+93,2016,noun,society,1
+94,2016,noun,economy,1
+95,2016,noun,determination,1
+96,2016,noun,community,1
+97,2016,noun,nations,1
+98,2016,noun,opportunities,1
+99,2016,noun,challenges,1
+100,2016,noun,sectors,1
+101,2016,noun,beginning,1
+102,2016,noun,inaction,1
+103,2016,noun,status,1
+104,2016,noun,quo,1
+105,2016,noun,option,1
+106,2016,noun,risks,1
+107,2016,noun,costs,1
+108,2016,noun,terms,1
+109,2016,noun,economies,1
+110,2016,noun,suffering,1
+111,2016,noun,delegates,1
+112,2016,noun,phase,1
+113,2016,noun,promise,1
+114,2016,noun,billions,1
+115,2016,noun,planet,1
+116,2016,noun,today,1
+117,2016,noun,generations,1
+25,2015,verb,world,7
+8,2015,verb,climate,3
+9,2015,verb,change,3
+0,2015,verb,session,2
+17,2015,verb,year,2
+18,2015,verb,weeks,2
+20,2015,verb,way,2
+29,2015,verb,agreement,2
+30,2015,verb,face,2
+41,2015,verb,eyes,2
+46,2015,verb,responsibility,2
+51,2015,verb,action,2
+52,2015,verb,turning,2
+53,2015,verb,point,2
+1,2015,verb,meeting,1
+2,2015,verb,grief,1
+3,2015,verb,victims,1
+4,2015,verb,families,1
+5,2015,verb,heart,1
+6,2015,verb,events,1
+7,2015,verb,colleagues,1
+10,2015,verb,today,1
+11,2015,verb,team,1
+12,2015,verb,institutions,1
+13,2015,verb,individuals,1
+14,2015,verb,effort,1
+15,2015,verb,cop,1
+16,2015,verb,ways,1
+19,2015,verb,spirit,1
+21,2015,verb,title,1
+22,2015,verb,meaning,1
+23,2015,verb,beacon,1
+24,2015,verb,hope,1
+26,2015,verb,betterment,1
+27,2015,verb,humanity,1
+28,2015,verb,doubt,1
+31,2015,verb,adversity,1
+32,2015,verb,threats,1
+33,2015,verb,kinds,1
+34,2015,verb,solidarity,1
+35,2015,verb,past,1
+36,2015,verb,differences,1
+37,2015,verb,good,1
+38,2015,verb,safety,1
+39,2015,verb,wellbeing,1
+40,2015,verb,delegates,1
+42,2015,verb,millions,1
+43,2015,verb,people,1
+44,2015,verb,opportunity,1
+45,2015,verb,fact,1
+47,2015,verb,achievement,1
+48,2015,verb,goals,1
+49,2015,verb,support,1
+50,2015,verb,ambition,1
+54,2015,verb,years,1
+55,2015,verb,work,1
+56,2015,verb,irreversibility,1
+57,2015,verb,direction,1
+58,2015,verb,depth,1
+59,2015,verb,engagement,1
+60,2015,verb,boldness,1
+61,2015,verb,task,1
+62,2015,verb,progress,1
+63,2015,verb,path,1
+64,2015,verb,destination,1
+65,2015,verb,milestones,1
+66,2015,verb,timeline,1
+67,2015,verb,demands,1
+68,2015,verb,science,1
+69,2015,verb,urgency,1
+70,2015,verb,challenge,1
+71,2015,verb,friends,1
+72,2015,verb,hands,1
+20,2015,noun chunk,paris,7
+44,2015,noun chunk,the world,6
+68,2015,noun chunk,you,6
+13,2015,noun chunk,i,5
+19,2015,noun chunk,we,5
+2,2015,noun chunk,the parties,3
+1,2015,noun chunk,the conference,2
+38,2015,noun chunk,the city,2
+39,2015,noun chunk,light,2
+52,2015,noun chunk,the face,2
+64,2015,noun chunk,the eyes,2
+78,2015,noun chunk,action,2
+0,2015,noun chunk,the twenty-first session,1
+3,2015,noun chunk,the framework convention,1
+4,2015,noun chunk,climate change,1
+5,2015,noun chunk,the eleventh session,1
+6,2015,noun chunk,the meeting,1
+7,2015,noun chunk,the kyoto protocol,1
+8,2015,noun chunk,me,1
+9,2015,noun chunk,my profound grief,1
+10,2015,noun chunk,all the victims,1
+11,2015,noun chunk,families,1
+12,2015,noun chunk,recent heart breaking events,1
+14,2015,noun chunk,myself,1
+15,2015,noun chunk,my colleagues,1
+16,2015,noun chunk,the climate,1
+17,2015,noun chunk,change secretariat,1
+18,2015,noun chunk,us,1
+21,2015,noun chunk,monsieur laurent fabius,1
+22,2015,noun chunk,president,1
+23,2015,noun chunk,cop,1
+24,2015,noun chunk,cmp,1
+25,2015,noun chunk,his exemplary team,1
+26,2015,noun chunk,the many institutions,1
+27,2015,noun chunk,individuals,1
+28,2015,noun chunk,the government,1
+29,2015,noun chunk,france,1
+30,2015,noun chunk,their resolute effort,1
+31,2015,noun chunk,this cop,1
+32,2015,noun chunk,so many ways,1
+33,2015,noun chunk,the entire year,1
+34,2015,noun chunk,the past few weeks,1
+35,2015,noun chunk,minister pulgar-vidal,1
+36,2015,noun chunk,the spirit,1
+37,2015,noun chunk,lima,1
+40,2015,noun chunk,a title,1
+41,2015,noun chunk,new meaning,1
+42,2015,noun chunk,more than ever a beacon,1
+43,2015,noun chunk,hope,1
+45,2015,noun chunk,the way,1
+46,2015,noun chunk,the betterment,1
+47,2015,noun chunk,humanity,1
+48,2015,noun chunk,no doubt,1
+49,2015,noun chunk,the global climate,1
+50,2015,noun chunk,part,1
+51,2015,noun chunk,what,1
+53,2015,noun chunk,adversity,1
+54,2015,noun chunk,threats,1
+55,2015,noun chunk,many kinds,1
+56,2015,noun chunk,solidarity,1
+57,2015,noun chunk,our past,1
+58,2015,noun chunk,present and future differences,1
+59,2015,noun chunk,ourselves,1
+60,2015,noun chunk,the common good,1
+61,2015,noun chunk,global safety,1
+62,2015,noun chunk,wellbeing,1
+63,2015,noun chunk,distinguished delegates,1
+65,2015,noun chunk,weeks,1
+66,2015,noun chunk,millions,1
+67,2015,noun chunk,people,1
+69,2015,noun chunk,the opportunity,1
+70,2015,noun chunk,fact,1
+71,2015,noun chunk,the responsibility,1
+72,2015,noun chunk,an agreement,1
+73,2015,noun chunk,the achievement,1
+74,2015,noun chunk,national climate change goals,1
+75,2015,noun chunk,the necessary support,1
+76,2015,noun chunk,the developing world,1
+77,2015,noun chunk,ambition,1
+79,2015,noun chunk,this past year,1
+80,2015,noun chunk,a turning point,1
+81,2015,noun chunk,many years,1
+82,2015,noun chunk,hard work,1
+83,2015,noun chunk,irreversibility,1
+84,2015,noun chunk,direction,1
+85,2015,noun chunk,depth,1
+86,2015,noun chunk,engagement,1
+87,2015,noun chunk,boldness,1
+88,2015,noun chunk,this turning point,1
+89,2015,noun chunk,the task,1
+90,2015,noun chunk,it,1
+91,2015,noun chunk,an unequivocal path,1
+92,2015,noun chunk,a clear destination,1
+93,2015,noun chunk,agreed milestones,1
+94,2015,noun chunk,a predictable timeline,1
+95,2015,noun chunk,the demands,1
+96,2015,noun chunk,science,1
+97,2015,noun chunk,the urgency,1
+98,2015,noun chunk,the challenge,1
+99,2015,noun chunk,a responsibility,1
+100,2015,noun chunk,the hands,1
+25,2015,noun,world,7
+8,2015,noun,climate,3
+9,2015,noun,change,3
+0,2015,noun,session,2
+17,2015,noun,year,2
+18,2015,noun,weeks,2
+20,2015,noun,way,2
+29,2015,noun,agreement,2
+30,2015,noun,face,2
+41,2015,noun,eyes,2
+46,2015,noun,responsibility,2
+51,2015,noun,action,2
+52,2015,noun,turning,2
+53,2015,noun,point,2
+1,2015,noun,meeting,1
+2,2015,noun,grief,1
+3,2015,noun,victims,1
+4,2015,noun,families,1
+5,2015,noun,heart,1
+6,2015,noun,events,1
+7,2015,noun,colleagues,1
+10,2015,noun,today,1
+11,2015,noun,team,1
+12,2015,noun,institutions,1
+13,2015,noun,individuals,1
+14,2015,noun,effort,1
+15,2015,noun,cop,1
+16,2015,noun,ways,1
+19,2015,noun,spirit,1
+21,2015,noun,title,1
+22,2015,noun,meaning,1
+23,2015,noun,beacon,1
+24,2015,noun,hope,1
+26,2015,noun,betterment,1
+27,2015,noun,humanity,1
+28,2015,noun,doubt,1
+31,2015,noun,adversity,1
+32,2015,noun,threats,1
+33,2015,noun,kinds,1
+34,2015,noun,solidarity,1
+35,2015,noun,past,1
+36,2015,noun,differences,1
+37,2015,noun,good,1
+38,2015,noun,safety,1
+39,2015,noun,wellbeing,1
+40,2015,noun,delegates,1
+42,2015,noun,millions,1
+43,2015,noun,people,1
+44,2015,noun,opportunity,1
+45,2015,noun,fact,1
+47,2015,noun,achievement,1
+48,2015,noun,goals,1
+49,2015,noun,support,1
+50,2015,noun,ambition,1
+54,2015,noun,years,1
+55,2015,noun,work,1
+56,2015,noun,irreversibility,1
+57,2015,noun,direction,1
+58,2015,noun,depth,1
+59,2015,noun,engagement,1
+60,2015,noun,boldness,1
+61,2015,noun,task,1
+62,2015,noun,progress,1
+63,2015,noun,path,1
+64,2015,noun,destination,1
+65,2015,noun,milestones,1
+66,2015,noun,timeline,1
+67,2015,noun,demands,1
+68,2015,noun,science,1
+69,2015,noun,urgency,1
+70,2015,noun,challenge,1
+71,2015,noun,friends,1
+72,2015,noun,hands,1
+4,2014,verb,calendar,6
+5,2014,verb,time,3
+40,2014,verb,future,3
+1,2014,verb,history,2
+6,2014,verb,year,2
+9,2014,verb,seeds,2
+10,2014,verb,world,2
+19,2014,verb,change,2
+20,2014,verb,transformation,2
+24,2014,verb,growth,2
+25,2014,verb,opportunity,2
+26,2014,verb,poverty,2
+28,2014,verb,term,2
+31,2014,verb,ministers,2
+32,2014,verb,level,2
+0,2014,verb,city,1
+2,2014,verb,cultures,1
+3,2014,verb,culture,1
+7,2014,verb,season,1
+8,2014,verb,planting,1
+11,2014,verb,science,1
+12,2014,verb,finance,1
+13,2014,verb,technology,1
+14,2014,verb,solutions,1
+15,2014,verb,hand,1
+16,2014,verb,ground,1
+17,2014,verb,calendars,1
+18,2014,verb,fact,1
+21,2014,verb,decisions,1
+22,2014,verb,actions,1
+23,2014,verb,climate,1
+27,2014,verb,resources,1
+29,2014,verb,stability,1
+30,2014,verb,volatility,1
+33,2014,verb,negotiators,1
+34,2014,verb,decision,1
+35,2014,verb,draft,1
+36,2014,verb,role,1
+37,2014,verb,leaders,1
+38,2014,verb,present,1
+39,2014,verb,stewards,1
+41,2014,verb,cop,1
+42,2014,verb,session,1
+43,2014,verb,spirit,1
+44,2014,verb,optimism,1
+45,2014,verb,achievement,1
+46,2014,verb,urgency,1
+47,2014,verb,construct,1
+48,2014,verb,quality,1
+49,2014,verb,collaboration,1
+50,2014,verb,building,1
+51,2014,verb,divides,1
+52,2014,verb,friends,1
+53,2014,verb,tonnes,1
+54,2014,verb,greenhouse,1
+55,2014,verb,gases,1
+56,2014,verb,prosperity,1
+0,2014,noun chunk,lima,7
+12,2014,noun chunk,we,7
+11,2014,noun chunk,us,5
+15,2014,noun chunk,the calendar,4
+43,2014,noun chunk,you,3
+13,2014,noun chunk,the seeds,2
+36,2014,noun chunk,poverty,2
+1,2014,noun chunk,a city,1
+2,2014,noun chunk,the history,1
+3,2014,noun chunk,many cultures,1
+4,2014,noun chunk,the iconic inca culture,1
+5,2014,noun chunk,the ancient calendar,1
+6,2014,noun chunk,the inca,1
+7,2014,noun chunk,the year,1
+8,2014,noun chunk,a season,1
+9,2014,noun chunk,planting,1
+10,2014,noun chunk,it,1
+14,2014,noun chunk,"a much more secure, just and prosperous world",1
+16,2014,noun chunk,the incas,1
+17,2014,noun chunk,the only calendar,1
+18,2014,noun chunk,science,1
+19,2014,noun chunk,time,1
+20,2014,noun chunk,finance,1
+21,2014,noun chunk,technology,1
+22,2014,noun chunk,the solutions,1
+23,2014,noun chunk,hand,1
+24,2014,noun chunk,the ground,1
+25,2014,noun chunk,and all calendars,1
+26,2014,noun chunk,one resounding fact,1
+27,2014,noun chunk,the time,1
+28,2014,noun chunk,incremental change,1
+29,2014,noun chunk,the world,1
+30,2014,noun chunk,a profound and fundamental transformation,1
+31,2014,noun chunk,ambitious decisions,1
+32,2014,noun chunk,ambitious actions,1
+33,2014,noun chunk,climate change,1
+34,2014,noun chunk,growth,1
+35,2014,noun chunk,opportunity,1
+37,2014,noun chunk,resources,1
+38,2014,noun chunk,them,1
+39,2014,noun chunk,long-term stability,1
+40,2014,noun chunk,short-term volatility,1
+41,2014,noun chunk,honourable ministers,1
+42,2014,noun chunk,one level,1
+44,2014,noun chunk,your negotiators,1
+45,2014,noun chunk,they,1
+46,2014,noun chunk,a pivotal decision,1
+47,2014,noun chunk,the draft,1
+48,2014,noun chunk,next year,1
+49,2014,noun chunk,i,1
+50,2014,noun chunk,another level,1
+51,2014,noun chunk,you ministers,1
+52,2014,noun chunk,your undeniable role,1
+53,2014,noun chunk,leaders,1
+54,2014,noun chunk,the urgent present,1
+55,2014,noun chunk,stewards,1
+56,2014,noun chunk,our shared future,1
+57,2014,noun chunk,cop,1
+58,2014,noun chunk,/cmp,1
+59,2014,noun chunk,a spirit,1
+60,2014,noun chunk,unprecedented optimism,1
+61,2014,noun chunk,achievement,1
+62,2014,noun chunk,such an opportunity,1
+63,2014,noun chunk,such an urgency,1
+64,2014,noun chunk,transformation,1
+65,2014,noun chunk,"a new, global construct",1
+66,2014,noun chunk,high quality growth,1
+67,2014,noun chunk,unparalleled collaboration building,1
+68,2014,noun chunk,all previous divides,1
+69,2014,noun chunk,history,1
+70,2014,noun chunk,dear friends,1
+71,2014,noun chunk,how many tonnes,1
+72,2014,noun chunk,greenhouse gases,1
+73,2014,noun chunk,a future,1
+74,2014,noun chunk,prosperity,1
+75,2014,noun chunk,that future,1
+4,2014,noun,calendar,6
+5,2014,noun,time,3
+40,2014,noun,future,3
+1,2014,noun,history,2
+6,2014,noun,year,2
+9,2014,noun,seeds,2
+10,2014,noun,world,2
+19,2014,noun,change,2
+20,2014,noun,transformation,2
+24,2014,noun,growth,2
+25,2014,noun,opportunity,2
+26,2014,noun,poverty,2
+28,2014,noun,term,2
+31,2014,noun,ministers,2
+32,2014,noun,level,2
+0,2014,noun,city,1
+2,2014,noun,cultures,1
+3,2014,noun,culture,1
+7,2014,noun,season,1
+8,2014,noun,planting,1
+11,2014,noun,science,1
+12,2014,noun,finance,1
+13,2014,noun,technology,1
+14,2014,noun,solutions,1
+15,2014,noun,hand,1
+16,2014,noun,ground,1
+17,2014,noun,calendars,1
+18,2014,noun,fact,1
+21,2014,noun,decisions,1
+22,2014,noun,actions,1
+23,2014,noun,climate,1
+27,2014,noun,resources,1
+29,2014,noun,stability,1
+30,2014,noun,volatility,1
+33,2014,noun,negotiators,1
+34,2014,noun,decision,1
+35,2014,noun,draft,1
+36,2014,noun,role,1
+37,2014,noun,leaders,1
+38,2014,noun,present,1
+39,2014,noun,stewards,1
+41,2014,noun,cop,1
+42,2014,noun,session,1
+43,2014,noun,spirit,1
+44,2014,noun,optimism,1
+45,2014,noun,achievement,1
+46,2014,noun,urgency,1
+47,2014,noun,construct,1
+48,2014,noun,quality,1
+49,2014,noun,collaboration,1
+50,2014,noun,building,1
+51,2014,noun,divides,1
+52,2014,noun,friends,1
+53,2014,noun,tonnes,1
+54,2014,noun,greenhouse,1
+55,2014,noun,gases,1
+56,2014,noun,prosperity,1
+25,2013,verb,climate,7
+46,2013,verb,action,4
+2,2013,verb,cop,3
+32,2013,verb,change,3
+35,2013,verb,generations,3
+40,2013,verb,world,3
+49,2013,verb,reasons,3
+58,2013,verb,development,3
+0,2013,verb,session,2
+5,2013,verb,conference,2
+6,2013,verb,people,2
+24,2013,verb,science,2
+26,2013,verb,effects,2
+33,2013,verb,playing,2
+34,2013,verb,field,2
+55,2013,verb,agreement,2
+68,2013,verb,time,2
+70,2013,verb,stadium,2
+76,2013,verb,future,2
+1,2013,verb,meeting,1
+3,2013,verb,team,1
+4,2013,verb,work,1
+7,2013,verb,reception,1
+8,2013,verb,ladies,1
+9,2013,verb,gentlemen,1
+10,2013,verb,today,1
+11,2013,verb,weight,1
+12,2013,verb,realities,1
+13,2013,verb,day,1
+14,2013,verb,breath,1
+15,2013,verb,beings,1
+16,2013,verb,air,1
+17,2013,verb,parts,1
+18,2013,verb,impact,1
+19,2013,verb,typhoons,1
+20,2013,verb,landfall,1
+21,2013,verb,thoughts,1
+22,2013,verb,prayers,1
+23,2013,verb,backdrop,1
+27,2013,verb,extent,1
+28,2013,verb,scope,1
+29,2013,verb,experience,1
+30,2013,verb,opens,1
+31,2013,verb,doubt,1
+36,2013,verb,advantage,1
+37,2013,verb,struggle,1
+38,2013,verb,contributing,1
+39,2013,verb,factors,1
+41,2013,verb,capacity,1
+42,2013,verb,risks,1
+43,2013,verb,inaction,1
+44,2013,verb,materialize,1
+45,2013,verb,rewards,1
+47,2013,verb,magnify,1
+48,2013,verb,groundswell,1
+50,2013,verb,security,1
+51,2013,verb,energy,1
+52,2013,verb,governance,1
+53,2013,verb,support,1
+54,2013,verb,favour,1
+56,2013,verb,reach,1
+57,2013,verb,agencies,1
+59,2013,verb,banks,1
+60,2013,verb,investors,1
+61,2013,verb,governments,1
+62,2013,verb,board,1
+63,2013,verb,parties,1
+64,2013,verb,momentum,1
+65,2013,verb,success,1
+66,2013,verb,opportunity,1
+67,2013,verb,effort,1
+69,2013,verb,result,1
+71,2013,verb,game,1
+72,2013,verb,sides,1
+73,2013,verb,humanity,1
+74,2013,verb,winners,1
+75,2013,verb,losers,1
+77,2013,verb,areas,1
+78,2013,verb,finance,1
+79,2013,verb,carbon,1
+80,2013,verb,construction,1
+81,2013,verb,mechanism,1
+82,2013,verb,populations,1
+83,2013,verb,path,1
+84,2013,verb,ambition,1
+85,2013,verb,clarity,1
+86,2013,verb,elements,1
+87,2013,verb,agendas,1
+88,2013,verb,friends,1
+89,2013,verb,mile,1
+90,2013,verb,venue,1
+91,2013,verb,inspiration,1
+92,2013,verb,motto,1
+93,2013,verb,level,1
+94,2013,verb,segment,1
+95,2013,verb,overtime,1
+20,2013,noun chunk,we,14
+0,2013,noun chunk,i,5
+1,2013,noun chunk,you,3
+3,2013,noun chunk,the conference,3
+4,2013,noun chunk,the parties,3
+6,2013,noun chunk,climate change,3
+15,2013,noun chunk,the people,2
+16,2013,noun chunk,poland,2
+29,2013,noun chunk,what,2
+43,2013,noun chunk,cop,2
+53,2013,noun chunk,the world,2
+58,2013,noun chunk,action,2
+84,2013,noun chunk,this stadium,2
+2,2013,noun chunk,the nineteenth session,1
+5,2013,noun chunk,the united nations framework convention,1
+7,2013,noun chunk,the ninth session,1
+8,2013,noun chunk,the meeting,1
+9,2013,noun chunk,the kyoto protocol,1
+10,2013,noun chunk,witam państwa w warszawie,1
+11,2013,noun chunk,the cop president,1
+12,2013,noun chunk,his team,1
+13,2013,noun chunk,the careful and comprehensive preparatory work,1
+14,2013,noun chunk,this conference,1
+17,2013,noun chunk,the city,1
+18,2013,noun chunk,warsaw,1
+19,2013,noun chunk,the warm reception,1
+21,2013,noun chunk,the weight,1
+22,2013,noun chunk,many sobering realities,1
+23,2013,noun chunk,a deep breath,1
+24,2013,noun chunk,the first human beings,1
+25,2013,noun chunk,air,1
+26,2013,noun chunk,400 parts,1
+27,2013,noun chunk,million co2,1
+28,2013,noun chunk,dr. pachauri,1
+30,2013,noun chunk,the devastating impact,1
+31,2013,noun chunk,typhoon haiyan,1
+32,2013,noun chunk,the most powerful typhoons,1
+33,2013,noun chunk,landfall,1
+34,2013,noun chunk,our thoughts,1
+35,2013,noun chunk,prayers,1
+36,2013,noun chunk,the philippines,1
+37,2013,noun chunk,viet nam,1
+38,2013,noun chunk,south-east asia,1
+39,2013,noun chunk,the backdrop,1
+40,2013,noun chunk,sound science and climate effects,1
+41,2013,noun chunk,the extent,1
+42,2013,noun chunk,scope,1
+44,2013,noun chunk,no doubt,1
+45,2013,noun chunk,an unlevel playing field,1
+46,2013,noun chunk,future generations,1
+47,2013,noun chunk,previous generations,1
+48,2013,noun chunk,an advantage,1
+49,2013,noun chunk,the next generations,1
+50,2013,noun chunk,a monumental uphill struggle,1
+51,2013,noun chunk,the playing field,1
+52,2013,noun chunk,three contributing factors,1
+54,2013,noun chunk,our collective climate-friendly capacity,1
+55,2013,noun chunk,the risks,1
+56,2013,noun chunk,inaction materialize,1
+57,2013,noun chunk,the rewards,1
+59,2013,noun chunk,a groundswell,1
+60,2013,noun chunk,climate action,1
+61,2013,noun chunk,environmental reasons,1
+62,2013,noun chunk,"security, energy, economic and governance reasons",1
+63,2013,noun chunk,political will,1
+64,2013,noun chunk,public support,1
+65,2013,noun chunk,favour action,1
+66,2013,noun chunk,a new universal climate agreement,1
+67,2013,noun chunk,our reach,1
+68,2013,noun chunk,agencies,1
+69,2013,noun chunk,development banks,1
+70,2013,noun chunk,investors,1
+71,2013,noun chunk,subnational governments,1
+72,2013,noun chunk,board,1
+73,2013,noun chunk,the science,1
+74,2013,noun chunk,the ipcc,1
+75,2013,noun chunk,parties,1
+76,2013,noun chunk,the momentum,1
+77,2013,noun chunk,change,1
+78,2013,noun chunk,success,1
+79,2013,noun chunk,these reasons,1
+80,2013,noun chunk,the warsaw opportunity,1
+81,2013,noun chunk,exert maximum effort,1
+82,2013,noun chunk,the full time,1
+83,2013,noun chunk,a positive result,1
+85,2013,noun chunk,a game,1
+86,2013,noun chunk,two sides,1
+87,2013,noun chunk,the whole,1
+88,2013,noun chunk,humanity,1
+89,2013,noun chunk,no winners,1
+90,2013,noun chunk,losers,1
+91,2013,noun chunk,the future,1
+92,2013,noun chunk,ourselves,1
+93,2013,noun chunk,several key areas,1
+94,2013,noun chunk,finance,1
+95,2013,noun chunk,the entire world,1
+96,2013,noun chunk,low-carbon development,1
+97,2013,noun chunk,the construction,1
+98,2013,noun chunk,a mechanism,1
+99,2013,noun chunk,vulnerable populations,1
+100,2013,noun chunk,the unanticipated effects,1
+101,2013,noun chunk,an effective path,1
+102,2013,noun chunk,pre-2020 ambition,1
+103,2013,noun chunk,further clarity,1
+104,2013,noun chunk,elements,1
+105,2013,noun chunk,the new agreement,1
+106,2013,noun chunk,the post-2020 global climate,1
+107,2013,noun chunk,economic and development agendas,1
+108,2013,noun chunk,it,1
+109,2013,noun chunk,time,1
+110,2013,noun chunk,that extra mile,1
+111,2013,noun chunk,the perfect venue,1
+112,2013,noun chunk,inspiration,1
+113,2013,noun chunk,the olympic motto,1
+114,2013,noun chunk,citius,1
+115,2013,noun chunk,altius,1
+116,2013,noun chunk,fortius,1
+117,2013,noun chunk,the socially equitable and economically sustainable future,1
+118,2013,noun chunk,the high-level segment,1
+119,2013,noun chunk,overtime,1
+120,2013,noun chunk,the last friday,1
+25,2013,noun,climate,7
+46,2013,noun,action,4
+2,2013,noun,cop,3
+32,2013,noun,change,3
+35,2013,noun,generations,3
+40,2013,noun,world,3
+49,2013,noun,reasons,3
+58,2013,noun,development,3
+0,2013,noun,session,2
+5,2013,noun,conference,2
+6,2013,noun,people,2
+24,2013,noun,science,2
+26,2013,noun,effects,2
+33,2013,noun,playing,2
+34,2013,noun,field,2
+55,2013,noun,agreement,2
+68,2013,noun,time,2
+70,2013,noun,stadium,2
+76,2013,noun,future,2
+1,2013,noun,meeting,1
+3,2013,noun,team,1
+4,2013,noun,work,1
+7,2013,noun,reception,1
+8,2013,noun,ladies,1
+9,2013,noun,gentlemen,1
+10,2013,noun,today,1
+11,2013,noun,weight,1
+12,2013,noun,realities,1
+13,2013,noun,day,1
+14,2013,noun,breath,1
+15,2013,noun,beings,1
+16,2013,noun,air,1
+17,2013,noun,parts,1
+18,2013,noun,impact,1
+19,2013,noun,typhoons,1
+20,2013,noun,landfall,1
+21,2013,noun,thoughts,1
+22,2013,noun,prayers,1
+23,2013,noun,backdrop,1
+27,2013,noun,extent,1
+28,2013,noun,scope,1
+29,2013,noun,experience,1
+30,2013,noun,opens,1
+31,2013,noun,doubt,1
+36,2013,noun,advantage,1
+37,2013,noun,struggle,1
+38,2013,noun,contributing,1
+39,2013,noun,factors,1
+41,2013,noun,capacity,1
+42,2013,noun,risks,1
+43,2013,noun,inaction,1
+44,2013,noun,materialize,1
+45,2013,noun,rewards,1
+47,2013,noun,magnify,1
+48,2013,noun,groundswell,1
+50,2013,noun,security,1
+51,2013,noun,energy,1
+52,2013,noun,governance,1
+53,2013,noun,support,1
+54,2013,noun,favour,1
+56,2013,noun,reach,1
+57,2013,noun,agencies,1
+59,2013,noun,banks,1
+60,2013,noun,investors,1
+61,2013,noun,governments,1
+62,2013,noun,board,1
+63,2013,noun,parties,1
+64,2013,noun,momentum,1
+65,2013,noun,success,1
+66,2013,noun,opportunity,1
+67,2013,noun,effort,1
+69,2013,noun,result,1
+71,2013,noun,game,1
+72,2013,noun,sides,1
+73,2013,noun,humanity,1
+74,2013,noun,winners,1
+75,2013,noun,losers,1
+77,2013,noun,areas,1
+78,2013,noun,finance,1
+79,2013,noun,carbon,1
+80,2013,noun,construction,1
+81,2013,noun,mechanism,1
+82,2013,noun,populations,1
+83,2013,noun,path,1
+84,2013,noun,ambition,1
+85,2013,noun,clarity,1
+86,2013,noun,elements,1
+87,2013,noun,agendas,1
+88,2013,noun,friends,1
+89,2013,noun,mile,1
+90,2013,noun,venue,1
+91,2013,noun,inspiration,1
+92,2013,noun,motto,1
+93,2013,noun,level,1
+94,2013,noun,segment,1
+95,2013,noun,overtime,1
+6,2012,verb,conference,4
+14,2012,verb,tree,4
+24,2012,verb,perseverance,4
+25,2012,verb,solidarity,4
+26,2012,verb,determination,4
+41,2012,verb,term,3
+3,2012,verb,session,2
+5,2012,verb,people,2
+7,2012,verb,facility,2
+15,2012,verb,symbol,2
+17,2012,verb,shade,2
+23,2012,verb,generations,2
+27,2012,verb,course,2
+34,2012,verb,world,2
+35,2012,verb,urgency,2
+36,2012,verb,science,2
+38,2012,verb,ambition,2
+0,2012,verb,opening,1
+1,2012,verb,level,1
+2,2012,verb,segment,1
+4,2012,verb,thanks,1
+8,2012,verb,city,1
+9,2012,verb,ministers,1
+10,2012,verb,convention,1
+11,2012,verb,centre,1
+12,2012,verb,look,1
+13,2012,verb,building,1
+16,2012,verb,branches,1
+18,2012,verb,fruit,1
+19,2012,verb,flowers,1
+20,2012,verb,desert,1
+21,2012,verb,travellers,1
+22,2012,verb,scholars,1
+28,2012,verb,days,1
+29,2012,verb,delegates,1
+30,2012,verb,issues,1
+31,2012,verb,progress,1
+32,2012,verb,time,1
+33,2012,verb,eyes,1
+37,2012,verb,need,1
+39,2012,verb,outcomes,1
+40,2012,verb,face,1
+42,2012,verb,adaptation,1
+43,2012,verb,mitigation,1
+44,2012,verb,responses,1
+45,2012,verb,years,1
+46,2012,verb,agreement,1
+47,2012,verb,amendment,1
+48,2012,verb,path,1
+49,2012,verb,climate,1
+50,2012,verb,finance,1
+51,2012,verb,review,1
+52,2012,verb,goal,1
+53,2012,verb,°,1
+54,2012,verb,c,1
+55,2012,verb,response,1
+56,2012,verb,emissions,1
+57,2012,verb,gap,1
+58,2012,verb,foundation,1
+59,2012,verb,framework,1
+60,2012,verb,excellencies,1
+61,2012,verb,corners,1
+62,2012,verb,today,1
+63,2012,verb,guidance,1
+64,2012,verb,action,1
+19,2012,noun chunk,you,6
+16,2012,noun chunk,us,4
+43,2012,noun chunk,determination,4
+3,2012,noun chunk,the conference,3
+4,2012,noun chunk,the parties,3
+32,2012,noun chunk,the sidra tree,3
+41,2012,noun chunk,perseverance,3
+42,2012,noun chunk,solidarity,3
+9,2012,noun chunk,the kyoto protocol,2
+14,2012,noun chunk,qatar,2
+44,2012,noun chunk,the course,2
+48,2012,noun chunk,this conference,2
+53,2012,noun chunk,the world,2
+0,2012,noun chunk,the opening,1
+1,2012,noun chunk,the high-level segment,1
+2,2012,noun chunk,the eighteenth session,1
+5,2012,noun chunk,the united nations framework convention,1
+6,2012,noun chunk,climate change,1
+7,2012,noun chunk,the eighth session,1
+8,2012,noun chunk,the meeting,1
+10,2012,noun chunk,me,1
+11,2012,noun chunk,my sincere thanks,1
+12,2012,noun chunk,the government,1
+13,2012,noun chunk,the people,1
+15,2012,noun chunk,the qatar foundation,1
+17,2012,noun chunk,this most excellent facility,1
+18,2012,noun chunk,this beautiful city,1
+20,2012,noun chunk,the convention centre,1
+21,2012,noun chunk,i,1
+22,2012,noun chunk,the unique look,1
+23,2012,noun chunk,this facility,1
+24,2012,noun chunk,the front,1
+25,2012,noun chunk,the building,1
+26,2012,noun chunk,a sidra tree,1
+27,2012,noun chunk,an iconic symbol,1
+28,2012,noun chunk,branches,1
+29,2012,noun chunk,shade,1
+30,2012,noun chunk,fruit,1
+31,2012,noun chunk,flowers,1
+33,2012,noun chunk,the qatari people,1
+34,2012,noun chunk,the desert,1
+35,2012,noun chunk,travellers,1
+36,2012,noun chunk,scholars,1
+37,2012,noun chunk,the shade,1
+38,2012,noun chunk,conference,1
+39,2012,noun chunk,many generations,1
+40,2012,noun chunk,the sidra,1
+45,2012,noun chunk,the past eight days,1
+46,2012,noun chunk,your delegates,1
+47,2012,noun chunk,the difficult issues,1
+49,2012,noun chunk,much progress,1
+50,2012,noun chunk,it,1
+51,2012,noun chunk,time,1
+52,2012,noun chunk,the eyes,1
+54,2012,noun chunk,the urgency,1
+55,2012,noun chunk,the science,1
+56,2012,noun chunk,the need,1
+57,2012,noun chunk,decisive ambition,1
+58,2012,noun chunk,the outcomes,1
+59,2012,noun chunk,the face,1
+60,2012,noun chunk,long-term global adaptation and mitigation responses,1
+61,2012,noun chunk,the coming years,1
+62,2012,noun chunk,doha,1
+63,2012,noun chunk,agreement,1
+64,2012,noun chunk,an amendment,1
+65,2012,noun chunk,a clear path,1
+66,2012,noun chunk,climate finance,1
+67,2012,noun chunk,an effective review,1
+68,2012,noun chunk,the long-term goal,1
+69,2012,noun chunk,2 °c,1
+70,2012,noun chunk,an urgent response,1
+71,2012,noun chunk,the widening emissions gap,1
+72,2012,noun chunk,a firm foundation,1
+73,2012,noun chunk,a long-term framework,1
+74,2012,noun chunk,science,1
+75,2012,noun chunk,excellencies,1
+76,2012,noun chunk,all corners,1
+77,2012,noun chunk,your unequivocal guidance,1
+78,2012,noun chunk,this symbol,1
+79,2012,noun chunk,authoritative action,1
+80,2012,noun chunk,purposeful perseverance,1
+81,2012,noun chunk,true solidarity,1
+82,2012,noun chunk,ambition,1
+83,2012,noun chunk,urgency,1
+84,2012,noun chunk,present and future generations,1
+6,2012,noun,conference,4
+14,2012,noun,tree,4
+24,2012,noun,perseverance,4
+25,2012,noun,solidarity,4
+26,2012,noun,determination,4
+41,2012,noun,term,3
+3,2012,noun,session,2
+5,2012,noun,people,2
+7,2012,noun,facility,2
+15,2012,noun,symbol,2
+17,2012,noun,shade,2
+23,2012,noun,generations,2
+27,2012,noun,course,2
+34,2012,noun,world,2
+35,2012,noun,urgency,2
+36,2012,noun,science,2
+38,2012,noun,ambition,2
+0,2012,noun,opening,1
+1,2012,noun,level,1
+2,2012,noun,segment,1
+4,2012,noun,thanks,1
+8,2012,noun,city,1
+9,2012,noun,ministers,1
+10,2012,noun,convention,1
+11,2012,noun,centre,1
+12,2012,noun,look,1
+13,2012,noun,building,1
+16,2012,noun,branches,1
+18,2012,noun,fruit,1
+19,2012,noun,flowers,1
+20,2012,noun,desert,1
+21,2012,noun,travellers,1
+22,2012,noun,scholars,1
+28,2012,noun,days,1
+29,2012,noun,delegates,1
+30,2012,noun,issues,1
+31,2012,noun,progress,1
+32,2012,noun,time,1
+33,2012,noun,eyes,1
+37,2012,noun,need,1
+39,2012,noun,outcomes,1
+40,2012,noun,face,1
+42,2012,noun,adaptation,1
+43,2012,noun,mitigation,1
+44,2012,noun,responses,1
+45,2012,noun,years,1
+46,2012,noun,agreement,1
+47,2012,noun,amendment,1
+48,2012,noun,path,1
+49,2012,noun,climate,1
+50,2012,noun,finance,1
+51,2012,noun,review,1
+52,2012,noun,goal,1
+53,2012,noun,°,1
+54,2012,noun,c,1
+55,2012,noun,response,1
+56,2012,noun,emissions,1
+57,2012,noun,gap,1
+58,2012,noun,foundation,1
+59,2012,noun,framework,1
+60,2012,noun,excellencies,1
+61,2012,noun,corners,1
+62,2012,noun,today,1
+63,2012,noun,guidance,1
+64,2012,noun,action,1
+0,2011,verb,members,10
+3,2011,verb,meeting,6
+4,2011,verb,design,4
+21,2011,verb,climate,4
+13,2011,verb,cop,2
+15,2011,verb,countries,2
+20,2011,verb,finance,2
+27,2011,verb,action,2
+28,2011,verb,world,2
+35,2011,verb,government,2
+37,2011,verb,sector,2
+42,2011,verb,capital,2
+44,2011,verb,governments,2
+46,2011,verb,funding,2
+50,2011,verb,funds,2
+1,2011,verb,gentlemen,1
+2,2011,verb,pleasure,1
+5,2011,verb,hospitality,1
+6,2011,verb,thanks,1
+7,2011,verb,support,1
+8,2011,verb,guidance,1
+9,2011,verb,preparation,1
+10,2011,verb,tc,1
+11,2011,verb,decision,1
+12,2011,verb,cp.16,1
+14,2011,verb,consultation,1
+16,2011,verb,group,1
+17,2011,verb,experience,1
+18,2011,verb,skills,1
+19,2011,verb,area,1
+22,2011,verb,change,1
+23,2011,verb,task,1
+24,2011,verb,window,1
+25,2011,verb,era,1
+26,2011,verb,financing,1
+29,2011,verb,time,1
+30,2011,verb,approval,1
+31,2011,verb,conduct,1
+32,2011,verb,work,1
+33,2011,verb,efforts,1
+34,2011,verb,input,1
+36,2011,verb,organizations,1
+38,2011,verb,insights,1
+39,2011,verb,today,1
+40,2011,verb,array,1
+41,2011,verb,observers,1
+43,2011,verb,scale,1
+45,2011,verb,avenue,1
+47,2011,verb,effect,1
+48,2011,verb,route,1
+49,2011,verb,engagement,1
+51,2011,verb,amounts,1
+52,2011,verb,providers,1
+53,2011,verb,recipients,1
+54,2011,verb,adaptation,1
+55,2011,verb,mitigation,1
+56,2011,verb,industry,1
+57,2011,verb,investors,1
+58,2011,verb,carbon,1
+59,2011,verb,future,1
+15,2011,noun chunk,i,6
+1,2011,noun chunk,the transitional committee,5
+9,2011,noun chunk,the green climate fund,4
+5,2011,noun chunk,me,3
+36,2011,noun chunk,seven members,3
+4,2011,noun chunk,it,2
+8,2011,noun chunk,the design,2
+16,2011,noun chunk,you,2
+27,2011,noun chunk,the cop,2
+35,2011,noun chunk,the committee,2
+41,2011,noun chunk,two members,2
+48,2011,noun chunk,members,2
+0,2011,noun chunk,distinguished members,1
+2,2011,noun chunk,ladies,1
+3,2011,noun chunk,gentlemen,1
+6,2011,noun chunk,great pleasure,1
+7,2011,noun chunk,the first meeting,1
+10,2011,noun chunk,the government,1
+11,2011,noun chunk,mexico,1
+12,2011,noun chunk,the generous hospitality,1
+13,2011,noun chunk,this meeting,1
+14,2011,noun chunk,mexico city,1
+17,2011,noun chunk,a very special thanks,1
+18,2011,noun chunk,minister patricia espinosa,1
+19,2011,noun chunk,president,1
+20,2011,noun chunk,the conference,1
+21,2011,noun chunk,the parties,1
+22,2011,noun chunk,her support,1
+23,2011,noun chunk,guidance,1
+24,2011,noun chunk,the preparation,1
+25,2011,noun chunk,this first tc meeting,1
+26,2011,noun chunk,its decision 1/cp.16,1
+28,2011,noun chunk,a transitional committee,1
+29,2011,noun chunk,40 members,1
+30,2011,noun chunk,executive secretary,1
+31,2011,noun chunk,the unfccc,1
+32,2011,noun chunk,consultation,1
+33,2011,noun chunk,the president,1
+34,2011,noun chunk,this initial first meeting,1
+37,2011,noun chunk,africa,1
+38,2011,noun chunk,asia,1
+39,2011,noun chunk,latin america,1
+40,2011,noun chunk,the caribbean,1
+42,2011,noun chunk,small island developing states,1
+43,2011,noun chunk,the least developed countries,1
+44,2011,noun chunk,fifteen members,1
+45,2011,noun chunk,developed countries,1
+46,2011,noun chunk,this initial meeting,1
+47,2011,noun chunk,such a distinguished group,1
+49,2011,noun chunk,the necessary experience,1
+50,2011,noun chunk,skills,1
+51,2011,noun chunk,the area,1
+52,2011,noun chunk,finance and climate change,1
+53,2011,noun chunk,the task,1
+54,2011,noun chunk,a design,1
+55,2011,noun chunk,a new era,1
+56,2011,noun chunk,vastly greater financing,1
+57,2011,noun chunk,climate action,1
+58,2011,noun chunk,the developing world,1
+59,2011,noun chunk,time,1
+60,2011,noun chunk,approval,1
+61,2011,noun chunk,durban,1
+62,2011,noun chunk,the conduct,1
+63,2011,noun chunk,its work,1
+64,2011,noun chunk,special efforts,1
+65,2011,noun chunk,input,1
+66,2011,noun chunk,all parties,1
+67,2011,noun chunk,relevant government,1
+68,2011,noun chunk,non-governmental organizations,1
+69,2011,noun chunk,the private sector,1
+70,2011,noun chunk,who,1
+71,2011,noun chunk,valuable insights,1
+72,2011,noun chunk,the fund,1
+73,2011,noun chunk,a wide array,1
+74,2011,noun chunk,observers,1
+75,2011,noun chunk,this first meeting,1
+76,2011,noun chunk,public and private capital,1
+77,2011,noun chunk,the scale,1
+78,2011,noun chunk,"a robust, transparent and flexible design",1
+79,2011,noun chunk,a trusted avenue,1
+80,2011,noun chunk,their climate funding,1
+81,2011,noun chunk,the best effect,1
+82,2011,noun chunk,a clear and compelling route,1
+83,2011,noun chunk,engagement,1
+84,2011,noun chunk,private sector capital,1
+85,2011,noun chunk,government funds,1
+86,2011,noun chunk,these much greater amounts,1
+87,2011,noun chunk,funding,1
+88,2011,noun chunk,both the providers,1
+89,2011,noun chunk,funds,1
+90,2011,noun chunk,the recipients,1
+91,2011,noun chunk,greater action,1
+92,2011,noun chunk,both adaptation,1
+93,2011,noun chunk,mitigation,1
+94,2011,noun chunk,governments,1
+95,2011,noun chunk,industry,1
+96,2011,noun chunk,investors,1
+97,2011,noun chunk,"a low-carbon, climate-resilient future",1
+98,2011,noun chunk,the necessary finance,1
+99,2011,noun chunk,us,1
+0,2011,noun,members,10
+3,2011,noun,meeting,6
+4,2011,noun,design,4
+21,2011,noun,climate,4
+13,2011,noun,cop,2
+15,2011,noun,countries,2
+20,2011,noun,finance,2
+27,2011,noun,action,2
+28,2011,noun,world,2
+35,2011,noun,government,2
+37,2011,noun,sector,2
+42,2011,noun,capital,2
+44,2011,noun,governments,2
+46,2011,noun,funding,2
+50,2011,noun,funds,2
+1,2011,noun,gentlemen,1
+2,2011,noun,pleasure,1
+5,2011,noun,hospitality,1
+6,2011,noun,thanks,1
+7,2011,noun,support,1
+8,2011,noun,guidance,1
+9,2011,noun,preparation,1
+10,2011,noun,tc,1
+11,2011,noun,decision,1
+12,2011,noun,cp.16,1
+14,2011,noun,consultation,1
+16,2011,noun,group,1
+17,2011,noun,experience,1
+18,2011,noun,skills,1
+19,2011,noun,area,1
+22,2011,noun,change,1
+23,2011,noun,task,1
+24,2011,noun,window,1
+25,2011,noun,era,1
+26,2011,noun,financing,1
+29,2011,noun,time,1
+30,2011,noun,approval,1
+31,2011,noun,conduct,1
+32,2011,noun,work,1
+33,2011,noun,efforts,1
+34,2011,noun,input,1
+36,2011,noun,organizations,1
+38,2011,noun,insights,1
+39,2011,noun,today,1
+40,2011,noun,array,1
+41,2011,noun,observers,1
+43,2011,noun,scale,1
+45,2011,noun,avenue,1
+47,2011,noun,effect,1
+48,2011,noun,route,1
+49,2011,noun,engagement,1
+51,2011,noun,amounts,1
+52,2011,noun,providers,1
+53,2011,noun,recipients,1
+54,2011,noun,adaptation,1
+55,2011,noun,mitigation,1
+56,2011,noun,industry,1
+57,2011,noun,investors,1
+58,2011,noun,carbon,1
+59,2011,noun,future,1
+41,2010,verb,issues,7
+1,2010,verb,countries,6
+11,2010,verb,goddess,5
+22,2010,verb,tapestry,5
+61,2010,verb,outcome,4
+7,2010,verb,excellencies,3
+39,2010,verb,implementation,3
+53,2010,verb,work,3
+76,2010,verb,mitigation,3
+4,2010,verb,delegates,2
+13,2010,verb,reason,2
+14,2010,verb,creativity,2
+16,2010,verb,today,2
+18,2010,verb,response,2
+19,2010,verb,climate,2
+20,2010,verb,change,2
+31,2010,verb,process,2
+37,2010,verb,achievements,2
+43,2010,verb,efforts,2
+45,2010,verb,commitment,2
+47,2010,verb,finance,2
+62,2010,verb,willingness,2
+68,2010,verb,track,2
+74,2010,verb,clarity,2
+77,2010,verb,proposals,2
+85,2010,verb,accountability,2
+87,2010,verb,term,2
+95,2010,verb,holes,2
+96,2010,verb,compromise,2
+0,2010,verb,thanks,1
+2,2010,verb,contribution,1
+3,2010,verb,participation,1
+5,2010,verb,+1,1
+6,2010,verb,island,1
+8,2010,verb,ladies,1
+9,2010,verb,gentlemen,1
+10,2010,verb,land,1
+12,2010,verb,moon,1
+15,2010,verb,weaving,1
+17,2010,verb,elements,1
+21,2010,verb,tools,1
+23,2010,verb,concentrations,1
+24,2010,verb,greenhouse,1
+25,2010,verb,gases,1
+26,2010,verb,atmosphere,1
+27,2010,verb,level,1
+28,2010,verb,times,1
+29,2010,verb,assistance,1
+30,2010,verb,problem,1
+32,2010,verb,channel,1
+33,2010,verb,challenge,1
+34,2010,verb,task,1
+35,2010,verb,past,1
+36,2010,verb,tapestries,1
+38,2010,verb,context,1
+40,2010,verb,agenda,1
+42,2010,verb,order,1
+44,2010,verb,steps,1
+46,2010,verb,start,1
+48,2010,verb,pledges,1
+49,2010,verb,dollars,1
+50,2010,verb,information,1
+51,2010,verb,disbursement,1
+52,2010,verb,funds,1
+54,2010,verb,pledge,1
+55,2010,verb,manner,1
+56,2010,verb,convergence,1
+57,2010,verb,set,1
+58,2010,verb,decisions,1
+59,2010,verb,cop,1
+60,2010,verb,cmp,1
+63,2010,verb,progress,1
+64,2010,verb,advance,1
+65,2010,verb,text,1
+66,2010,verb,decision,1
+67,2010,verb,number,1
+69,2010,verb,respect,1
+70,2010,verb,need,1
+71,2010,verb,gap,1
+72,2010,verb,period,1
+73,2010,verb,importance,1
+75,2010,verb,continuation,1
+78,2010,verb,signal,1
+79,2010,verb,governments,1
+80,2010,verb,sector,1
+81,2010,verb,market,1
+82,2010,verb,mechanisms,1
+83,2010,verb,formalization,1
+84,2010,verb,parties,1
+86,2010,verb,mobilization,1
+88,2010,verb,creation,1
+89,2010,verb,fund,1
+90,2010,verb,delivery,1
+91,2010,verb,measures,1
+92,2010,verb,understanding,1
+93,2010,verb,fairness,1
+94,2010,verb,priority,1
+97,2010,verb,stakes,1
+98,2010,verb,act,1
+99,2010,verb,wisdom,1
+100,2010,verb,positions,1
+101,2010,verb,ways,1
+102,2010,verb,months,1
+103,2010,verb,way,1
+104,2010,verb,follow,1
+105,2010,verb,result,1
+106,2010,verb,interlacing,1
+107,2010,verb,threads,1
+108,2010,verb,years,1
+109,2010,verb,policy,1
+110,2010,verb,inspiration,1
+25,2010,noun chunk,you,16
+0,2010,noun chunk,i,7
+80,2010,noun chunk,cancun,5
+32,2010,noun chunk,it,4
+51,2010,noun chunk,the kyoto protocol,4
+11,2010,noun chunk,excellencies,2
+18,2010,noun chunk,ixchel,2
+19,2010,noun chunk,the goddess,2
+22,2010,noun chunk,creativity,2
+52,2010,noun chunk,those issues,2
+54,2010,noun chunk,them,2
+65,2010,noun chunk,developed countries,2
+99,2010,noun chunk,clarity,2
+113,2010,noun chunk,the accompanying accountability,2
+127,2010,noun chunk,a tapestry,2
+130,2010,noun chunk,compromise,2
+144,2010,noun chunk,the goddess ixchel,2
+1,2010,noun chunk,my sincere thanks,1
+2,2010,noun chunk,those countries,1
+3,2010,noun chunk,a generous contribution,1
+4,2010,noun chunk,the participation,1
+5,2010,noun chunk,two delegates,1
+6,2010,noun chunk,all developing countries,1
+7,2010,noun chunk,2 +1 delegates,1
+8,2010,noun chunk,the least developed countries,1
+9,2010,noun chunk,small island,1
+10,2010,noun chunk,developing states,1
+12,2010,noun chunk,ladies,1
+13,2010,noun chunk,gentlemen,1
+14,2010,noun chunk,cop16,1
+15,2010,noun chunk,cmp6,1
+16,2010,noun chunk,the land,1
+17,2010,noun chunk,the ancient mayan goddess,1
+20,2010,noun chunk,the moon,1
+21,2010,noun chunk,reason,1
+23,2010,noun chunk,weaving,1
+24,2010,noun chunk,she,1
+26,2010,noun chunk,the elements,1
+27,2010,noun chunk,a solid response,1
+28,2010,noun chunk,change,1
+29,2010,noun chunk,both reason,1
+30,2010,noun chunk,your tools,1
+31,2010,noun chunk,this tapestry,1
+33,2010,noun chunk,the world meteorological organization,1
+34,2010,noun chunk,concentrations,1
+35,2010,noun chunk,greenhouse gases,1
+36,2010,noun chunk,the atmosphere,1
+37,2010,noun chunk,their highest level,1
+38,2010,noun chunk,pre-industrial times,1
+39,2010,noun chunk,a serious problem,1
+40,2010,noun chunk,they,1
+41,2010,noun chunk,the multilateral climate change process,1
+42,2010,noun chunk,the trusted channel,1
+43,2010,noun chunk,the challenge,1
+44,2010,noun chunk,the task,1
+45,2010,noun chunk,the past,1
+46,2010,noun chunk,woven tapestries,1
+47,2010,noun chunk,significant achievements,1
+48,2010,noun chunk,the context,1
+49,2010,noun chunk,the already existing implementation agenda,1
+50,2010,noun chunk,both the convention,1
+53,2010,noun chunk,canc˙n,1
+55,2010,noun chunk,ever more effective achievements,1
+56,2010,noun chunk,order,1
+57,2010,noun chunk,the full and effective implementation,1
+58,2010,noun chunk,the convention,1
+59,2010,noun chunk,a richer tapestry,1
+60,2010,noun chunk,efforts,1
+61,2010,noun chunk,important steps,1
+62,2010,noun chunk,a commitment,1
+63,2010,noun chunk,the fast start finance,1
+64,2010,noun chunk,copenhagen,1
+66,2010,noun chunk,pledges,1
+67,2010,noun chunk,28 billion dollars,1
+68,2010,noun chunk,information,1
+69,2010,noun chunk,the disbursement,1
+70,2010,noun chunk,these funds,1
+71,2010,noun chunk,the work,1
+72,2010,noun chunk,this pledge,1
+73,2010,noun chunk,a transparent and timely manner,1
+74,2010,noun chunk,a growing convergence,1
+75,2010,noun chunk,a balanced set,1
+76,2010,noun chunk,decisions,1
+77,2010,noun chunk,both the cop,1
+78,2010,noun chunk,the cmp,1
+79,2010,noun chunk,an achievable outcome,1
+81,2010,noun chunk,a willingness,1
+82,2010,noun chunk,progress,1
+83,2010,noun chunk,advance work,1
+84,2010,noun chunk,a text,1
+85,2010,noun chunk,•,1
+86,2010,noun chunk,a decision,1
+87,2010,noun chunk,the bali action plan,1
+88,2010,noun chunk,a number,1
+89,2010,noun chunk,politically charged issues,1
+90,2010,noun chunk,equal willingness,1
+91,2010,noun chunk,the kyoto protocol track,1
+92,2010,noun chunk,the lca track,1
+93,2010,noun chunk,respect,1
+94,2010,noun chunk,these politically charged issues,1
+95,2010,noun chunk,the need,1
+96,2010,noun chunk,a gap,1
+97,2010,noun chunk,the first commitment period,1
+98,2010,noun chunk,the importance,1
+100,2010,noun chunk,the continuation,1
+101,2010,noun chunk,the mitigation proposals,1
+102,2010,noun chunk,industrialized countries,1
+103,2010,noun chunk,2 •,1
+104,2010,noun chunk,a signal,1
+105,2010,noun chunk,governments,1
+106,2010,noun chunk,the private sector,1
+107,2010,noun chunk,the kyoto protocolís market mechanisms,1
+108,2010,noun chunk,the lca,1
+109,2010,noun chunk,the unresolved issues,1
+110,2010,noun chunk,the formalization,1
+111,2010,noun chunk,mitigation proposals,1
+112,2010,noun chunk,parties,1
+114,2010,noun chunk,their implementation,1
+115,2010,noun chunk,the mobilization,1
+116,2010,noun chunk,long-term finance,1
+117,2010,noun chunk,the creation,1
+118,2010,noun chunk,a new fund,1
+119,2010,noun chunk,its delivery,1
+120,2010,noun chunk,• response measures,1
+121,2010,noun chunk,the understanding,1
+122,2010,noun chunk,fairness,1
+123,2010,noun chunk,long-term mitigation efforts,1
+124,2010,noun chunk,these issues,1
+125,2010,noun chunk,priority,1
+126,2010,noun chunk,a balanced outcome,1
+128,2010,noun chunk,holes,1
+129,2010,noun chunk,the holes,1
+131,2010,noun chunk,the stakes,1
+132,2010,noun chunk,the issues,1
+133,2010,noun chunk,an act,1
+134,2010,noun chunk,wisdom,1
+135,2010,noun chunk,different positions,1
+136,2010,noun chunk,creative ways,1
+137,2010,noun chunk,what,1
+138,2010,noun chunk,the past months,1
+139,2010,noun chunk,your way,1
+140,2010,noun chunk,a concrete outcome,1
+141,2010,noun chunk,that outcome,1
+142,2010,noun chunk,a dedicated follow-on process,1
+143,2010,noun chunk,future work,1
+145,2010,noun chunk,the result,1
+146,2010,noun chunk,the skilful interlacing,1
+147,2010,noun chunk,many threads,1
+148,2010,noun chunk,we,1
+149,2010,noun chunk,the policy tapestry,1
+150,2010,noun chunk,the inspiration,1
+41,2010,noun,issues,7
+1,2010,noun,countries,6
+11,2010,noun,goddess,5
+22,2010,noun,tapestry,5
+61,2010,noun,outcome,4
+7,2010,noun,excellencies,3
+39,2010,noun,implementation,3
+53,2010,noun,work,3
+76,2010,noun,mitigation,3
+4,2010,noun,delegates,2
+13,2010,noun,reason,2
+14,2010,noun,creativity,2
+16,2010,noun,today,2
+18,2010,noun,response,2
+19,2010,noun,climate,2
+20,2010,noun,change,2
+31,2010,noun,process,2
+37,2010,noun,achievements,2
+43,2010,noun,efforts,2
+45,2010,noun,commitment,2
+47,2010,noun,finance,2
+62,2010,noun,willingness,2
+68,2010,noun,track,2
+74,2010,noun,clarity,2
+77,2010,noun,proposals,2
+85,2010,noun,accountability,2
+87,2010,noun,term,2
+95,2010,noun,holes,2
+96,2010,noun,compromise,2
+0,2010,noun,thanks,1
+2,2010,noun,contribution,1
+3,2010,noun,participation,1
+5,2010,noun,+1,1
+6,2010,noun,island,1
+8,2010,noun,ladies,1
+9,2010,noun,gentlemen,1
+10,2010,noun,land,1
+12,2010,noun,moon,1
+15,2010,noun,weaving,1
+17,2010,noun,elements,1
+21,2010,noun,tools,1
+23,2010,noun,concentrations,1
+24,2010,noun,greenhouse,1
+25,2010,noun,gases,1
+26,2010,noun,atmosphere,1
+27,2010,noun,level,1
+28,2010,noun,times,1
+29,2010,noun,assistance,1
+30,2010,noun,problem,1
+32,2010,noun,channel,1
+33,2010,noun,challenge,1
+34,2010,noun,task,1
+35,2010,noun,past,1
+36,2010,noun,tapestries,1
+38,2010,noun,context,1
+40,2010,noun,agenda,1
+42,2010,noun,order,1
+44,2010,noun,steps,1
+46,2010,noun,start,1
+48,2010,noun,pledges,1
+49,2010,noun,dollars,1
+50,2010,noun,information,1
+51,2010,noun,disbursement,1
+52,2010,noun,funds,1
+54,2010,noun,pledge,1
+55,2010,noun,manner,1
+56,2010,noun,convergence,1
+57,2010,noun,set,1
+58,2010,noun,decisions,1
+59,2010,noun,cop,1
+60,2010,noun,cmp,1
+63,2010,noun,progress,1
+64,2010,noun,advance,1
+65,2010,noun,text,1
+66,2010,noun,decision,1
+67,2010,noun,number,1
+69,2010,noun,respect,1
+70,2010,noun,need,1
+71,2010,noun,gap,1
+72,2010,noun,period,1
+73,2010,noun,importance,1
+75,2010,noun,continuation,1
+78,2010,noun,signal,1
+79,2010,noun,governments,1
+80,2010,noun,sector,1
+81,2010,noun,market,1
+82,2010,noun,mechanisms,1
+83,2010,noun,formalization,1
+84,2010,noun,parties,1
+86,2010,noun,mobilization,1
+88,2010,noun,creation,1
+89,2010,noun,fund,1
+90,2010,noun,delivery,1
+91,2010,noun,measures,1
+92,2010,noun,understanding,1
+93,2010,noun,fairness,1
+94,2010,noun,priority,1
+97,2010,noun,stakes,1
+98,2010,noun,act,1
+99,2010,noun,wisdom,1
+100,2010,noun,positions,1
+101,2010,noun,ways,1
+102,2010,noun,months,1
+103,2010,noun,way,1
+104,2010,noun,follow,1
+105,2010,noun,result,1
+106,2010,noun,interlacing,1
+107,2010,noun,threads,1
+108,2010,noun,years,1
+109,2010,noun,policy,1
+110,2010,noun,inspiration,1
+8,2009,verb,world,7
+53,2009,verb,action,5
+9,2009,verb,ground,4
+1,2009,verb,years,3
+6,2009,verb,progress,3
+13,2009,verb,aim,3
+17,2009,verb,solutions,3
+19,2009,verb,future,3
+27,2009,verb,change,3
+42,2009,verb,children,3
+51,2009,verb,work,3
+54,2009,verb,mitigation,3
+55,2009,verb,adaptation,3
+0,2009,verb,day,2
+4,2009,verb,negotiations,2
+5,2009,verb,time,2
+7,2009,verb,success,2
+12,2009,verb,nations,2
+23,2009,verb,opportunity,2
+26,2009,verb,climate,2
+31,2009,verb,leaders,2
+40,2009,verb,paper,2
+49,2009,verb,results,2
+56,2009,verb,technology,2
+57,2009,verb,cooperation,2
+58,2009,verb,finance,2
+59,2009,verb,redd,2
+60,2009,verb,capacity,2
+61,2009,verb,building,2
+71,2009,verb,intentions,2
+72,2009,verb,place,2
+2,2009,verb,closing,1
+3,2009,verb,plenary,1
+10,2009,verb,stake,1
+11,2009,verb,compassion,1
+14,2009,verb,victory,1
+15,2009,verb,nation,1
+16,2009,verb,group,1
+18,2009,verb,problems,1
+20,2009,verb,capabilities,1
+21,2009,verb,science,1
+22,2009,verb,window,1
+24,2009,verb,chance,1
+25,2009,verb,consequences,1
+28,2009,verb,question,1
+29,2009,verb,humanity,1
+30,2009,verb,occasion,1
+32,2009,verb,agreement,1
+33,2009,verb,winds,1
+34,2009,verb,blow,1
+35,2009,verb,thousands,1
+36,2009,verb,people,1
+37,2009,verb,outcome,1
+38,2009,verb,conference,1
+39,2009,verb,hundreds,1
+41,2009,verb,footprints,1
+43,2009,verb,butterflies,1
+44,2009,verb,drawings,1
+45,2009,verb,captures,1
+46,2009,verb,drawing,1
+47,2009,verb,negotiators,1
+48,2009,verb,efforts,1
+50,2009,verb,convention,1
+52,2009,verb,implementation,1
+62,2009,verb,emission,1
+63,2009,verb,reduction,1
+64,2009,verb,targets,1
+65,2009,verb,actions,1
+66,2009,verb,governance,1
+67,2009,verb,issues,1
+68,2009,verb,streams,1
+69,2009,verb,funding,1
+70,2009,verb,road,1
+2,2009,noun chunk,we,10
+6,2009,noun chunk,you,8
+8,2009,noun chunk,it,7
+11,2009,noun chunk,the world,6
+9,2009,noun chunk,some progress,3
+13,2009,noun chunk,copenhagen,3
+20,2009,noun chunk,the aim,3
+45,2009,noun chunk,they,3
+54,2009,noun chunk,i,3
+57,2009,noun chunk,children,3
+75,2009,noun chunk,the ground work,3
+77,2009,noun chunk,action,3
+19,2009,noun chunk,nations,2
+24,2009,noun chunk,solutions,2
+30,2009,noun chunk,us,2
+72,2009,noun chunk,ambitious results,2
+79,2009,noun chunk,adaptation,2
+80,2009,noun chunk,technology cooperation,2
+81,2009,noun chunk,finance,2
+82,2009,noun chunk,redd,2
+83,2009,noun chunk,capacity-building,2
+93,2009,noun chunk,good intentions,2
+94,2009,noun chunk,the place,2
+0,2009,noun chunk,this day,1
+1,2009,noun chunk,the day,1
+3,2009,noun chunk,the closing plenary,1
+4,2009,noun chunk,bali,1
+5,2009,noun chunk,intense negotiations,1
+7,2009,noun chunk,the bali road map,1
+10,2009,noun chunk,success,1
+12,2009,noun chunk,a success,1
+14,2009,noun chunk,time,1
+15,2009,noun chunk,the same old ground,1
+16,2009,noun chunk,stake,1
+17,2009,noun chunk,compassion,1
+18,2009,noun chunk,what,1
+21,2009,noun chunk,the victory,1
+22,2009,noun chunk,one nation,1
+23,2009,noun chunk,one group,1
+25,2009,noun chunk,problems,1
+26,2009,noun chunk,a safer future,1
+27,2009,noun chunk,the capabilities,1
+28,2009,noun chunk,such a future,1
+29,2009,noun chunk,science,1
+31,2009,noun chunk,a window,1
+32,2009,noun chunk,opportunity,1
+33,2009,noun chunk,a good chance,1
+34,2009,noun chunk,the worst consequences,1
+35,2009,noun chunk,climate change,1
+36,2009,noun chunk,the solutions,1
+37,2009,noun chunk,the will,1
+38,2009,noun chunk,the question,1
+39,2009,noun chunk,humanity,1
+40,2009,noun chunk,the occasion,1
+41,2009,noun chunk,the opportunity,1
+42,2009,noun chunk,more than 115 world leaders,1
+43,2009,noun chunk,friday,1
+44,2009,noun chunk,a strong agreement,1
+46,2009,noun chunk,the winds,1
+47,2009,noun chunk,change blow,1
+48,2009,noun chunk,the climate,1
+49,2009,noun chunk,negotiations,1
+50,2009,noun chunk,thousands,1
+51,2009,noun chunk,young people,1
+52,2009,noun chunk,the outcome,1
+53,2009,noun chunk,this conference,1
+55,2009,noun chunk,hundreds,1
+56,2009,noun chunk,paper footprints,1
+58,2009,noun chunk,germany,1
+59,2009,noun chunk,paper butterflies,1
+60,2009,noun chunk,australia,1
+61,2009,noun chunk,350 drawings,1
+62,2009,noun chunk,the united states,1
+63,2009,noun chunk,their future,1
+64,2009,noun chunk,one drawing captures,1
+65,2009,noun chunk,what you,1
+66,2009,noun chunk,the leaders,1
+67,2009,noun chunk,a drawing,1
+68,2009,noun chunk,8-year old sophia dada,1
+69,2009,noun chunk,the past two years,1
+70,2009,noun chunk,negotiators,1
+71,2009,noun chunk,super-human efforts,1
+73,2009,noun chunk,the kyoto protocol,1
+74,2009,noun chunk,the convention,1
+76,2009,noun chunk,prompt implementation,1
+78,2009,noun chunk,mitigation,1
+84,2009,noun chunk,ambitious emission reduction targets,1
+85,2009,noun chunk,mitigation actions,1
+86,2009,noun chunk,far-reaching adaptation,1
+87,2009,noun chunk,its governance,1
+88,2009,noun chunk,outstanding issues,1
+89,2009,noun chunk,ambitious mitigation action,1
+90,2009,noun chunk,the streams,1
+91,2009,noun chunk,funding,1
+92,2009,noun chunk,the road,1
+95,2009,noun chunk,good action,1
+8,2009,noun,world,7
+53,2009,noun,action,5
+9,2009,noun,ground,4
+1,2009,noun,years,3
+6,2009,noun,progress,3
+13,2009,noun,aim,3
+17,2009,noun,solutions,3
+19,2009,noun,future,3
+27,2009,noun,change,3
+42,2009,noun,children,3
+51,2009,noun,work,3
+54,2009,noun,mitigation,3
+55,2009,noun,adaptation,3
+0,2009,noun,day,2
+4,2009,noun,negotiations,2
+5,2009,noun,time,2
+7,2009,noun,success,2
+12,2009,noun,nations,2
+23,2009,noun,opportunity,2
+26,2009,noun,climate,2
+31,2009,noun,leaders,2
+40,2009,noun,paper,2
+49,2009,noun,results,2
+56,2009,noun,technology,2
+57,2009,noun,cooperation,2
+58,2009,noun,finance,2
+59,2009,noun,redd,2
+60,2009,noun,capacity,2
+61,2009,noun,building,2
+71,2009,noun,intentions,2
+72,2009,noun,place,2
+2,2009,noun,closing,1
+3,2009,noun,plenary,1
+10,2009,noun,stake,1
+11,2009,noun,compassion,1
+14,2009,noun,victory,1
+15,2009,noun,nation,1
+16,2009,noun,group,1
+18,2009,noun,problems,1
+20,2009,noun,capabilities,1
+21,2009,noun,science,1
+22,2009,noun,window,1
+24,2009,noun,chance,1
+25,2009,noun,consequences,1
+28,2009,noun,question,1
+29,2009,noun,humanity,1
+30,2009,noun,occasion,1
+32,2009,noun,agreement,1
+33,2009,noun,winds,1
+34,2009,noun,blow,1
+35,2009,noun,thousands,1
+36,2009,noun,people,1
+37,2009,noun,outcome,1
+38,2009,noun,conference,1
+39,2009,noun,hundreds,1
+41,2009,noun,footprints,1
+43,2009,noun,butterflies,1
+44,2009,noun,drawings,1
+45,2009,noun,captures,1
+46,2009,noun,drawing,1
+47,2009,noun,negotiators,1
+48,2009,noun,efforts,1
+50,2009,noun,convention,1
+52,2009,noun,implementation,1
+62,2009,noun,emission,1
+63,2009,noun,reduction,1
+64,2009,noun,targets,1
+65,2009,noun,actions,1
+66,2009,noun,governance,1
+67,2009,noun,issues,1
+68,2009,noun,streams,1
+69,2009,noun,funding,1
+70,2009,noun,road,1
+26,2008,verb,world,12
+44,2008,verb,climate,9
+45,2008,verb,change,6
+56,2008,verb,emissions,4
+58,2008,verb,cent,4
+2,2008,verb,year,3
+27,2008,verb,finance,3
+30,2008,verb,structures,3
+95,2008,verb,signal,3
+3,2008,verb,resolve,2
+4,2008,verb,task,2
+5,2008,verb,issues,2
+6,2008,verb,today,2
+18,2008,verb,future,2
+20,2008,verb,way,2
+39,2008,verb,negotiations,2
+50,2008,verb,mitigation,2
+51,2008,verb,actions,2
+52,2008,verb,support,2
+53,2008,verb,target,2
+60,2008,verb,crisis,2
+66,2008,verb,growth,2
+67,2008,verb,investments,2
+68,2008,verb,self,2
+87,2008,verb,tools,2
+93,2008,verb,action,2
+102,2008,verb,priority,2
+0,2008,verb,leadership,1
+1,2008,verb,courage,1
+7,2008,verb,delay,1
+8,2008,verb,signs,1
+9,2008,verb,urgency,1
+10,2008,verb,grip,1
+11,2008,verb,stranglehold,1
+12,2008,verb,desert,1
+13,2008,verb,ocean,1
+14,2008,verb,floods,1
+15,2008,verb,maldives,1
+16,2008,verb,exodus,1
+17,2008,verb,seas,1
+19,2008,verb,past,1
+21,2008,verb,foundation,1
+22,2008,verb,distrust,1
+23,2008,verb,suspicion,1
+24,2008,verb,talks,1
+25,2008,verb,opportunity,1
+28,2008,verb,technology,1
+29,2008,verb,governance,1
+31,2008,verb,responsibilities,1
+32,2008,verb,capabilities,1
+33,2008,verb,deadline,1
+34,2008,verb,months,1
+35,2008,verb,process,1
+36,2008,verb,guidance,1
+37,2008,verb,arrival,1
+38,2008,verb,signals,1
+40,2008,verb,earnest,1
+41,2008,verb,clock,1
+42,2008,verb,start,1
+43,2008,verb,scratch,1
+46,2008,verb,strategies,1
+47,2008,verb,plans,1
+48,2008,verb,programmes,1
+49,2008,verb,parties,1
+54,2008,verb,greenhouse,1
+55,2008,verb,gas,1
+57,2008,verb,levels,1
+59,2008,verb,middle,1
+61,2008,verb,beginning,1
+62,2008,verb,turn,1
+63,2008,verb,recession,1
+64,2008,verb,push,1
+65,2008,verb,recovery,1
+69,2008,verb,compact,1
+70,2008,verb,resources,1
+71,2008,verb,regulations,1
+72,2008,verb,example,1
+73,2008,verb,levies,1
+74,2008,verb,trading,1
+75,2008,verb,auctioning,1
+76,2008,verb,permits,1
+77,2008,verb,law,1
+78,2008,verb,life,1
+79,2008,verb,problems,1
+80,2008,verb,conditions,1
+81,2008,verb,solutions,1
+82,2008,verb,revolution,1
+83,2008,verb,countries,1
+84,2008,verb,circumstances,1
+85,2008,verb,docking,1
+86,2008,verb,stations,1
+88,2008,verb,regime,1
+89,2008,verb,adaptation,1
+90,2008,verb,breakthrough,1
+91,2008,verb,progress,1
+92,2008,verb,cornerstone,1
+94,2008,verb,time,1
+96,2008,verb,place,1
+97,2008,verb,economy,1
+98,2008,verb,pathway,1
+99,2008,verb,partners,1
+100,2008,verb,cooperation,1
+101,2008,verb,priorities,1
+103,2008,verb,promise,1
+104,2008,verb,threat,1
+105,2008,verb,humanity,1
+1,2008,noun chunk,you,36
+36,2008,noun chunk,the world,11
+6,2008,noun chunk,copenhagen,7
+12,2008,noun chunk,it,6
+5,2008,noun chunk,poznan,5
+0,2008,noun chunk,we,4
+4,2008,noun chunk,bali,4
+10,2008,noun chunk,the bali road map,4
+78,2008,noun chunk,cent,4
+87,2008,noun chunk,climate change,3
+127,2008,noun chunk,a clear signal,3
+9,2008,noun chunk,us,2
+13,2008,noun chunk,issues,2
+37,2008,noun chunk,finance,2
+95,2008,noun chunk,a self-financing climate,2
+2,2008,noun chunk,your leadership,1
+3,2008,noun chunk,courage,1
+7,2008,noun chunk,your resolve,1
+8,2008,noun chunk,the task,1
+11,2008,noun chunk,this task,1
+14,2008,noun chunk,today,1
+15,2008,noun chunk,delay,1
+16,2008,noun chunk,clear signs,1
+17,2008,noun chunk,urgency,1
+18,2008,noun chunk,mauritania,1
+19,2008,noun chunk,the grip,1
+20,2008,noun chunk,a triple stranglehold,1
+21,2008,noun chunk,a growing desert,1
+22,2008,noun chunk,ocean,1
+23,2008,noun chunk,worsening floods,1
+24,2008,noun chunk,the maldives,1
+25,2008,noun chunk,exodus,1
+26,2008,noun chunk,rising seas,1
+27,2008,noun chunk,this great future,1
+28,2008,noun chunk,your past,1
+29,2008,noun chunk,the way,1
+30,2008,noun chunk,no solid future,1
+31,2008,noun chunk,a weak foundation,1
+32,2008,noun chunk,distrust,1
+33,2008,noun chunk,suspicion,1
+34,2008,noun chunk,these talks,1
+35,2008,noun chunk,your opportunity,1
+38,2008,noun chunk,technology,1
+39,2008,noun chunk,governance structures,1
+40,2008,noun chunk,no one,1
+41,2008,noun chunk,common but differentiated responsibilities,1
+42,2008,noun chunk,them,1
+43,2008,noun chunk,your respective capabilities,1
+44,2008,noun chunk,the 2009 deadline,1
+45,2008,noun chunk,the process,1
+46,2008,noun chunk,clear political guidance,1
+47,2008,noun chunk,show resolve,1
+48,2008,noun chunk,your arrival,1
+49,2008,noun chunk,negotiations,1
+50,2008,noun chunk,earnest,1
+51,2008,noun chunk,me,1
+52,2008,noun chunk,the clock,1
+53,2008,noun chunk,time,1
+54,2008,noun chunk,these negotiations,1
+55,2008,noun chunk,a positive start,1
+56,2008,noun chunk,scratch,1
+57,2008,noun chunk,mexico,1
+58,2008,noun chunk,indonesia,1
+59,2008,noun chunk,change strategies,1
+60,2008,noun chunk,egypt,1
+61,2008,noun chunk,change plans,1
+62,2008,noun chunk,programmes,1
+63,2008,noun chunk,nigeria,1
+64,2008,noun chunk,angola,1
+65,2008,noun chunk,pakistan,1
+66,2008,noun chunk,theirs,1
+67,2008,noun chunk,all these parties,1
+68,2008,noun chunk,additional mitigation actions,1
+69,2008,noun chunk,"measurable, reportable and verifiable support",1
+70,2008,noun chunk,monday,1
+71,2008,noun chunk,minister wong,1
+72,2008,noun chunk,australia,1
+73,2008,noun chunk,target,1
+74,2008,noun chunk,greenhouse gas emissions,1
+75,2008,noun chunk,president-elect obama,1
+76,2008,noun chunk,1990 levels,1
+77,2008,noun chunk,the eu,1
+79,2008,noun chunk,norway,1
+80,2008,noun chunk,the united kingdom,1
+81,2008,noun chunk,sweden,1
+82,2008,noun chunk,a target,1
+83,2008,noun chunk,the middle,1
+84,2008,noun chunk,a financial crisis,1
+85,2008,noun chunk,the beginning,1
+86,2008,noun chunk,an economic down-turn,1
+88,2008,noun chunk,the economic recession,1
+89,2008,noun chunk,a push,1
+90,2008,noun chunk,economic recovery,1
+91,2008,noun chunk,green growth,1
+92,2008,noun chunk,green investments,1
+93,2008,noun chunk,a next economic crisis,1
+94,2008,noun chunk,"dirty, obsolete investments",1
+96,2008,noun chunk,resources,1
+97,2008,noun chunk,climate regulations,1
+98,2008,noun chunk,example,1
+99,2008,noun chunk,levies,1
+100,2008,noun chunk,emissions trading,1
+101,2008,noun chunk,auctioning,1
+102,2008,noun chunk,emissions permits,1
+103,2008,noun chunk,that green growth,1
+104,2008,noun chunk,a law,1
+105,2008,noun chunk,life,1
+106,2008,noun chunk,problems,1
+107,2008,noun chunk,conditions,1
+108,2008,noun chunk,their solutions,1
+109,2008,noun chunk,a global green revolution,1
+110,2008,noun chunk,different actions,1
+111,2008,noun chunk,countries,1
+112,2008,noun chunk,different circumstances,1
+113,2008,noun chunk,different docking stations,1
+114,2008,noun chunk,support,1
+115,2008,noun chunk,what tools,1
+116,2008,noun chunk,the climate,1
+117,2008,noun chunk,change,1
+118,2008,noun chunk,regime,1
+119,2008,noun chunk,adaptation,1
+120,2008,noun chunk,mitigation,1
+121,2008,noun chunk,those tools,1
+122,2008,noun chunk,a breakthrough,1
+123,2008,noun chunk,progress,1
+124,2008,noun chunk,the cornerstone,1
+125,2008,noun chunk,strong action,1
+126,2008,noun chunk,its time,1
+128,2008,noun chunk,place,1
+129,2008,noun chunk,finance structures,1
+130,2008,noun chunk,the global economy,1
+131,2008,noun chunk,a low-emissions pathway,1
+132,2008,noun chunk,those structures,1
+133,2008,noun chunk,equal partners,1
+134,2008,noun chunk,close cooperation,1
+135,2008,noun chunk,action,1
+136,2008,noun chunk,priorities,1
+137,2008,noun chunk,the world’s priority,1
+138,2008,noun chunk,your priority,1
+139,2008,noun chunk,the promise,1
+140,2008,noun chunk,the greatest threat,1
+141,2008,noun chunk,humanity,1
+26,2008,noun,world,12
+44,2008,noun,climate,9
+45,2008,noun,change,6
+56,2008,noun,emissions,4
+58,2008,noun,cent,4
+2,2008,noun,year,3
+27,2008,noun,finance,3
+30,2008,noun,structures,3
+95,2008,noun,signal,3
+3,2008,noun,resolve,2
+4,2008,noun,task,2
+5,2008,noun,issues,2
+6,2008,noun,today,2
+18,2008,noun,future,2
+20,2008,noun,way,2
+39,2008,noun,negotiations,2
+50,2008,noun,mitigation,2
+51,2008,noun,actions,2
+52,2008,noun,support,2
+53,2008,noun,target,2
+60,2008,noun,crisis,2
+66,2008,noun,growth,2
+67,2008,noun,investments,2
+68,2008,noun,self,2
+87,2008,noun,tools,2
+93,2008,noun,action,2
+102,2008,noun,priority,2
+0,2008,noun,leadership,1
+1,2008,noun,courage,1
+7,2008,noun,delay,1
+8,2008,noun,signs,1
+9,2008,noun,urgency,1
+10,2008,noun,grip,1
+11,2008,noun,stranglehold,1
+12,2008,noun,desert,1
+13,2008,noun,ocean,1
+14,2008,noun,floods,1
+15,2008,noun,maldives,1
+16,2008,noun,exodus,1
+17,2008,noun,seas,1
+19,2008,noun,past,1
+21,2008,noun,foundation,1
+22,2008,noun,distrust,1
+23,2008,noun,suspicion,1
+24,2008,noun,talks,1
+25,2008,noun,opportunity,1
+28,2008,noun,technology,1
+29,2008,noun,governance,1
+31,2008,noun,responsibilities,1
+32,2008,noun,capabilities,1
+33,2008,noun,deadline,1
+34,2008,noun,months,1
+35,2008,noun,process,1
+36,2008,noun,guidance,1
+37,2008,noun,arrival,1
+38,2008,noun,signals,1
+40,2008,noun,earnest,1
+41,2008,noun,clock,1
+42,2008,noun,start,1
+43,2008,noun,scratch,1
+46,2008,noun,strategies,1
+47,2008,noun,plans,1
+48,2008,noun,programmes,1
+49,2008,noun,parties,1
+54,2008,noun,greenhouse,1
+55,2008,noun,gas,1
+57,2008,noun,levels,1
+59,2008,noun,middle,1
+61,2008,noun,beginning,1
+62,2008,noun,turn,1
+63,2008,noun,recession,1
+64,2008,noun,push,1
+65,2008,noun,recovery,1
+69,2008,noun,compact,1
+70,2008,noun,resources,1
+71,2008,noun,regulations,1
+72,2008,noun,example,1
+73,2008,noun,levies,1
+74,2008,noun,trading,1
+75,2008,noun,auctioning,1
+76,2008,noun,permits,1
+77,2008,noun,law,1
+78,2008,noun,life,1
+79,2008,noun,problems,1
+80,2008,noun,conditions,1
+81,2008,noun,solutions,1
+82,2008,noun,revolution,1
+83,2008,noun,countries,1
+84,2008,noun,circumstances,1
+85,2008,noun,docking,1
+86,2008,noun,stations,1
+88,2008,noun,regime,1
+89,2008,noun,adaptation,1
+90,2008,noun,breakthrough,1
+91,2008,noun,progress,1
+92,2008,noun,cornerstone,1
+94,2008,noun,time,1
+96,2008,noun,place,1
+97,2008,noun,economy,1
+98,2008,noun,pathway,1
+99,2008,noun,partners,1
+100,2008,noun,cooperation,1
+101,2008,noun,priorities,1
+103,2008,noun,promise,1
+104,2008,noun,threat,1
+105,2008,noun,humanity,1
+29,2007,verb,countries,9
+15,2007,verb,climate,7
+16,2007,verb,change,6
+62,2007,verb,adaptation,6
+28,2007,verb,action,5
+47,2007,verb,world,5
+115,2007,verb,way,5
+24,2007,verb,year,4
+66,2007,verb,framework,4
+120,2007,verb,growth,4
+1,2007,verb,work,3
+18,2007,verb,outcome,3
+56,2007,verb,years,3
+100,2007,verb,technologies,3
+0,2007,verb,efforts,2
+3,2007,verb,date,2
+11,2007,verb,places,2
+17,2007,verb,impacts,2
+19,2007,verb,conference,2
+21,2007,verb,paradise,2
+36,2007,verb,end,2
+37,2007,verb,process,2
+45,2007,verb,breakthrough,2
+52,2007,verb,responsibility,2
+57,2007,verb,reality,2
+61,2007,verb,foundation,2
+70,2007,verb,infrastructure,2
+72,2007,verb,emissions,2
+73,2007,verb,implementation,2
+86,2007,verb,market,2
+87,2007,verb,mechanisms,2
+90,2007,verb,ground,2
+93,2007,verb,actions,2
+97,2007,verb,technology,2
+98,2007,verb,cooperation,2
+111,2007,verb,future,2
+112,2007,verb,task,2
+127,2007,verb,course,2
+129,2007,verb,opportunities,2
+131,2007,verb,fuels,2
+138,2007,verb,agenda,2
+145,2007,verb,challenge,2
+146,2007,verb,form,2
+161,2007,verb,topic,2
+2,2007,verb,cops,1
+4,2007,verb,efficiency,1
+5,2007,verb,dedication,1
+6,2007,verb,friendliness,1
+7,2007,verb,streets,1
+8,2007,verb,flags,1
+9,2007,verb,symbols,1
+10,2007,verb,celebration,1
+12,2007,verb,planet,1
+13,2007,verb,picture,1
+14,2007,verb,island,1
+20,2007,verb,degree,1
+22,2007,verb,pace,1
+23,2007,verb,signals,1
+25,2007,verb,road,1
+26,2007,verb,reduction,1
+27,2007,verb,target,1
+30,2007,verb,strategies,1
+31,2007,verb,summits,1
+32,2007,verb,policy,1
+33,2007,verb,positions,1
+34,2007,verb,meetings,1
+35,2007,verb,economies,1
+38,2007,verb,stage,1
+39,2007,verb,finalization,1
+40,2007,verb,heads,1
+41,2007,verb,state,1
+42,2007,verb,government,1
+43,2007,verb,level,1
+44,2007,verb,event,1
+46,2007,verb,people,1
+48,2007,verb,case,1
+49,2007,verb,expectations,1
+50,2007,verb,answers,1
+51,2007,verb,eyes,1
+53,2007,verb,past,1
+54,2007,verb,frameworks,1
+55,2007,verb,today,1
+58,2007,verb,responsibilities,1
+59,2007,verb,obligations,1
+60,2007,verb,nations,1
+63,2007,verb,term,1
+64,2007,verb,goal,1
+65,2007,verb,progress,1
+67,2007,verb,architecture,1
+68,2007,verb,foundations,1
+69,2007,verb,place,1
+71,2007,verb,amounts,1
+74,2007,verb,sentences,1
+75,2007,verb,report,1
+76,2007,verb,agreement,1
+77,2007,verb,evidence,1
+78,2007,verb,achievements,1
+79,2007,verb,establishment,1
+80,2007,verb,response,1
+81,2007,verb,stimulation,1
+82,2007,verb,array,1
+83,2007,verb,policies,1
+84,2007,verb,creation,1
+85,2007,verb,carbon,1
+88,2007,verb,mitigation,1
+89,2007,verb,leap,1
+91,2007,verb,decisions,1
+92,2007,verb,ministers,1
+94,2007,verb,decision,1
+95,2007,verb,cp.10,1
+96,2007,verb,projects,1
+99,2007,verb,access,1
+101,2007,verb,phase,1
+102,2007,verb,deforestation,1
+103,2007,verb,ldcs,1
+104,2007,verb,communications,1
+105,2007,verb,capacity,1
+106,2007,verb,building,1
+107,2007,verb,activities,1
+108,2007,verb,awareness,1
+109,2007,verb,time,1
+110,2007,verb,issues,1
+113,2007,verb,circle,1
+114,2007,verb,interests,1
+116,2007,verb,corners,1
+117,2007,verb,leadership,1
+118,2007,verb,recognition,1
+119,2007,verb,energy,1
+121,2007,verb,grip,1
+122,2007,verb,incentives,1
+123,2007,verb,choice,1
+124,2007,verb,mistakes,1
+125,2007,verb,cdm,1
+126,2007,verb,experience,1
+128,2007,verb,investment,1
+130,2007,verb,fossil,1
+132,2007,verb,drivers,1
+133,2007,verb,environment,1
+134,2007,verb,nose,1
+135,2007,verb,face,1
+136,2007,verb,problem,1
+137,2007,verb,priority,1
+139,2007,verb,levies,1
+140,2007,verb,self,1
+141,2007,verb,beginnings,1
+142,2007,verb,threats,1
+143,2007,verb,order,1
+144,2007,verb,discussions,1
+147,2007,verb,follow,1
+148,2007,verb,function,1
+149,2007,verb,attention,1
+150,2007,verb,tools,1
+151,2007,verb,type,1
+152,2007,verb,instrument,1
+153,2007,verb,mind,1
+154,2007,verb,question,1
+155,2007,verb,beginning,1
+156,2007,verb,marriage,1
+157,2007,verb,contract,1
+158,2007,verb,culmination,1
+159,2007,verb,love,1
+160,2007,verb,affair,1
+162,2007,verb,discussion,1
+163,2007,verb,dialogue,1
+164,2007,verb,negotiations,1
+165,2007,verb,secret,1
+166,2007,verb,fact,1
+167,2007,verb,adoption,1
+168,2007,verb,negotiating,1
+169,2007,verb,scientists,1
+170,2007,verb,leaders,1
+171,2007,verb,middle,1
+172,2007,verb,difficulty,1
+173,2007,verb,opportunity,1
+174,2007,verb,secretariat,1
+175,2007,verb,vision,1
+176,2007,verb,compassion,1
+177,2007,verb,wisdom,1
+5,2007,noun chunk,you,14
+37,2007,noun chunk,it,13
+17,2007,noun chunk,i,10
+34,2007,noun chunk,we,8
+13,2007,noun chunk,bali,5
+20,2007,noun chunk,us,5
+69,2007,noun chunk,the world,4
+6,2007,noun chunk,what,3
+26,2007,noun chunk,the outcome,3
+40,2007,noun chunk,action,3
+87,2007,noun chunk,adaptation,3
+0,2007,noun chunk,me,2
+27,2007,noun chunk,this conference,2
+30,2007,noun chunk,a lost paradise,2
+33,2007,noun chunk,the past year,2
+36,2007,noun chunk,climate change,2
+53,2007,noun chunk,the end,2
+67,2007,noun chunk,a breakthrough,2
+86,2007,noun chunk,the foundation,2
+125,2007,noun chunk,the framework,2
+132,2007,noun chunk,the technologies,2
+137,2007,noun chunk,developing countries,2
+153,2007,noun chunk,the way,2
+163,2007,noun chunk,clean growth,2
+184,2007,noun chunk,all countries,2
+1,2007,noun chunk,the indonesian government,1
+2,2007,noun chunk,especially pa rachmat,1
+3,2007,noun chunk,all their special efforts,1
+4,2007,noun chunk,hard work,1
+7,2007,noun chunk,the largest cops,1
+8,2007,noun chunk,date,1
+9,2007,noun chunk,efficiency,1
+10,2007,noun chunk,dedication,1
+11,2007,noun chunk,friendliness,1
+12,2007,noun chunk,the streets,1
+14,2007,noun chunk,flags,1
+15,2007,noun chunk,“umbul-umbul,1
+16,2007,noun chunk,they,1
+18,2007,noun chunk,symbols,1
+19,2007,noun chunk,celebration,1
+21,2007,noun chunk,the most beautiful places,1
+22,2007,noun chunk,our planet,1
+23,2007,noun chunk,a picture-perfect paradise,1
+24,2007,noun chunk,an island,1
+25,2007,noun chunk,change impacts,1
+28,2007,noun chunk,a degree,1
+29,2007,noun chunk,bali - and other vulnerable places,1
+31,2007,noun chunk,pace,1
+32,2007,noun chunk,the many positive political signals,1
+35,2007,noun chunk,a good road,1
+38,2007,noun chunk,the eu,1
+39,2007,noun chunk,a 20% or 30% reduction target,1
+41,2007,noun chunk,others,1
+42,2007,noun chunk,major developing countries,1
+43,2007,noun chunk,china,1
+44,2007,noun chunk,national climate change strategies,1
+45,2007,noun chunk,all major summits,1
+46,2007,noun chunk,policy positions,1
+47,2007,noun chunk,apec,1
+48,2007,noun chunk,asean,1
+49,2007,noun chunk,the commonwealth,1
+50,2007,noun chunk,the united states,1
+51,2007,noun chunk,meetings,1
+52,2007,noun chunk,the major economies,1
+54,2007,noun chunk,the unfccc process,1
+55,2007,noun chunk,the year,1
+56,2007,noun chunk,the ipcc,1
+57,2007,noun chunk,whose fourth assessment report,1
+58,2007,noun chunk,every stage,1
+59,2007,noun chunk,finalization,1
+60,2007,noun chunk,the nobel peace price,1
+61,2007,noun chunk,a call,1
+62,2007,noun chunk,more than 80 heads,1
+63,2007,noun chunk,state,1
+64,2007,noun chunk,government,1
+65,2007,noun chunk,the high-level event,1
+66,2007,noun chunk,the secretary-general,1
+68,2007,noun chunk,people,1
+70,2007,noun chunk,nobody,1
+71,2007,noun chunk,climate change impacts,1
+72,2007,noun chunk,every case,1
+73,2007,noun chunk,public expectations,1
+74,2007,noun chunk,answers,1
+75,2007,noun chunk,the eyes,1
+76,2007,noun chunk,a huge responsibility,1
+77,2007,noun chunk,the past,1
+78,2007,noun chunk,the convention,1
+79,2007,noun chunk,the most comprehensive international frameworks,1
+80,2007,noun chunk,today,1
+81,2007,noun chunk,rio,1
+82,2007,noun chunk,the reality,1
+83,2007,noun chunk,common but differentiated responsibilities,1
+84,2007,noun chunk,obligations,1
+85,2007,noun chunk,all nations,1
+88,2007,noun chunk,a long term goal,1
+89,2007,noun chunk,progress,1
+90,2007,noun chunk,the convention framework,1
+91,2007,noun chunk,the kyoto protocol,1
+92,2007,noun chunk,a unique architecture,1
+93,2007,noun chunk,the foundations,1
+94,2007,noun chunk,place,1
+95,2007,noun chunk,the infrastructure,1
+96,2007,noun chunk,assigned amounts,1
+97,2007,noun chunk,the electronic infrastructure,1
+98,2007,noun chunk,joint implementation,1
+99,2007,noun chunk,the clean development mechanism,1
+100,2007,noun chunk,my favourite sentences,1
+101,2007,noun chunk,the ipcc report,1
+102,2007,noun chunk,high agreement,1
+103,2007,noun chunk,much evidence,1
+104,2007,noun chunk,notable achievements,1
+105,2007,noun chunk,the unfccc,1
+106,2007,noun chunk,its kyoto protocol,1
+107,2007,noun chunk,the establishment,1
+108,2007,noun chunk,a global response,1
+109,2007,noun chunk,change,1
+110,2007,noun chunk,stimulation,1
+111,2007,noun chunk,an array,1
+112,2007,noun chunk,national policies,1
+113,2007,noun chunk,the creation,1
+114,2007,noun chunk,an international carbon market,1
+115,2007,noun chunk,new institutional mechanisms,1
+116,2007,noun chunk,future mitigation efforts,1
+117,2007,noun chunk,a quantum leap,1
+118,2007,noun chunk,solid ground,1
+119,2007,noun chunk,that ground,1
+120,2007,noun chunk,many important and urgent decisions,1
+121,2007,noun chunk,ministers,1
+122,2007,noun chunk,practical adaptation actions,1
+123,2007,noun chunk,work,1
+124,2007,noun chunk,decision 1/cp.10,1
+126,2007,noun chunk,the adaptation fund,1
+127,2007,noun chunk,real adaptation projects,1
+128,2007,noun chunk,technology cooperation,1
+129,2007,noun chunk,the next few years,1
+130,2007,noun chunk,access,1
+131,2007,noun chunk,countries,1
+133,2007,noun chunk,the initial phase,1
+134,2007,noun chunk,actions,1
+135,2007,noun chunk,emissions,1
+136,2007,noun chunk,deforestation,1
+138,2007,noun chunk,further work,1
+139,2007,noun chunk,adaptation action,1
+140,2007,noun chunk,the ldcs,1
+141,2007,noun chunk,national communications,1
+142,2007,noun chunk,non-annex i parties,1
+143,2007,noun chunk,capacity-building,1
+144,2007,noun chunk,activities,1
+145,2007,noun chunk,public awareness,1
+146,2007,noun chunk,time,1
+147,2007,noun chunk,implementation,1
+148,2007,noun chunk,these issues,1
+149,2007,noun chunk,the future,1
+150,2007,noun chunk,the impossible task,1
+151,2007,noun chunk,a circle,1
+152,2007,noun chunk,conflicting interests,1
+154,2007,noun chunk,four corners,1
+155,2007,noun chunk,leadership,1
+156,2007,noun chunk,industrialised countries,1
+157,2007,noun chunk,the recognition,1
+158,2007,noun chunk,an entirely new energy future,1
+159,2007,noun chunk,strong and sustainable growth,1
+160,2007,noun chunk,conventional technologies’ grip,1
+161,2007,noun chunk,bold action,1
+162,2007,noun chunk,the north,1
+164,2007,noun chunk,the south,1
+165,2007,noun chunk,cooperation,1
+166,2007,noun chunk,technology,1
+167,2007,noun chunk,incentives,1
+168,2007,noun chunk,little choice,1
+169,2007,noun chunk,the same mistakes,1
+170,2007,noun chunk,rich countries,1
+171,2007,noun chunk,our cdm experience,1
+172,2007,noun chunk,course,1
+173,2007,noun chunk,a course,1
+174,2007,noun chunk,huge investment opportunities,1
+175,2007,noun chunk,fossil fuels,1
+176,2007,noun chunk,the drivers,1
+177,2007,noun chunk,growth,1
+178,2007,noun chunk,a collective responsibility,1
+179,2007,noun chunk,these fossil fuels,1
+180,2007,noun chunk,our environment,1
+181,2007,noun chunk,our nose,1
+182,2007,noun chunk,our face,1
+183,2007,noun chunk,a reality,1
+185,2007,noun chunk,some countries,1
+186,2007,noun chunk,their way,1
+187,2007,noun chunk,the problem,1
+188,2007,noun chunk,a priority,1
+189,2007,noun chunk,our agenda,1
+190,2007,noun chunk,a comprehensive framework,1
+191,2007,noun chunk,the cdm,1
+192,2007,noun chunk,levies,1
+193,2007,noun chunk,market mechanisms,1
+194,2007,noun chunk,all beginnings,1
+195,2007,noun chunk,opportunities,1
+196,2007,noun chunk,threats,1
+197,2007,noun chunk,the right order,1
+198,2007,noun chunk,discussions,1
+199,2007,noun chunk,a huge challenge,1
+200,2007,noun chunk,form,1
+201,2007,noun chunk,attention,1
+202,2007,noun chunk,the right tools,1
+203,2007,noun chunk,the type,1
+204,2007,noun chunk,instrument,1
+205,2007,noun chunk,the legal form,1
+206,2007,noun chunk,my mind,1
+207,2007,noun chunk,a question,1
+208,2007,noun chunk,a process,1
+209,2007,noun chunk,the beginning,1
+210,2007,noun chunk,a marriage contract,1
+211,2007,noun chunk,the culmination,1
+212,2007,noun chunk,a love affair,1
+213,2007,noun chunk,the topic,1
+214,2007,noun chunk,discussion,1
+215,2007,noun chunk,the first date,1
+216,2007,noun chunk,the last two years,1
+217,2007,noun chunk,that dialogue,1
+218,2007,noun chunk,a topic,1
+219,2007,noun chunk,this one,1
+220,2007,noun chunk,negotiations,1
+221,2007,noun chunk,no secret,1
+222,2007,noun chunk,the fact,1
+223,2007,noun chunk,the formal adoption,1
+224,2007,noun chunk,a negotiating agenda,1
+225,2007,noun chunk,the challenge scientists,1
+226,2007,noun chunk,world leaders,1
+227,2007,noun chunk,the task,1
+228,2007,noun chunk,the middle,1
+229,2007,noun chunk,every difficulty,1
+230,2007,noun chunk,opportunity,1
+231,2007,noun chunk,your secretariat,1
+232,2007,noun chunk,every way,1
+233,2007,noun chunk,vision,1
+234,2007,noun chunk,compassion,1
+235,2007,noun chunk,wisdom,1
+29,2007,noun,countries,9
+15,2007,noun,climate,7
+16,2007,noun,change,6
+62,2007,noun,adaptation,6
+28,2007,noun,action,5
+47,2007,noun,world,5
+115,2007,noun,way,5
+24,2007,noun,year,4
+66,2007,noun,framework,4
+120,2007,noun,growth,4
+1,2007,noun,work,3
+18,2007,noun,outcome,3
+56,2007,noun,years,3
+100,2007,noun,technologies,3
+0,2007,noun,efforts,2
+3,2007,noun,date,2
+11,2007,noun,places,2
+17,2007,noun,impacts,2
+19,2007,noun,conference,2
+21,2007,noun,paradise,2
+36,2007,noun,end,2
+37,2007,noun,process,2
+45,2007,noun,breakthrough,2
+52,2007,noun,responsibility,2
+57,2007,noun,reality,2
+61,2007,noun,foundation,2
+70,2007,noun,infrastructure,2
+72,2007,noun,emissions,2
+73,2007,noun,implementation,2
+86,2007,noun,market,2
+87,2007,noun,mechanisms,2
+90,2007,noun,ground,2
+93,2007,noun,actions,2
+97,2007,noun,technology,2
+98,2007,noun,cooperation,2
+111,2007,noun,future,2
+112,2007,noun,task,2
+127,2007,noun,course,2
+129,2007,noun,opportunities,2
+131,2007,noun,fuels,2
+138,2007,noun,agenda,2
+145,2007,noun,challenge,2
+146,2007,noun,form,2
+161,2007,noun,topic,2
+2,2007,noun,cops,1
+4,2007,noun,efficiency,1
+5,2007,noun,dedication,1
+6,2007,noun,friendliness,1
+7,2007,noun,streets,1
+8,2007,noun,flags,1
+9,2007,noun,symbols,1
+10,2007,noun,celebration,1
+12,2007,noun,planet,1
+13,2007,noun,picture,1
+14,2007,noun,island,1
+20,2007,noun,degree,1
+22,2007,noun,pace,1
+23,2007,noun,signals,1
+25,2007,noun,road,1
+26,2007,noun,reduction,1
+27,2007,noun,target,1
+30,2007,noun,strategies,1
+31,2007,noun,summits,1
+32,2007,noun,policy,1
+33,2007,noun,positions,1
+34,2007,noun,meetings,1
+35,2007,noun,economies,1
+38,2007,noun,stage,1
+39,2007,noun,finalization,1
+40,2007,noun,heads,1
+41,2007,noun,state,1
+42,2007,noun,government,1
+43,2007,noun,level,1
+44,2007,noun,event,1
+46,2007,noun,people,1
+48,2007,noun,case,1
+49,2007,noun,expectations,1
+50,2007,noun,answers,1
+51,2007,noun,eyes,1
+53,2007,noun,past,1
+54,2007,noun,frameworks,1
+55,2007,noun,today,1
+58,2007,noun,responsibilities,1
+59,2007,noun,obligations,1
+60,2007,noun,nations,1
+63,2007,noun,term,1
+64,2007,noun,goal,1
+65,2007,noun,progress,1
+67,2007,noun,architecture,1
+68,2007,noun,foundations,1
+69,2007,noun,place,1
+71,2007,noun,amounts,1
+74,2007,noun,sentences,1
+75,2007,noun,report,1
+76,2007,noun,agreement,1
+77,2007,noun,evidence,1
+78,2007,noun,achievements,1
+79,2007,noun,establishment,1
+80,2007,noun,response,1
+81,2007,noun,stimulation,1
+82,2007,noun,array,1
+83,2007,noun,policies,1
+84,2007,noun,creation,1
+85,2007,noun,carbon,1
+88,2007,noun,mitigation,1
+89,2007,noun,leap,1
+91,2007,noun,decisions,1
+92,2007,noun,ministers,1
+94,2007,noun,decision,1
+95,2007,noun,cp.10,1
+96,2007,noun,projects,1
+99,2007,noun,access,1
+101,2007,noun,phase,1
+102,2007,noun,deforestation,1
+103,2007,noun,ldcs,1
+104,2007,noun,communications,1
+105,2007,noun,capacity,1
+106,2007,noun,building,1
+107,2007,noun,activities,1
+108,2007,noun,awareness,1
+109,2007,noun,time,1
+110,2007,noun,issues,1
+113,2007,noun,circle,1
+114,2007,noun,interests,1
+116,2007,noun,corners,1
+117,2007,noun,leadership,1
+118,2007,noun,recognition,1
+119,2007,noun,energy,1
+121,2007,noun,grip,1
+122,2007,noun,incentives,1
+123,2007,noun,choice,1
+124,2007,noun,mistakes,1
+125,2007,noun,cdm,1
+126,2007,noun,experience,1
+128,2007,noun,investment,1
+130,2007,noun,fossil,1
+132,2007,noun,drivers,1
+133,2007,noun,environment,1
+134,2007,noun,nose,1
+135,2007,noun,face,1
+136,2007,noun,problem,1
+137,2007,noun,priority,1
+139,2007,noun,levies,1
+140,2007,noun,self,1
+141,2007,noun,beginnings,1
+142,2007,noun,threats,1
+143,2007,noun,order,1
+144,2007,noun,discussions,1
+147,2007,noun,follow,1
+148,2007,noun,function,1
+149,2007,noun,attention,1
+150,2007,noun,tools,1
+151,2007,noun,type,1
+152,2007,noun,instrument,1
+153,2007,noun,mind,1
+154,2007,noun,question,1
+155,2007,noun,beginning,1
+156,2007,noun,marriage,1
+157,2007,noun,contract,1
+158,2007,noun,culmination,1
+159,2007,noun,love,1
+160,2007,noun,affair,1
+162,2007,noun,discussion,1
+163,2007,noun,dialogue,1
+164,2007,noun,negotiations,1
+165,2007,noun,secret,1
+166,2007,noun,fact,1
+167,2007,noun,adoption,1
+168,2007,noun,negotiating,1
+169,2007,noun,scientists,1
+170,2007,noun,leaders,1
+171,2007,noun,middle,1
+172,2007,noun,difficulty,1
+173,2007,noun,opportunity,1
+174,2007,noun,secretariat,1
+175,2007,noun,vision,1
+176,2007,noun,compassion,1
+177,2007,noun,wisdom,1
+8,2006,verb,process,6
+7,2006,verb,change,5
+2,2006,verb,challenge,4
+6,2006,verb,climate,4
+25,2006,verb,future,4
+1,2006,verb,development,3
+35,2006,verb,technology,3
+36,2006,verb,transfer,3
+37,2006,verb,countries,3
+38,2006,verb,adaptation,3
+52,2006,verb,role,3
+3,2006,verb,voices,2
+17,2006,verb,presidency,2
+23,2006,verb,team,2
+24,2006,verb,year,2
+27,2006,verb,foundations,2
+28,2006,verb,walls,2
+29,2006,verb,time,2
+30,2006,verb,construction,2
+54,2006,verb,responsibility,2
+57,2006,verb,progress,2
+59,2006,verb,opportunities,2
+60,2006,verb,session,2
+67,2006,verb,start,2
+68,2006,verb,work,2
+85,2006,verb,success,2
+87,2006,verb,challenges,2
+88,2006,verb,meeting,2
+0,2006,verb,years,1
+4,2006,verb,experience,1
+5,2006,verb,motto,1
+9,2006,verb,today,1
+10,2006,verb,election,1
+11,2006,verb,cop,1
+12,2006,verb,effort,1
+13,2006,verb,government,1
+14,2006,verb,kind,1
+15,2006,verb,sub,1
+16,2006,verb,support,1
+18,2006,verb,gratitude,1
+19,2006,verb,partners,1
+20,2006,verb,unep,1
+21,2006,verb,premises,1
+22,2006,verb,help,1
+26,2006,verb,urgency,1
+31,2006,verb,analogy,1
+32,2006,verb,blocks,1
+33,2006,verb,capacity,1
+34,2006,verb,building,1
+39,2006,verb,impacts,1
+40,2006,verb,discussions,1
+41,2006,verb,ad,1
+42,2006,verb,initiatives,1
+43,2006,verb,framework,1
+44,2006,verb,investment,1
+45,2006,verb,energy,1
+46,2006,verb,mortgage,1
+47,2006,verb,results,1
+48,2006,verb,review,1
+49,2006,verb,economics,1
+50,2006,verb,view,1
+51,2006,verb,cost,1
+53,2006,verb,boss,1
+55,2006,verb,negotiation,1
+56,2006,verb,parties,1
+58,2006,verb,options,1
+61,2006,verb,workshops,1
+62,2006,verb,regions,1
+63,2006,verb,explosion,1
+64,2006,verb,activities,1
+65,2006,verb,launch,1
+66,2006,verb,procedure,1
+69,2006,verb,area,1
+70,2006,verb,publication,1
+71,2006,verb,practitioner,1
+72,2006,verb,guide,1
+73,2006,verb,financing,1
+74,2006,verb,areas,1
+75,2006,verb,goals,1
+76,2006,verb,conference,1
+77,2006,verb,assessment,1
+78,2006,verb,action,1
+79,2006,verb,operationalization,1
+80,2006,verb,implementation,1
+81,2006,verb,momentum,1
+82,2006,verb,talks,1
+83,2006,verb,set,1
+84,2006,verb,objectives,1
+86,2006,verb,lot,1
+89,2006,verb,secretariat,1
+90,2006,verb,issues,1
+91,2006,verb,world,1
+92,2006,verb,luck,1
+8,2006,noun chunk,i,7
+13,2006,noun chunk,you,5
+40,2006,noun chunk,the future,4
+77,2006,noun chunk,we,4
+1,2006,noun chunk,kenya,3
+52,2006,noun chunk,adaptation,3
+3,2006,noun chunk,the voices,2
+14,2006,noun chunk,minister kibwana,2
+16,2006,noun chunk,president,2
+21,2006,noun chunk,this conference,2
+25,2006,noun chunk,the secretariat,2
+33,2006,noun chunk,the conference,2
+42,2006,noun chunk,the challenge,2
+43,2006,noun chunk,climate change,2
+44,2006,noun chunk,the foundations,2
+45,2006,noun chunk,the walls,2
+50,2006,noun chunk,technology transfer,2
+55,2006,noun chunk,the process,2
+81,2006,noun chunk,the unfccc,2
+83,2006,noun chunk,this role,2
+84,2006,noun chunk,it,2
+88,2006,noun chunk,progress,2
+93,2006,noun chunk,opportunities,2
+96,2006,noun chunk,the first session,2
+109,2006,noun chunk,start,2
+130,2006,noun chunk,the success,2
+0,2006,noun chunk,the post-independence years,1
+2,2006,noun chunk,a big development challenge,1
+4,2006,noun chunk,this experience,1
+5,2006,noun chunk,harambee,1
+6,2006,noun chunk,the national motto,1
+7,2006,noun chunk,the climate change process,1
+9,2006,noun chunk,your excellency,1
+10,2006,noun chunk,the vice-president,1
+11,2006,noun chunk,the republic,1
+12,2006,noun chunk,me,1
+15,2006,noun chunk,your election,1
+17,2006,noun chunk,cop,1
+18,2006,noun chunk,cop-mop,1
+19,2006,noun chunk,the special effort,1
+20,2006,noun chunk,your government,1
+22,2006,noun chunk,its kind,1
+23,2006,noun chunk,sub-saharan africa,1
+24,2006,noun chunk,the full support,1
+26,2006,noun chunk,your presidency,1
+27,2006,noun chunk,our gratitude,1
+28,2006,noun chunk,our united nations partners,1
+29,2006,noun chunk,particular unon,1
+30,2006,noun chunk,unep,1
+31,2006,noun chunk,their premises,1
+32,2006,noun chunk,their help,1
+34,2006,noun chunk,minister rona ambrose,1
+35,2006,noun chunk,the cop 11-cop/mop,1
+36,2006,noun chunk,the whole canadian team,1
+37,2006,noun chunk,their able presidency,1
+38,2006,noun chunk,the past year,1
+39,2006,noun chunk,the international climate change process,1
+41,2006,noun chunk,the urgency,1
+46,2006,noun chunk,the same time,1
+47,2006,noun chunk,the construction analogy,1
+48,2006,noun chunk,crucial blocks,1
+49,2006,noun chunk,capacity building,1
+51,2006,noun chunk,developing countries,1
+53,2006,noun chunk,change impacts,1
+54,2006,noun chunk,countries,1
+56,2006,noun chunk,the discussions,1
+57,2006,noun chunk,the convention’s dialogue,1
+58,2006,noun chunk,the ad hoc working group,1
+59,2006,noun chunk,(awg,1
+60,2006,noun chunk,important initiatives,1
+61,2006,noun chunk,the unfccc process,1
+62,2006,noun chunk,the world bank,1
+63,2006,noun chunk,its new framework,1
+64,2006,noun chunk,generating investment,1
+65,2006,noun chunk,clean energy,1
+66,2006,noun chunk,green development,1
+67,2006,noun chunk,a mortgage,1
+68,2006,noun chunk,the construction,1
+69,2006,noun chunk,sir nicolas stern,1
+70,2006,noun chunk,the results,1
+71,2006,noun chunk,the extensive review,1
+72,2006,noun chunk,the economics,1
+73,2006,noun chunk,he,1
+74,2006,noun chunk,his view,1
+75,2006,noun chunk,what,1
+76,2006,noun chunk,the cost,1
+78,2006,noun chunk,time,1
+79,2006,noun chunk,my new role,1
+80,2006,noun chunk,executive secretary,1
+82,2006,noun chunk,one boss,1
+85,2006,noun chunk,my main responsibility,1
+86,2006,noun chunk,the negotiation process,1
+87,2006,noun chunk,parties,1
+89,2006,noun chunk,the kyoto protocol,1
+90,2006,noun chunk,part,1
+91,2006,noun chunk,that responsibility,1
+92,2006,noun chunk,options,1
+94,2006,noun chunk,the enthusiastic and dedicated team,1
+95,2006,noun chunk,the last year,1
+97,2006,noun chunk,the dialogue,1
+98,2006,noun chunk,the convention,1
+99,2006,noun chunk,the awg,1
+100,2006,noun chunk,two regional workshops,1
+101,2006,noun chunk,the latin american and african regions,1
+102,2006,noun chunk,an explosion,1
+103,2006,noun chunk,activities,1
+104,2006,noun chunk,the clean development mechanism,1
+105,2006,noun chunk,cdm,1
+106,2006,noun chunk,the launch,1
+107,2006,noun chunk,the track ii procedure,1
+108,2006,noun chunk,the joint implementation,1
+110,2006,noun chunk,the development,1
+111,2006,noun chunk,the international transaction log,1
+112,2006,noun chunk,the work,1
+113,2006,noun chunk,the compliance committee,1
+114,2006,noun chunk,the area,1
+115,2006,noun chunk,publication,1
+116,2006,noun chunk,the practitioner,1
+117,2006,noun chunk,guide,1
+118,2006,noun chunk,financing,1
+119,2006,noun chunk,the substantive areas,1
+120,2006,noun chunk,the main goals,1
+121,2006,noun chunk,assessment,1
+122,2006,noun chunk,action,1
+123,2006,noun chunk,the cdm,1
+124,2006,noun chunk,more countries,1
+125,2006,noun chunk,joint implementation,1
+126,2006,noun chunk,momentum,1
+127,2006,noun chunk,the talks,1
+128,2006,noun chunk,a very challenging set,1
+129,2006,noun chunk,objectives,1
+131,2006,noun chunk,a lot,1
+132,2006,noun chunk,very hard work,1
+133,2006,noun chunk,everything,1
+134,2006,noun chunk,some logistical challenges,1
+135,2006,noun chunk,these challenges,1
+136,2006,noun chunk,the meeting,1
+137,2006,noun chunk,your secretariat,1
+138,2006,noun chunk,the overall challenge,1
+139,2006,noun chunk,a substantive one,1
+140,2006,noun chunk,us,1
+141,2006,noun chunk,those critical issues,1
+142,2006,noun chunk,’s,1
+143,2006,noun chunk,the world,1
+144,2006,noun chunk,good luck,1
+8,2006,noun,process,6
+7,2006,noun,change,5
+2,2006,noun,challenge,4
+6,2006,noun,climate,4
+25,2006,noun,future,4
+1,2006,noun,development,3
+35,2006,noun,technology,3
+36,2006,noun,transfer,3
+37,2006,noun,countries,3
+38,2006,noun,adaptation,3
+52,2006,noun,role,3
+3,2006,noun,voices,2
+17,2006,noun,presidency,2
+23,2006,noun,team,2
+24,2006,noun,year,2
+27,2006,noun,foundations,2
+28,2006,noun,walls,2
+29,2006,noun,time,2
+30,2006,noun,construction,2
+54,2006,noun,responsibility,2
+57,2006,noun,progress,2
+59,2006,noun,opportunities,2
+60,2006,noun,session,2
+67,2006,noun,start,2
+68,2006,noun,work,2
+85,2006,noun,success,2
+87,2006,noun,challenges,2
+88,2006,noun,meeting,2
+0,2006,noun,years,1
+4,2006,noun,experience,1
+5,2006,noun,motto,1
+9,2006,noun,today,1
+10,2006,noun,election,1
+11,2006,noun,cop,1
+12,2006,noun,effort,1
+13,2006,noun,government,1
+14,2006,noun,kind,1
+15,2006,noun,sub,1
+16,2006,noun,support,1
+18,2006,noun,gratitude,1
+19,2006,noun,partners,1
+20,2006,noun,unep,1
+21,2006,noun,premises,1
+22,2006,noun,help,1
+26,2006,noun,urgency,1
+31,2006,noun,analogy,1
+32,2006,noun,blocks,1
+33,2006,noun,capacity,1
+34,2006,noun,building,1
+39,2006,noun,impacts,1
+40,2006,noun,discussions,1
+41,2006,noun,ad,1
+42,2006,noun,initiatives,1
+43,2006,noun,framework,1
+44,2006,noun,investment,1
+45,2006,noun,energy,1
+46,2006,noun,mortgage,1
+47,2006,noun,results,1
+48,2006,noun,review,1
+49,2006,noun,economics,1
+50,2006,noun,view,1
+51,2006,noun,cost,1
+53,2006,noun,boss,1
+55,2006,noun,negotiation,1
+56,2006,noun,parties,1
+58,2006,noun,options,1
+61,2006,noun,workshops,1
+62,2006,noun,regions,1
+63,2006,noun,explosion,1
+64,2006,noun,activities,1
+65,2006,noun,launch,1
+66,2006,noun,procedure,1
+69,2006,noun,area,1
+70,2006,noun,publication,1
+71,2006,noun,practitioner,1
+72,2006,noun,guide,1
+73,2006,noun,financing,1
+74,2006,noun,areas,1
+75,2006,noun,goals,1
+76,2006,noun,conference,1
+77,2006,noun,assessment,1
+78,2006,noun,action,1
+79,2006,noun,operationalization,1
+80,2006,noun,implementation,1
+81,2006,noun,momentum,1
+82,2006,noun,talks,1
+83,2006,noun,set,1
+84,2006,noun,objectives,1
+86,2006,noun,lot,1
+89,2006,noun,secretariat,1
+90,2006,noun,issues,1
+91,2006,noun,world,1
+92,2006,noun,luck,1
